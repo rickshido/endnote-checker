@@ -1,0 +1,1657 @@
+%0 Journal Article
+%A Alexander, S. M.
+%A Henderson, J.
+%A Shrewsbury, V. A.
+%A Baur, L. A.
+%D 2014
+%T A pre-post pilot study of weight 4 KIDs-a health professional e-learning program for paediatric obesity management
+%B Obesity Research and Clinical Practice
+%V 8
+%P 1
+%! A pre-post pilot study of weight 4 KIDs-a health professional e-learning program for paediatric obesity management
+%@ 1871-403X
+%R org/10.1016/j.orcp.2014.10.003
+%K Australian
+weight
+learning
+health practitioner
+human
+childhood obesity
+New Zealand
+obesity
+society
+lifestyle
+pilot study
+clinical practice
+nutrition
+physical activity
+health
+Wilcoxon signed ranks test
+adolescent
+nurse
+nursing
+sleep
+%X Background: e-learning is a potentially costeffective, flexible method for training health professionals in obesity management. Aims: Pilot the Weight4KIDs health professional e-learning program for paediatric obesity management to assess its uptake, acceptability and impact on participant learning outcomes. Methods: Weight4KIDs is a series of 11 e-learning modules: a core module (basic assessment and initial management) and advanced modules (physical measurements, practical interventions, adolescent obesity, general medical issues, endocrine aspects, orthopaedic issues, nutrition, physical activity, sleep and psychosocial issues). Health professionals from six sites (three non-metropolitan) were invited to complete modules. Participants' knowledge on module topics was assessed at baseline. A post-training survey assessed participants' knowledge, views on module duration/content and intention to improve clinical practice. Results: The core module took 20 min (median) [IQR: 13-37] to complete (n = 130; 71% nurses; 55% non-metropolitan). Participation in advanced modules varied (range: n = 18-70) with median completion times across modules ranging from 2 to 10 min. In all modules there was a statistically significant (P < 0.05; related-samples Wilcoxon Signed Rank Test) improvement in participants' preto post-training knowledge scores. Most participants (range across all modules) indicated module completion: occurred during work time (58-84%), was of appropriate duration (81-100%) and detail (83-96%), and prompted intention to improve clinical practice (74-93%). Conclusions: Weight4KIDs improved participants' knowledge of paediatric obesity management and was highly acceptable to a predominately nursing sample. The results support wider rollout of Weight4KIDs. The poor uptake by medical and allied health staff warrants further investigation.
+%Z L71741222
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71741222
+%U http://dx.doi.org/org/10.1016/j.orcp.2014.10.003
+%+ S.M. Alexander, Children's Hospital at Westmead, Westmead, Australia
+
+
+
+%0 Journal Article
+%A Anderson, J. K.
+%A Page, A. M.
+%A Wendorf, D. M.
+%D 2013
+%T Avatar-assisted case studies
+%B Nurse educator
+%V 38
+%N 3
+%P 106-109
+%! Avatar-assisted case studies
+%@ 1538-9855
+%K article
+computer interface
+education
+educational technology
+human
+methodology
+nursing education
+nursing evaluation research
+nursing methodology research
+nursing student
+pharmacology
+pilot study
+problem based learning
+psychological aspect
+socialization
+teaching
+%X Engaging students in active techniques that promote learning and socialization in nursing may be achieved using Voki technology. The authors discuss a project, and its outcomes, that used avatar-assisted case studies. Instructors looking for a new teaching technology that can be integrated into case studies are encouraged to explore this venue as an active learning technology.
+%Z L369458450
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L369458450
+%+ J.K. Anderson, Viterbo University, 900 Viterbo Drive, La Crosse, WI 54601, USA.
+
+
+
+%0 Journal Article
+%A Anderson, M. P.
+%A Carlisle, S.
+%A Thomson, C.
+%A Ross, C.
+%A Reid, H. J.
+%A Hart, N. D.
+%A Clarke, A.
+%D 2014
+%T Safe moving and handling of patients: an interprofessional approach
+%B Nursing standard (Royal College of Nursing (Great Britain) : 1987)
+%V 28
+%N 46
+%P 37-41
+%! Safe moving and handling of patients: an interprofessional approach
+%@ 2047-9018
+%R 10.7748/ns.28.46.37.e8663
+%K injury
+curriculum
+education
+human
+nursing
+patient lifting
+patient safety
+procedures
+public relations
+risk assessment
+standards
+teaching
+trends
+%X A gap in the medical undergraduate curriculum on safe moving and handling of patients was identified, and a project to enhance moving and handling education for undergraduates in various healthcare disciplines was undertaken. A team of nurses, doctors, physiotherapists and e-learning professionals developed a cross-discipline e-learning resource, piloted with medical and nursing students at Queen's University Belfast. One outcome of the project was the development of a deeper recognition of the common curriculum across healthcare disciplines.
+%Z L608287074
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L608287074
+%U http://dx.doi.org/10.7748/ns.28.46.37.e8663
+
+
+
+%0 Journal Article
+%A Auffrey, M.
+%A Cormier-Daigle, M.
+%A Gagnon-Ouellette, A.
+%D 2012
+%T New Brunswick: development of a Web-based orientation program and enhancing senior nurses' mentoring skills
+%B Nursing leadership (Toronto, Ont.)
+%V 25 Spec No 2012
+%P 71-76
+%! New Brunswick: development of a Web-based orientation program and enhancing senior nurses' mentoring skills
+%@ 1910-622X
+%K article
+Canada
+curriculum
+education
+health care quality
+human
+in service training
+Internet
+job satisfaction
+language
+nursing staff
+organization and management
+personnel management
+teacher
+teaching
+%X This project to help new nurse recruits integrate into the hospital work environment had two components: the development of a new web-based orientation tool in French for new recruits and mentor training for more experienced nurses. The aim of the first component was to redesign delivery of the nursing orientation program by assessing individual needs of new recruits and developing "just in time" information sessions with online access and e-learning modules. The second component aimed to develop a voluntary mentorship training program for senior nurses that offered training on the role and responsibility of mentors. A total of 30 orientation modules were created as resources that could be adapted to the needs of each nursing unit and accessed online. Sixty nurse recruits used the programs. A mentor training program was developed, and 28 nurses were trained as mentors. The mentorship literature and guides, produced in French, will be a valuable resource for francophone nurses across Canada.
+%Z L365332230
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L365332230
+%+ M. Auffrey, Professional Nursing Practice, Centre hospitalier universitaire Dr-Georges-L.-Dumont, Moncton, NB.
+
+
+
+%0 Journal Article
+%A Bacis, G.
+%A Manfrini, R.
+%A Dri, P.
+%A Addis, A.
+%A Farina, M. L.
+%D 2009
+%T E-learning in clinical toxicology for health professionals: The experience of bergamo poison center in Italy
+%B Clinical Toxicology
+%V 47
+%N 7
+%P 752-753
+%! E-learning in clinical toxicology for health professionals: The experience of bergamo poison center in Italy
+%@ 1556-3650
+%R 10.1080/15563650903076924
+%K biguanide
+antidepressant agent
+Italy
+learning
+toxicology
+health practitioner
+poison center
+vignette
+pregnancy
+lactation
+lactic acidosis
+carbon monoxide intoxication
+ingestion
+decision making
+Europe
+continuing education
+evidence based practice
+multiple choice test
+questionnaire
+North America
+registration
+physician
+nurse
+satisfaction
+mushroom
+clinical practice
+%X Introduction: The clinical vignette is a well established and widely used educational approach for health professionals.1 In Italy, the National Drug Agency (AIFA) developed ECCE (Evidence Centered Continuing Education, http://www.aifa.progettoecce.it), a distancelearning tool founded on evidence-based reviews, clinical vignettes, and related multiple-choice questionnaires (more than 300 topics about daily clinical practice). At present, cumulative registrations amount to 150,614 health professionals (doctors, nurses) who performed 5,012,034 courses. A total of 4,709,666 CME credits has been awarded. The aimof our study was to evaluate effectiveness and satisfaction of toxicological clinical cases and to compare them with those in other medical fields. Methods: Five clinical reviews and eight vignettes were written on mushroom poisonings, antidepressant treatments in pregnancy and lactation, biguanide lactic acidosis, carbon monoxide poisoning and corrosives ingestion. Results: Health professionals faced 52,999 courses in clinical toxicology and performed significantly better than in the other fields (first attempt success rate: 77,9% vs 69,0%). Health professionals expressed a positive judgement about toxicological arguments, particularly in terms of relevance of the contents, educational quality, and effectiveness. Conclusions: ECCE project is one the most widely used learning project worldwide. The results show how high are the learning needs and expectations in medical toxicology and suggest the opportunity for disseminating e-learning projects in Europe and North America. E-learning results. Toxicological vignettes (%) All remaining specialties (%) Difference (%) RELEVANCE mild/low 27.0 34.5 -7.5 moderate/good 46.9 44.2 +2.7 high 22.8 16.2 +6.6 EDUCATIONAL QUALITY mild/low 26.0 33.0 -7.0 moderate/good 51.3 48.9 +2.4 high 20.4 14.3 +6.1 EFFECTIVENESS mild/low 25.1 31.7 -6.6 moderate/good 49.9 46.7 +3.2 high 19.4 13.7 +5.7.
+%Z L70035062
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70035062
+%U http://dx.doi.org/10.1080/15563650903076924
+%+ G. Bacis, Bergamo Poison Control Center, Ospedali Riuniti, Bergamo, Italy
+
+
+
+%0 Journal Article
+%A Bednarek, M.
+%A Nowinski, A.
+%A Rayska, T.
+%A Pobozy, W.
+%A Gebala-Jarocka, B.
+%A Zaluska, M.
+%A Kumanska, M.
+%A Augustyniak, G.
+%A Gorecka, D.
+%D 2015
+%T Elearning feedback method to improve spirometry quality and interpretation in primary care A randomised intervention study
+%B European Respiratory Journal
+%V 46
+%! Elearning feedback method to improve spirometry quality and interpretation in primary care A randomised intervention study
+%@ 0903-1936
+%R 10.1183/13993003.congress2015.PA1813
+%K spirometry
+primary medical care
+intervention study
+European
+society
+feedback system
+human
+nurse
+general practitioner
+reproducibility
+teaching
+learning
+lung function
+spirometer
+physician
+personnel
+recording
+%X Objective: The quality of spirometry in primary care is far from optimal, usually 60% of recordings fulfil the ATS/ERS criteria for good quality measurements. Traditional personnel trainings need frequent repeating to improve the results. We proposed a website platform to provide quality and interpretation feedback training for family doctors and practice nurses. Methods: Six primary care doctors and nurses with no previous experience in spirometry were invited to participate. They were equipped with NLHEP feature spirometer and held an 8 hour training including the theory and hands-on-practice. Each team sent 10 spirometries of any indication weekly for reference pulmonary function testing (PFT) centre via website. Three of the doctor/nurse teams were randomly chosen for feedback learning, the remaining three were controls. Feedback teaching was provided by PFT centre commenting on performed measurements with advices how to improve. Results: During 12 months of project duration 3215 spirometric tests including 9656 flowvolume loops were evaluated. Conclusions: The main technical fault in spirometry performed in primary care was the lack of reproducibility of FEV1 and FVC. Elearning feedback intervention was successful to gain better quality by 10%. (Table Presented).
+%Z L72105639
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L72105639
+%U http://dx.doi.org/10.1183/13993003.congress2015.PA1813
+%> http://erj.ersjournals.com/content/46/suppl_59/PA1813
+%+ M. Bednarek
+
+
+
+%0 Journal Article
+%A Bennett, B.
+%A Ilott, I.
+%A Pownall, S.
+%A Gerrish, K.
+%A Jones, A.
+%D 2011
+%T Enhancing dysphagia management: Facilitated e-learning works and offers value for money
+%B International Journal of Stroke
+%V 6
+%P 8
+%! Enhancing dysphagia management: Facilitated e-learning works and offers value for money
+%@ 1747-4930
+%R 10.1111/j.1747-4949.2011.00684.x
+%K dysphagia
+learning
+cerebrovascular accident
+United Kingdom
+money
+human
+skill
+liquid
+work
+quality of life
+teaching hospital
+workplace
+planning
+action research
+ward
+follow up
+questionnaire
+registered nurse
+health care
+Wilcoxon signed ranks test
+mouth hygiene
+physician
+competence
+rehabilitation
+%X Introduction: Dysphagia is a common, potentially life-threatening problem that compromises quality of life. A collaborative project was set up between the CLAHRC for South Yorkshire and the Stroke Service at Sheffield Teaching Hospitals to tackle identified inconsistencies in the management of dysphagia. The aim was to enhance staff knowledge and skills by piloting an innovative approach to workplace-based e-learning. Each session comprised a needs analysis, e-learning programmes, practical skills about modifying fluids, and action planning to transfer learning into practice. Method: Twelve months (March 2010-February 2011) action research on a stroke rehabilitation ward, evaluating the training effect and resource use cost of the facilitated e-learning. The methods were a scoping review, baseline and follow-up observations of dysphagia management (16 and 18 hours respectively), four bespoke questionnaires with attitude (Colodny 2001) and knowledge scales; and the cost per working hour for the stroke service. Results: Only five of 32 participants (22 registered nurses, 10 health care assistants) reported attending any previous dysphagia training. The training effect was evident in statistically significant differences in attitudes and knowledge held by the same people, at two time points, using the Wilcoxon signed rank test. The most common changes in practice related to medicines management, thickening fluids and oral hygiene. The resource use cost was estimated at £2,688 for 108 hours training. Conclusion: All participants achieved Assistant Dysphagia Practitioner competence level. Key success factors were designating dysphagia as mandatory, job specific training and combining expert facilitation with relevant e-learning programmes. These factors are easily replicable.
+%Z L70605664
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70605664
+%U http://dx.doi.org/10.1111/j.1747-4949.2011.00684.x
+%+ B. Bennett, Faculty of Health and Wellbeing, Sheffield Hallam University, United Kingdom
+
+
+
+%0 Journal Article
+%A Betts, H.
+%A Burgess, J.
+%D 2006
+%T A preliminary evaluation of the first e-learning nurse prescribing course in England
+%B Studies in health technology and informatics
+%V 122
+%P 153-157
+%! A preliminary evaluation of the first e-learning nurse prescribing course in England
+%@ 0926-9630
+%K article
+evaluation study
+Internet
+nursing education
+prescription
+questionnaire
+United Kingdom
+%X Open Learning has been offered by the University of Winchester since 1991 in a partnership with the publishing company Emap Healthcare. A new on-line module for Independent, Extended and Supplementary Nurse Prescribing was developed by Emap Healthcare to meet a Government initiative to develop the role of nurses. The on-line module was created because of the wide spread national requirement, the need to keep the learning material contemporary and to revise it easily as required. Fourteen students completed the course and this paper reports the preliminary evaluation of the first cohort. Two questionnaires were analysed quantitatively and qualitatively and both the course management and the e-learning materials evaluations demonstrate the success of this first cohort. Various minor changes to the course management have subsequently been implemented following this analysis.
+%Z L44993647
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L44993647
+%+ H. Betts, Faculty of Social Sciences, The University of Winchester, West Hill, Winchester, SO22 4NR, England.
+
+
+
+%0 Journal Article
+%A Beyea, S. C.
+%A von Reyn, L. K.
+%A Slattery, M. J.
+%D 2007
+%T A nurse residency program for competency development using human patient simulation
+%B Journal for nurses in staff development : JNSD : official journal of the National Nursing Staff Development Organization
+%V 23
+%N 2
+%P 77-82
+%! A nurse residency program for competency development using human patient simulation
+%@ 1098-7886
+%R 10.1097/01.nnd.0000266613.16434.05
+%K article
+health care quality
+human
+nursing education
+teaching
+United States
+%X A new graduate registered nurse residency program integrating human patient simulation was developed at an academic medical center. The program focused on orientation through skill-based learning, critical thinking, human factors engineering, and patient safety using simulated experiences for a wide variety of high-risk, low-frequency, as well as high-frequency, commonly occurring clinical events and situations. Structured evaluations demonstrated that simulation serves as a highly effective strategy for developing competency, confidence, and readiness for entry-into-practice. It strengthened assessment and clinical skills, and enhanced nurse residents' ability to apply critical thinking to simulated patient scenarios. The time and cost of orientation decreased while recent graduate nurse satisfaction with orientation was high.
+%Z L47004798
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L47004798
+%U http://dx.doi.org/10.1097/01.NND.0000266613.16434.05
+%+ S.C. Beyea, Nursing Research, Dartmouth-Hitchcock Medical Center, Lebanon, New Hampshire 03756, USA.
+
+
+
+%0 Journal Article
+%A Blum, C. A.
+%A Borglund, S.
+%A Parcells, D.
+%D 2010
+%T High-fidelity nursing simulation: impact on student self-confidence and clinical competence
+%B International journal of nursing education scholarship
+%V 7
+%N 1
+%P Article 18
+%! High-fidelity nursing simulation: impact on student self-confidence and clinical competence
+%@ 1548-923X
+%K adult
+article
+audiovisual equipment
+clinical competence
+clinical trial
+computer interface
+controlled clinical trial
+controlled study
+female
+health care quality
+human
+male
+methodology
+nurse patient relationship
+nursing education
+self concept
+United States
+%X Development of safe nursing practice in entry-level nursing students requires special consideration from nurse educators. The paucity of data supporting high-fidelity patient simulation effectiveness in this population informed the development of a quasi-experimental, quantitative study of the relationship between simulation and student self-confidence and clinical competence. Moreover, the study reports a novel approach to measuring self-confidence and competence of entry-level nursing students. Fifty-three baccalaureate students, enrolled in either a traditional or simulation-enhanced laboratory, participated during their first clinical rotation. Student self-confidence and faculty perception of student clinical competence were measured using selected scale items of the Lasater Clinical Judgment Rubric. The results indicated an overall improvement in self-confidence and competence across the semester, however, simulation did not significantly enhance these caring attributes. The study highlights the need for further examination of teaching strategies developed to promote the transfer of self-confidence and competence from the laboratory to the clinical setting.
+%Z L359807370
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L359807370
+%+ C.A. Blum, Florida Atlantic University, USA.
+
+
+
+%0 Journal Article
+%A Bremner, M. N.
+%A Aduddell, K.
+%A Bennett, D. N.
+%A VanGeest, J. B.
+%D 2006
+%T The use of human patient simulators: best practices with novice nursing students
+%B Nurse educator
+%V 31
+%N 4
+%P 170-174
+%! The use of human patient simulators: best practices with novice nursing students
+%@ 0363-3624
+%K article
+audiovisual equipment
+clinical competence
+cooperation
+evaluation study
+health personnel attitude
+health service
+human
+medical error
+methodology
+nursing assessment
+nursing education
+nursing methodology research
+nursing student
+psychological aspect
+psychology
+public relations
+qualitative research
+quality control
+questionnaire
+role playing
+safety
+self concept
+standard
+%X Only recently have nursing educators begun to consider the enormous implications of using high-fidelity human patient simulation in general nursing education. As a first step in exploring the potential of this new technology with novice nursing students, faculty conducted a quantitative and qualitative analysis of students' reactions to a simulation. In addition, from the analysis and the review of literature, the faculty identified specific best practices for using this educational methodology with novice nursing students.
+%Z L44302770
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L44302770
+%+ M.N. Bremner, School of Nursing, Kennesaw State University, Kennesaw, GA 30152, USA.
+
+
+
+%0 Journal Article
+%A Bulle, B.
+%A Evans, K.
+%A Farrell, T.
+%A Gentile, S.
+%A Ginis, T.
+%A Howat, W.
+%A Moors, D.
+%D 2014
+%T Improving skills to manage postpartum haemorrhage: A collaboration between Ambulance Victoria, remote area nurses and maternity services education program
+%B Australasian Journal of Paramedicine
+%V 11
+%N 1
+%P 4
+%! Improving skills to manage postpartum haemorrhage: A collaboration between Ambulance Victoria, remote area nurses and maternity services education program
+%@ 2202-7270
+%K skill
+postpartum hemorrhage
+ambulance
+nurse
+human
+education program
+Australia and New Zealand
+learning
+statistics
+maternal mortality
+morbidity
+nursing
+female
+teaching
+practice guideline
+emergency care
+emergency
+Australia
+self concept
+simulation
+program development
+%X Introduction Postpartum haemorrhage (PPH) is a major cause of maternal mortality and morbidity worldwide. The current rate of PPH in Victoria, Australia is 10.7%. The Maternity Services Education Program (MSEP) has facilitated a maternity emergency module in the Remote Area Nurse (RAN) Emergency Care Update Program for the past seven years. A core component of this module includes the immediate management for postpartum haemorrhage based on RAN and Ambulance Victoria clinical practice guidelines. Method Using patient simulation, clinicians demonstrated the immediate clinical management, stabilisation and transfer for a woman who experienced a postpartum haemorrhage in a bush nursing facility. The simulated scenario was observed in real time by RANs and Ambulance paramedics attending the update, learning from the scenario was further reinforced with a practical workstation. Results Analysis will be conducted using descriptive statistics and include a self rating of the usefulness of the simulated scenario to support RAN and Ambulance Victoria guidelines for the management of PPH. The surveys will be completed anonymously. Conclusion Survey analysis will identify components of the simulation that best meet individual learning required to support immediate management of PPH for RANs and Ambulance paramedics. Outcome results will inform further program development and reinforce the importance of this collaborative initiative.
+%Z L75003867
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L75003867
+
+
+
+%0 Journal Article
+%A Burbach, B.
+%A Barnason, S.
+%A Thompson, S. A.
+%D 2015
+%T Using "think aloud" to capture clinical reasoning during patient simulation
+%B International journal of nursing education scholarship
+%V 12
+%! Using "think aloud" to capture clinical reasoning during patient simulation
+%@ 1548-923X
+%R 10.1515/ijnes-2014-0044
+%K clinical competence
+education
+female
+human
+male
+nurse patient relationship
+nursing assessment
+nursing education
+nursing methodology research
+problem based learning
+procedures
+teaching
+thinking
+United States
+%X Think Aloud (TA), a strategy in which subjects are instructed to verbalize thoughts as they occur while completing an assigned task, was integrated into a study of clinical reasoning during high fidelity patient simulation by baccalaureate nursing students. TA methods in nursing education research with patient simulation have not previously been reported. Concurrent TA (verbalization of thoughts in short-term memory) and retrospective TA (reflective thoughts verbalized during an immediate post-simulation interview) methods facilitated the collection of rich and meaningful data. Students demonstrated distinct patterns in verbalization during concurrent TA, including public and private thoughts, narration of care, and the use of the pause to facilitate clinical reasoning. Retrospective TA data provided rich descriptions of reflection-on-action. TA provides a rich source of data regarding clinical reasoning as experienced by the baccalaureate nursing student during high fidelity patient simulation.
+%Z L607506114
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L607506114
+%U http://dx.doi.org/10.1515/ijnes-2014-0044
+
+
+
+%0 Journal Article
+%A Carbery, C.
+%D 2013
+%T 'Predict, assess, treat': Developing clinical skills in recognising and responding to clinical deterioration: Outcomes of a scenario based clinical skills programme for clinical staff in a tertiary referral acute hospital setting
+%B Intensive Care Medicine
+%V 39
+%P S352
+%! 'Predict, assess, treat': Developing clinical skills in recognising and responding to clinical deterioration: Outcomes of a scenario based clinical skills programme for clinical staff in a tertiary referral acute hospital setting
+%@ 0342-4642
+%R 10.1007/s00134-013-3095-5
+%K skill
+society
+hospital
+intensive care
+deterioration
+human
+patient
+safety
+education
+heart arrest
+patient care
+nurse
+health
+nursing
+hospital patient
+patient assessment
+health service
+clinical education
+needs assessment
+risk
+parent
+teaching
+diseases
+critical illness
+%X Introduction. Ensuring that patients who deteriorate in hospital receive appropriate and timely care is a key safety and quality challenge. Early recognition of clinical deterioration, followed by prompt and effective action, can prevent critical illness at an early stage. This prevents unnecessary cardiac arrest and improves the quality of care for those patients who may subsequently require admission to a critical care area. In September 2012, the National Safety and Quality Health Service Standards were endorsed to provide a nationally consistent and uniform set of measures of safety and quality, with the criteria to ensure a patient's deterioration is recognised promptly and appropriate action is taken. OBJECTIVES. The Critical Care Liaison team embraced the NSQHS recommendations by developing the “Predict, Assess, Treat” clinical skills programme, utilising the common 'ABCDE' approach and interactive clinical scenarios, based on MET calls. The aim is to improve systems and practices for anticipating, recognising and responding to clinical deterioration. Clinical deterioration can happen at any point in a patient's illness or care process. Our programme is aimed at encouraging nurses at the bedside to proactively review their patients every day. This hands-on approach enhances the nurse's ability to recognise the patient at risk of deteriorating and implement simple, prompt actions in response. METHODS. Needs assessment survey was conducted to determine education and clinical skills gap between current and best practice. The format of programme is based on recognised principles of clinical teaching and uses a structured system of patient assessment and management to assist staff in patient care even when faced with unfamiliar clinical situations. Nursing, medical and allied health staff were invited to attend a study day following a structured format of lectures, skills stations and deteriorating patient simulation scenarios. Evaluation survey was conducted post education programme to appraise effectiveness. RESULTS. Over 350 staff have participated in the programme with a demonstrated improvement in recognition of patients deteriorating and improved response to alerting parent team and Liaison team for review of patient. Survey of staff has shown an increase in confidence to assess and predict clinical deterioration. Clinical skills education is associated with an increase in Liaison referrals, MET calls and a decrease in cardiac arrests. CONCLUSIONS. The 'Predict, Assess, Treat' clinical skills programme with interactive clinical scenarios is an excellent strategy for updating and promoting skills in early recognition and response to clinical deterioration, with resultant improvement in safety and quality of patient care.
+%Z L71446430
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71446430
+%U http://dx.doi.org/10.1007/s00134-013-3095-5
+%+ C. Carbery, St Vincent's Hospital Melbourne, Intensive Care Unit, Melbourne, Australia
+
+
+
+%0 Journal Article
+%A Clark, S.
+%A Piercey, C.
+%D 2012
+%T E-learning provides nursing education in remote areas
+%B Australian nursing journal (July 1993)
+%V 20
+%N 4
+%P 49
+%! E-learning provides nursing education in remote areas
+%@ 1320-3185
+%K article
+Australia
+human
+Internet
+methodology
+nursing education
+%Z L366367031
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L366367031
+%+ S. Clark, School of Nursing, University of Notre Dame Broome Campus.
+
+
+
+%0 Journal Article
+%A Farra, S.
+%A Nicely, S.
+%A Hodgson, E.
+%D 2014
+%T Creation of a virtual triage exercise: an interprofessional communication strategy
+%B Computers, informatics, nursing : CIN
+%V 32
+%N 10
+%P 492-496
+%! Creation of a virtual triage exercise: an interprofessional communication strategy
+%@ 1538-9774
+%R 10.1097/cin.0000000000000090
+%K adult
+case report
+computer interface
+computer simulation
+cooperation
+disaster planning
+emergency health service
+female
+human
+interpersonal communication
+male
+nursing student
+pilot study
+procedures
+psychology
+public relations
+questionnaire
+simulation training
+%X Virtual reality simulation as a teaching method is gaining increased acceptance and presence in institutions of higher learning. This study presents an innovative strategy using the interdisciplinary development of a nonimmersive virtual reality simulation to facilitate interprofessional communication. The purpose of this pilot project was to describe nursing students' attitudes related to interprofessional communication following the collaborative development of a disaster triage virtual reality simulation. Collaboration between and among professionals is integral in enhancing patient outcomes. In addition, ineffective communication is linked to detrimental patient outcomes, especially during times of high stress. Poor communication has been identified as the root cause of the majority of negative sentinel events occurring in hospitals. The simulation-development teaching model proved useful in fostering interprofessional communication and mastering course content. Mean scores on the KidSIM Attitudes Towards Teamwork in Training Undergoing Designed Educational Simulation survey demonstrated that nursing students, after simulation experience,had agreement to strong agreement inall areas surveyed including interprofessional education, communication, roles and responsibilities of team members, and situational awareness. The findings indicate that students value interprofessional teamwork and the opportunity to work with other disciplines.
+%Z L613597123
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L613597123
+%U http://dx.doi.org/10.1097/CIN.0000000000000090
+
+
+
+%0 Conference Proceedings
+%A Franchi, M.
+%A Giorgi, I.
+%A Rognoni, C.
+%A Capodaglio, E.
+%A Bazzini, G.
+%A Broughton, C.
+%A Mazzoleni, M. C.
+%T E-learning for nurse continuous education
+%V 150
+%6 (Franchi M., maria.franchi@hotmail.it; Giorgi I.; Capodaglio E.; Bazzini G.; Broughton C.; Mazzoleni M.C.) Department of Psychology, S. Maugeri Foundation, IRCCS, 27100 Pavia, Italy
+(Rognoni C.) Department of Computer Engineering and Systems Science, University of Pavia, Italy
+%P 918
+%8 2009
+%! E-learning for nurse continuous education
+%@ 0926-9630
+1879-8365
+9781607500445
+%R 10.3233/978-1-60750-044-5-918
+%K adult
+conference paper
+education
+human
+Internet
+methodology
+middle aged
+nursing education
+nursing staff
+%X The paper compares the effectiveness of a traditional residential and an e-learning course for nurses, and suggests ways to identify the psychological characteristics which might lead people to prefer e-learning education. © 2009 European Federation for Medical Informatics. © 2009 European Federation for Medical Informatics.
+%Z L355807318
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L355807318
+%U http://dx.doi.org/10.3233/978-1-60750-044-5-918
+%+ M. Franchi, Department of Psychology, S. Maugeri Foundation, IRCCS, 27100 Pavia, Italy
+
+
+
+%0 Journal Article
+%A Goldsworthy, S.
+%D 2012
+%T High fidelity simulation in critical care: A Canadian perspective
+%B Collegian
+%V 19
+%N 3
+%P 139-143
+%! High fidelity simulation in critical care: A Canadian perspective
+%@ 1322-7696
+%R 10.1016/j.colegn.2012.06.003
+%K article
+audiovisual equipment
+Canada
+clinical competence
+health care quality
+human
+intensive care
+methodology
+nursing education
+teaching
+%X The use of high fidelity human simulation has exploded into the nursing education context over the last decade. In Ontario, Canada an innovative Critical Care e-learning program was established in 2007 to create accessible critical care education for nurses across Ontario and Canada. The program has a three-pronged approach including online, simulation and practicum components. The purpose of this paper is to present lessons learned during the last five years of development and growth of this program. The paper will focus on the use of simulation to build confidence and prepare registered nurses for critical care nursing practice. In addition, subsequent development of a network of ten simulation partners that deliver critical care simulation will be discussed. High fidelity simulation delivery in the critical care context will be explored and the use of summative or 'high stakes' simulation competency evaluation will be elaborated on. © 2012 Royal College of Nursing, Australia.
+%Z L52096696
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L52096696
+%U http://dx.doi.org/10.1016/j.colegn.2012.06.003
+%+ S. Goldsworthy, Durham College, University of Ontario, Institute of Technology, Oshawa, ON, Canada
+
+
+
+%0 Journal Article
+%A Gray, A.
+%D 2010
+%T Hospital based training
+%B Vox Sanguinis
+%V 99
+%P 80
+%! Hospital based training
+%@ 0042-9007
+%R 10.1111/j.1423-0410.2010.01343-1.x
+%K hospital
+blood transfusion
+society
+transfusion
+United Kingdom
+physician
+education
+manager
+rehabilitation
+teaching
+patient
+health service
+risk
+self-directed learning
+blood component
+good manufacturing practice
+blood bank
+advisory committee
+nurse
+phlebotomist
+worker
+interpersonal communication
+mouse
+monitoring
+government
+public health service
+continuing education
+total quality management
+%X In 1999 the Scottish Government Health Department (SGHD) published a health service circular recommending that all staff involved in the transfusion process were supported by training and education (MEL1999(9)). A further health service circular launching the NHS Scotland (NHSS) Better Blood Transfusion (BBT) Programme in 2003 reinforced this recommendation (NHSHDL(2003)19)). To assist NHS Scotland hospitals implement the recommendations, the Scottish National Blood Transfusion Service (SNBTS) developed the Learnbloodtransfusion (LBT) continuing education programme. The aim of the LBT education programme is to assist all staff involved in the transfusion process provide high standards of care to patients, improve transfusion practice and minimize risk to patients and practitioners. The LBT programme is delivered using a variety of teaching methods including: face-to-face teaching programmes, written support and self-directed learning materials, and an interactive eLearning resource, www.learnbloodtransfusion.org.uk. The NHS Quality Improvement Scotland Clinical Transfusion Standards recommend the Module 1: Safe Transfusion Practice as mandatory for all staff involved in the transfusion process in Scotland (www.nhshealthquality.org). The Learnbloodtransfusion programme has been developed by UK subject experts and currently includes the following modules: 1. Module 1: Safe Transfusion Practice 2. Module 2: Blood Component Use 3. Module 3: Appropriate Transfusion Practice 4. Good Manufacturing Practice for Hospital Blood Banks The Scottish Clinical Transfusion Advisory Committee has recommended that all staff involved in blood transfusion revalidate their training every two years. In 2009/10 over 23,000 of eligible NHSS staff, (e.g. 34% of doctors, 62% of nurses, 67% of phlebotomists, 46% of porters and clinical support workers) held a valid training certificate for Module 1: Safe Transfusion Practice; approximately 60% of the target indicator for all staff in NHS Scotland hospitals. A number of initiatives have been used to maximise user uptake in the hospitals including local training agreements owned by the hospital clinical managers, regular training reports disseminated to all NHS Hospital Transfusion Committees and clinical managers by the BBT Transfusion Practitioners (TPs) and review of individual training certificates as part of the practitioner's annual performance review meeting. In 2010, we have added new functionality to the eLearning Learner Management System (learnPro NHS™) that allows the BTT Transfusion Practitioners and clinical managers to identify staff with valid, elapsed (a defined grace period in which staff can renew their training), or expired training records, targeting learners via automated emails advising them their training is about to expire. The BBT programme has also committed to a promotional programme in 2010, developing a communication strategy targeting the promotion and revalidation of blood transfusion education. Promotional materials included individual messaging e.g. staff pay slips, revalidation memos, dissemination of promotional items (pens, pencils, mouse mats) and centrally produced posters and leaflets promoting the LBT web address and key message; staff must have current, valid training to participate in the transfusion process. Each hsopital is encouraged to use the promotional materials at promotional and regular training events. The NHSS Better Blood Transfusion remains committed to supporting all staff in Scotland achieve training appropriate to their role and to monitoring effectiveness.
+%Z L70236943
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70236943
+%U http://dx.doi.org/10.1111/j.1423-0410.2010.01343-1.x
+%+ A. Gray, Scottish National Blood Transfsuion Service, Edinburgh, United Kingdom
+
+
+
+%0 Journal Article
+%A Hallam, R.
+%A Smith, A.
+%D 2016
+%T The implementation of an E-Journal Club on the haematology and BMT unit in Bristol
+%B Bone Marrow Transplantation
+%V 51
+%P S525-S526
+%! The implementation of an E-Journal Club on the haematology and BMT unit in Bristol
+%@ 0268-3369
+%R 10.1038/bmt.2016.51
+%K European
+society
+blood
+bone marrow
+transplantation
+hematology
+human
+nurse
+education
+ward
+patient
+staff nurse
+health care
+learning
+nursing
+feedback system
+knowledge base
+nursing competence
+non profit organization
+patient care
+hospital patient
+skill
+medical specialist
+university hospital
+%X Introduction: In 2014 the BMT and haematology units at the University Hospitals NHS Foundation Trust combined and a new purpose built ward was created to care for all haematology and transplant patients. It was identified at a very early point in the amalgamation that the BMT nurses and the haematology nurses each had their own individual nursing skills and knowledge base. The challenge would be to ensure all the nurses on the unit had appropriate access to education so that the BMT nurses were competent and felt safe and skilled in caring for haematology patients and the haematology nurses were appropriately trained to care for transplant patients. The Haematology Clinical Nurses Specialists and Education Sister decided that a Journal club, alongside formal education sessions, would be an effective learning tool to assist in providing up to date, quality education to a large group of nurses with a variety of clinical skills and experience. Method: The literature recognises that a journal club facilitates discussion and evaluation of new research and considers the application to practice and improvement in patient care. The advantages of using a journal club are that members of the group can update knowledge, learn to evaluate the strength of the evidence, promote implementation of new knowledge into practice and improve patient outcomes. With over registered 50 nurses to include within the education sessions, a formal meeting would not be practical and so the idea of an E- Journal Club was formulated. The essence of the E- Journal club was that relevant journal articles would be emailed to all members of the group and discussions on the articles would be held via an on line platform as well as at weekly, informal ward based sessions. Results: The initial E- Journal club was for all staff nurses on the ward. A review of the programme using staff feedback was undertaken 4 months later and the E-Journal club was reported to be a useful, interactive and educational resource. The feedback also identified that the health care assistants were also keen to be involved in the E- Journal club and had their own educational needs. At this point the E- Journal club was extended to include all members of staff on the haematology and transplant unit. Conclusion: The E-Journal club has shown to be an effective and useful educational tool for informing, updating and facilitating learning for staff nurses and health care assistants on a busy haematology and BMT unit. The E- Journal club has prompted discussion about nursing change, reacted in a timely manner to ward nursing issues and been a wellreceived resource to deliver effective and appropriate education.
+%Z L72238306
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L72238306
+%U http://dx.doi.org/10.1038/bmt.2016.51
+%+ A. Smith, Haematology, Bristol Haematology and Oncology Centre, Bristol, United Kingdom
+
+
+
+%0 Journal Article
+%A Hayes, E. J.
+%A Coffman, R. V.
+%A Serio-Melvin, M. L.
+%A Valdez-Delgado, K. K.
+%A Mann-Salinas, E. A.
+%D 2014
+%T High fidelity human patient simulation: Bridging burn care education with modern technology
+%B Journal of Burn Care and Research
+%V 35
+%P S92
+%! High fidelity human patient simulation: Bridging burn care education with modern technology
+%@ 1559-047X
+%R 10.1097/01.bcr.0000445189.61189.9d
+%K human
+technology
+education
+teaching
+simulation
+learning
+personnel
+satisfaction
+health care
+X ray film
+role playing
+laboratory
+student satisfaction
+questionnaire
+nursing
+model
+learning environment
+Likert scale
+standardization
+communication skill
+%X Introduction: Meeting the learner's needs during an Advanced Burn Life Support (ABLS) Provider Course directs healthcare institutions to embrace new learning environments, clinical models and educational practices that replicate real-life clinical situations. We enhanced current ABLS simulated scenarios to include high fidelity human patient simulation (HFHPS) and adjuncts (e.g. radiographs, laboratory reports) which were utilized by learners, ABLS faculty and simulation center personnel. We assessed if these enhancements improved the learners understanding of the primary and secondary burn survey, improved participant's satisfaction and self-confidence in learning and promoted realism in the simulation. Methods: An evidenced-based (EB) National League for Nursing (NLN) simulation design template was used to augment the ABLS simulation syllabus. The designed template was vetted through the simulation center personnel and the faculty. To measure effectiveness of these changes the NLN Educational Practices Questionnaire (EPQ), the Simulation Design Scale (SDS), and the Student Satisfaction and Self- Confidence in Learning Scale (SSSCL) were utilized. A Likert scale was used to measure each survey question, 1=lowest and 5= highest score. Learner experience was evaluated upon ABLS course completion. Results: From Oct 2012 - Aug 2013, The NLN simulation was utilized by 71 learners who rotated thru 5 ABLS simulations during 3 courses, (n=355 experiences). Participation rate for all 3 surveys was 83% (59/71). SSSCL's overall satisfaction with learning and self confidence was 4.4±0.7 and 4.5±0.7, respectively. The EPQ survey showed active participation rating of 4.5±0.7; with an importance rating of 4.4±0.8. The SDS rating for scenario and simulation realism was 4.6±0.6 and 4.5±0.6, respectively. Overall importance of realism was rated 4.4±0.8. Standardization of ABLS content through HFHPS allowed for greater consistency among faculty. Conclusions: Use of HFHPS based on an EB simulation design augmented perceived learner satisfaction/competence, engaged active participation, and strengthened the realism of our ABLS Course. HFHPS scenarios allowed the participants to role-play, delegate tasks, share information and increase communication skills. Consistency in HFHPS scenarios allowed for repetition until content was mastered.
+%Z L71408254
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71408254
+%U http://dx.doi.org/10.1097/01.bcr.0000445189.61189.9d
+%+ E.J. Hayes
+
+
+
+%0 Journal Article
+%A Hickey, K. T.
+%A Johnson, M. P.
+%A Biviano, A.
+%A Aboelela, S.
+%A Thomas, T.
+%A Bakken, S.
+%A Garan, H.
+%A Zimmerman, J. L.
+%A Whang, W.
+%D 2011
+%T Cardiac e-learning: Development of a web-based implantable cardioverter defibrillator educational system
+%B Telemedicine journal and e-health : the official journal of the American Telemedicine Association
+%V 17
+%N 3
+%P 196-200
+%! Cardiac e-learning: Development of a web-based implantable cardioverter defibrillator educational system
+%@ 1556-3669
+%K article
+computer interface
+continuing education
+defibrillator
+education
+health care personnel
+human
+Internet
+methodology
+%X The objective of this study was to design a Web-based implantable cardioverter defibrillator (ICD) module that would allow greater access to learning which could occur at an individual's convenience outside the fast-paced clinical environment. A Web-based ICD software educational program was developed to provide general knowledge of the function of the ICD and the interpretation of the stored electrocardiograms. This learning tool could be accessed at any time via the Columbia University Internet server, using a unique, password protected login. A series of basic and advanced ICD terms were presented using actual ICD screenshots and videos that simulated scenarios the practitioner would most commonly encounter in the fast-paced clinical setting. To determine the usefulness of the site and improve the module, practitioners were asked to complete a brief (less than 5min) online survey at the end of the module. Twenty-six practitioners have logged into our Web site: 20 nurses/nurse practitioners, four cardiac fellows, and two other practitioners. The majority of respondents rated the program as easy to use and useful. The success of this module has led to it becoming part of the training for student nurse practitioners before a clinical electrophysiology rotation, and the module is accessed by our cardiac entry level fellows before a rotation in the intensive care unit or electrophysiology service. Remote electronic arrhythmia learning is a successful example of the melding of technology and education to enhance clinical learning.
+%Z L362338346
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L362338346
+%+ K.T. Hickey, School of Nursing, Columbia University, New York, New York 10032, USA.
+
+
+
+%0 Journal Article
+%A Hodge, A.
+%A Varndell, W.
+%D 2012
+%T Improving access to education in the emergency department with e-learning
+%B EMA - Emergency Medicine Australasia
+%V 24
+%P 17
+%! Improving access to education in the emergency department with e-learning
+%@ 1742-6731
+%R 10.1111/j.1742-6723.2012.01520.x
+%K learning
+education
+emergency medicine
+college
+emergency ward
+human
+nurse
+Tertiary (period)
+clinical education
+personnel management
+education program
+environment
+emergency
+hospital
+evidence based practice
+feedback system
+%X Abstract: In often chaotic and overcrowded environments, the emergency nurse is expected to manage multiple and often competing tasks simultaneously, whilst keeping up-to-date with evidenced-based practice. The Emergency Department (ED) poses many challenges to the Educator who must develop and credential staff to a safe level of practice. Flexible learning through e-learning modalities has become increasingly prevalent within the tertiary sector, and may potentially be used to complement didactic hospital education programs. Methods: A program of education was developed based on our top 20 presenting complaints. Modules comprised of an audio-recorded PowerPoint lecture, a minimum of two evidence-based articles, an e-learning quiz, and a short refl ection tool. Participants were invited to complete an online evaluation form, post completing the module. Results: At present, seven modules have been produced and were accessed and completed over 50 times in just 3-months. Forty-six evaluations were completed, which demonstrated that module topics were highly relevant (97.8%); the quality education delivery using e-learning was largely above average (41.0%); and, greatly improved participants' knowledge (67.4%) on post course completion. From participant feedback, a home study package containing five modules is available to download to USB, CD and now iPhone. Conclusions: E-learning allows education sessions to be accessed by nurses unable to attend actual presentations. The post-test forced interaction with information within both the lecture and prereadings potentially aiding retention of presented concepts. The self marking online quiz enabled assessment of understanding without further need of educator time in marking. E-learning, although not a replacement for direct clinical teaching, is a valuable tool to meet staff development needs. The program has successfully been RCNA endorsed, with each completed module attracting 2 hours of continue education time.
+%Z L70655592
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70655592
+%U http://dx.doi.org/10.1111/j.1742-6723.2012.01520.x
+%+ A. Hodge, Clinical Nurse Consultant, Prince of Wales Hospital, Emergency Department, Sydney, Australia
+
+
+
+%0 Journal Article
+%A Hotchkiss, M. A.
+%A Mendoza, S. N.
+%D 2001
+%T Update for nurse anesthetists. Part 6. Full-body patient simulation technology: gaining experience using a malignant hyperthermia model
+%B AANA journal
+%V 69
+%N 1
+%P 59-65
+%! Update for nurse anesthetists. Part 6. Full-body patient simulation technology: gaining experience using a malignant hyperthermia model
+%@ 0094-6354
+%K audiovisual equipment
+computer interface
+education
+educational model
+equipment design
+human
+malignant hyperthermia
+nurse anesthetist
+nursing
+review
+teaching
+%X Simulation technology is extremely useful for training workers in a variety of industries. Simulation concepts have been developed and refined in full-body patient simulators. Contemporary full-body patient simulators can be used to teach the essential concepts of many healthcare professions, and they offer practice dealing with critical events, concentrating on the thought and decision-making processes related to favorable patient outcomes. Full-body patient simulators provide practitioners the opportunity to manage realistic and advanced physical findings in a variety of areas and are capable of responding to a large number of pharmacologic agents and a host of clinical interventions. The ability to combine high-fidelity educational tools with both classroom lecture and clinical experience provides nurse anesthetists the opportunity for a unique experience in a highly controlled and safe environment. Numerous technological and educational advantages and the chance for hands-on assessment and treatment of some of anesthesia's rarest and most life-threatening events provide a one-of-a-kind educational session for CRNAs.
+%Z L33558438
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L33558438
+%+ M.A. Hotchkiss, Department of Nurse Anesthesia, Center for Research in Human Simulation, Virginia Commonwealth University, Richmond, Va., USA.
+
+
+
+%0 Journal Article
+%A Hurmusiadis, V.
+%A Clifford, N.
+%D 2009
+%T Simulation of cardiac electrophysiology for interactive ECG training
+%B Journal of the American College of Cardiology
+%V 53
+%N 10
+%P A400
+%! Simulation of cardiac electrophysiology for interactive ECG training
+%@ 0735-1097
+%K electrocardiogram
+simulation
+heart electrophysiology
+cardiology
+college
+fiber
+excitation
+model
+cell activation
+cardiac muscle cell
+heart atrium
+heart conduction
+nuclear magnetic resonance imaging
+medical student
+student
+cardiologist
+nurse
+electrocardiography
+teaching
+waveform
+cardiac muscle
+tree
+somatostatin cell
+heart function
+%X Background: The presented work simulates the principles of electrocardiography using a real-time interactive 3D simulation model of cardiac electrophysiology. The origin of the ECG signal is a complex spatial and temporal phenomenon, but not enough emphasis is commonly given to understanding its generation. Conventional teaching is based on identifying patterns, which are frequently memorized without much thought given to the underlying cause of any particular waveform. Methods: All four cardiac chambers were equipped with cell-nodes and myocardium fiber orientations. Ventricular fibers were based on a canine fiber dataset obtained from DT-MRI. Atrial fibers were constructed manually under the guidance from cardiac morphologists. An approximate model of the heart's conduction tree was manually constructed. Cardiac cell activation sequences were constructed using the Luo-Rudy model and formed the basis for the construction of the inter-cellular activation propagation. A cellular automaton was developed to simulate the propagation of electrical excitation through the 3D cell-nodes. Each cell-node in the automaton possesses a rest state, an excitation threshold, and a diffusive-type coupling to its nearest neighbors. The mean electric axis is then calculated and displayed over a beat cycle. The simulated electric axis is projected onto the standard lead vectors I, II and III of the Einthoven's triangle and the precordial lead vectors V1-V6, so the respective ECG signals can be displayed. Malfunctioning or necrotic regions have been simulated by altering the cell activation profiles in certain regions in the atria or ventricles. Results & Conclusions: The developed application can provide real-time simulation of the heart's electrophysiology. The executable is platform-independent and can be run both offline and online. The application demonstrates the spatial and temporal relationships between the heart's function and ECG signal generation. The solution allows end-users (medical students, trainee cardiologists, nurses) to become intuitively aware by interacting with the cardiac excitation process in real-time 3D, in a bottom-up approach: from cardiac cell to ECG.
+%Z L70065554
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70065554
+%+ V. Hurmusiadis, Primal Pictures Ltd., London, United Kingdom
+
+
+
+%0 Journal Article
+%A Jones, M. L.
+%D 2007
+%T E-learning in wound care: developing pressure ulcer prevention education
+%B British journal of nursing (Mark Allen Publishing)
+%V 16
+%N 15
+%P S26-31
+%! E-learning in wound care: developing pressure ulcer prevention education
+%@ 0966-0461
+%K article
+audiovisual equipment
+decubitus
+human
+in service training
+nursing
+nursing education
+pathology
+teaching
+United Kingdom
+%X Patients with pressure ulcers suffer pain and distress from wounds that can require treatment for many months following discharge from hospital (Havard, 2007). This initial and ongoing treatment accounts for around four per cent of the NHS annual budget (Bennett et al, 2004), therefore pressure ulcer prevention and management is beneficial not only to patients but also the NHS. Education for healthcare professionals is an important factor in the prevention and management of pressure ulcers; however, in the current climate releasing staff to attend study days is becoming difficult. In some locations staff have to travel long distances in order to attend while locally-based study days are poorly attended. Developing e-based learning was seen as a realistic option for nurses working in Trust within a large geographical area.
+%Z L47540347
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L47540347
+%+ M.L. Jones, North West Wales NHS Trust.
+
+
+
+%0 Journal Article
+%A Kilmon, C. A.
+%A Brown, L.
+%A Ghosh, S.
+%A Mikitiuk, A.
+%D 2010
+%T Immersive virtual reality simulations in nursing education
+%B Nursing education perspectives
+%V 31
+%N 5
+%P 314-317
+%! Immersive virtual reality simulations in nursing education
+%@ 1536-5026
+%K article
+clinical competence
+computer interface
+computer simulation
+education
+emergency
+health service
+human
+human computer interaction
+interdisciplinary communication
+methodology
+nursing
+nursing education
+nursing theory
+problem based learning
+program development
+resuscitation
+teaching
+%X This article explores immersive virtual reality as a potential educational strategy for nursing education and describes an immersive learning experience now being developed for nurses. This pioneering project is a virtual reality application targeting speed and accuracy of nurse response in emergency situations requiring cardiopulmonary resuscitation. Other potential uses and implications for the development of virtual reality learning programs are discussed.
+%Z L360241398
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L360241398
+%+ C.A. Kilmon, College of Nursing and Health Sciences, University of Texas at Tyler, USA.
+
+
+
+%0 Journal Article
+%A Lafond, C.
+%A Vincent, C.
+%A Hershberger, P.
+%A Corte, C.
+%A Wilkie, D.
+%D 2014
+%T PICU nurses' pain ratings and intervention choices in response to virtual human vignettes
+%B Journal of Pain
+%V 15
+%N 4
+%P S26
+%! PICU nurses' pain ratings and intervention choices in response to virtual human vignettes
+%@ 1526-5900
+%R 10.1016/j.jpain.2014.01.106
+%K morphine
+human
+pain
+vignette
+nurse
+society
+child
+diagnosis
+facial expression
+sickle cell
+self report
+vital sign
+statistics
+content analysis
+data analysis
+abdominal surgery
+boy
+risk
+intensive care unit
+patient
+data collection method
+male
+semi structured interview
+questionnaire
+multivariate analysis of variance
+%X Uncontrolled pain is a frequently reported adverse event in the Pediatric Intensive Care Unit (PICU); nurses' beliefs can contribute to this problem. The aims of this study were to 1) describe PICU nurses' thinking while assessing pain and choosing interventions for children using virtual human (VH) or avatar vignettes, and 2) determine the effect of behavior (smiling, grimacing) and pain type (abdominal surgery, sickle cell vaso-occlusive crisis) on nurses' pain ratings and intervention choices among vignettes (virtual, written). Forty nurses responded to four VH vignettes depicting 10-year-old boys with severe pain. After semi-structured interviews, nurses completed the Pain Beliefs and Practices Questionnaire, which included written vignettes matching the VH vignettes. Data analysis included qualitative content analysis, descriptive statistics, and MANOVA. For the qualitative findings, nurses most often described thinking about the child's diagnosis, behavior, pain report, and vital signs when assessing pain and choosing interventions; both diagnoses were described as painful. Quantitatively, nurses rated a child's pain lower than his self-report 58.8% of the time and chose a lesser pain intervention than previously administered 58.2% of the time. Significant multivariate effects were identified for behavior and vignette type. Grimacing children were rated higher for pain (F = 51.05, p < 0.001) and received more morphine (F = 52.85, p < 0.001) than smiling children. Nurses rated pain higher (F = 3.96, p <0.05) and provided more morphine (F = 31.21, p <0.001) to children in the written vignettes. Findings suggest that diagnosis may not influence nurses' choices if perceived as painful. Differences between vignette types may reflect the information delivery (visual or written) or data collection methods. Qualitative and quantitative data substantiated PICU nurses' use of behavior over a child's selfreport to assess and intervene for pain; PICU patients not exhibiting pain behaviors may be at risk for under-treatment.
+%Z L71404337
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71404337
+%U http://dx.doi.org/10.1016/j.jpain.2014.01.106
+%+ C. Lafond, University of Illinois at Chicago, Chicago, United States
+
+
+
+%0 Journal Article
+%A Macklin, D.
+%D 2000
+%T Compact disc interactive: a multimedia solution for staff education
+%B Journal for nurses in staff development : JNSD : official journal of the National Nursing Staff Development Organization
+%V 16
+%N 3
+%P 131-137
+%! Compact disc interactive: a multimedia solution for staff education
+%@ 1098-7886
+%K adult
+article
+compact disk
+education
+evaluation study
+feedback system
+health personnel attitude
+human
+in service training
+information processing
+learning
+methodology
+multimedia
+needs assessment
+nursing discipline
+nursing education
+nursing staff
+personnel management
+psychological aspect
+standard
+teaching
+workload
+%X The findings acquired from two focus groups (13 generalist RNs and 13 specialist RNs) which were held to evaluate compact disc interactive (CD-i) as a self-learning option for staff development were reviewed. The findings from these groups were that the CD-i platform offers educators the opportunity to design programs that meet nurses' learning needs without the need for multi-media, computers, and the associated platform training and education. This study reinforced the previously identified problem that nurses have difficulty balancing the responsibilities of providing direct patient care and the need for additional education and training and that self-study is an acceptable alternative to the traditional lecture format.
+%Z L35653221
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L35653221
+%+ D. Macklin, Professional Learning Systems, Inc., Marietta, Georgia, USA.
+
+
+
+%0 Journal Article
+%A Macklin, D.
+%D 2005
+%T Continuing education online
+%B JAVA - Journal of the Association for Vascular Access
+%V 10
+%N 1
+%P 28-30
+%! Continuing education online
+%@ 1083-0081
+%K access to information
+article
+certification
+software
+continuing education
+cost benefit analysis
+daily life activity
+drug infusion
+education program
+experience
+financial management
+human
+information processing
+Internet
+learning
+medical information
+medical literature
+nurse attitude
+online system
+time
+vascular access
+vein puncture
+videorecording
+%X The Internet offers a resource for media-rich training fully capable of evaluation, adaptation, and remediation, which is independent of computer platform, for individuals anywhere in the world, at any time. Interest and usage of the Internet as a source of information are increasing. In the future, as more nurses become comfortable with the Internet and begin to demand Internet learning opportunities, continuing education (CE) offerings will become more prevalent. This article reviews the benefits and limitations of Internet education offerings and the issues that arise in developing an Internet CE site, including the duties of a website administrator and a general overview of the cost of development and revenue generation. As speed and security improve, the Internet is becoming increasingly integrated into everyday life. Infusion therapy offers a unique opportunity because this information is not widely known and is not widely available on the Internet.
+%Z L40614269
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L40614269
+%+ Professional Learning Systems
+
+
+
+%0 Journal Article
+%A O'Leary, F.
+%A Allwood, M.
+%A McGarvey, K.
+%A Howse, J.
+%A Fahy, K.
+%D 2014
+%T Standardising paediatric resuscitation training in New South Wales, Australia: RESUS4KIDS
+%B Journal of Paediatrics and Child Health
+%V 50
+%N 5
+%P 405-410
+%! Standardising paediatric resuscitation training in New South Wales, Australia: RESUS4KIDS
+%@ 1440-1754
+1034-4810
+%R 10.1111/jpc.12487
+%K article
+Australia
+cardiopulmonary insufficiency
+course content
+course evaluation
+educational theory
+evidence based practice
+financial management
+health care personnel
+health care planning
+human
+knowledge base
+learning style
+medical education
+normal human
+online system
+pediatric advanced life support
+pediatric resuscitation training
+priority journal
+program cost effectiveness
+self report
+standardization
+%X Aim A key competency for all health-care workers (HCWs) who care for children is the ability to respond to a child in respiratory or cardiorespiratory arrest. However, evidence suggests that medical and nursing staff may not have the knowledge and clinical skills to respond to these emergencies. The aim of this project was to create a standardised, evidence-based, paediatric life support course that would be available free to all HCWs in New South Wales (NSW), including NSW Ambulance. Methods A paediatric life support course was designed along current education principles. It used e-learning as pre-learning and a face-to-face short practical course, combining team work and communication with practical paediatric resuscitation skills training. The programme was designed to empower local trainers to deliver a standardised course to local participants. Results A total of 14?000 participants have completed the mandatory e-learning component, and over 8600 participants have completed the short practical course, across all NSW Local Health Districts, including NSW Ambulance. RESUS4KIDS has also been adopted by the universities of Sydney and Newcastle undergraduate medical and nursing programmes. Outside of NSW and ACT, over 400 participants have completed the course in facilities in Queensland, South Australia, Victoria and the Northern Territory. Conclusion We have developed a course that is available, at no cost to individuals or facilities, to all HCWs in NSW, including students, paramedics and general practitioners. We would encourage all other jurisdictions to consider adopting the programme. © 2013 The Authors. Journal of Paediatrics and Child Health © 2013 Paediatrics and Child Health Division (Royal Australasian College of Physicians).
+%Z L52936594
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L52936594
+%U http://dx.doi.org/10.1111/jpc.12487
+%+ F. O'Leary, RESUS4KIDS, NSW Child Health Networks, Westmead, NSW 2154, Australia
+
+
+
+%0 Journal Article
+%A O'Leary, F.
+%A Higgins, K.
+%A Fahy, K.
+%A Festa, M.
+%A Dart, K.
+%A Simpson, M.
+%D 2012
+%T RESUS4KIDS A paediatric advanced life support course for health care providers
+%B EMA - Emergency Medicine Australasia
+%V 24
+%P 10
+%! RESUS4KIDS A paediatric advanced life support course for health care providers
+%@ 1742-6731
+%R 10.1111/j.1742-6723.2012.01520.x
+%K health care personnel
+emergency medicine
+college
+human
+learning
+health
+child health
+nurse consultant
+resuscitation
+skill
+multiple choice test
+feedback system
+nursing
+student
+model
+education
+funding
+%X RESUS4KIDS is a project funded by NSW Health with the aim of designing and implementing a paediatric advanced life support course for healthcare workers that could be run throughout the Western Child Health Network (WCHN). The course comprises an elearning program as pre-learning and a short practical course. The e-learning has a post-course multiple choice question module that serves as the knowledge test. The short practical course is comprised of a thirty minute communication/teamwork session followed by a sixty minute scenario based, pause and discuss format practical session during which each candidate demonstrates each skill. The course was piloted in 2009, rolled out in the WCHN in 2010-11 and was revised and updated in December 2010 in accordance with the new Australian Resuscitation Council Guidelines. The course was evaluated using participant data and anonymous course feedback (164 responses). Since February 2011 over 1200 candidates have completed the e-learning and 500 completed the short practical course (68% nursing, 12% medical and 20% students). Roll out is dependent on a train the trainer model and over 160 trainers now exist over all three Child Health Networks. Particular relationships have been formed with the Centre for Rural and Remote Education in Broken Hill, the Northern Sydney Local Health District and the Child Health Network Clinical Nurse Consultants to promote the project in their areas. Funding is currently being sought from NSW Health to establish RESUS4KIDS as a State wide initiative.
+%Z L70655567
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70655567
+%U http://dx.doi.org/10.1111/j.1742-6723.2012.01520.x
+%+ F. O'Leary, Emergency Department, Children's Hospital at Westmead, Australia
+
+
+
+%0 Journal Article
+%A Perrenot, C.
+%A Perez, M.
+%A Tran, N.
+%A Jehl, J. P.
+%A Felblinger, J.
+%A Hubert, J.
+%D 2011
+%T Virtual reality robotic surgery simulator: Mimic® DV-trainer, a tool for certification?
+%B International Journal of Medical Robotics and Computer Assisted Surgery
+%V 7
+%P 13
+%! Virtual reality robotic surgery simulator: Mimic® DV-trainer, a tool for certification?
+%@ 1478-5951
+%R 10.1002/rcs.427
+%K simulator
+surgery
+certification
+virtual reality
+human
+exercise
+skill
+surgeon
+correlation coefficient
+feedback system
+content validity
+competence
+accreditation
+laparoscopy
+validity
+learning
+prospective study
+operating room
+concurrent validity
+nurse
+medical student
+animal model
+camera
+learning curve
+%X Introduction: Development of robotic surgery requires training and assessment of specific skills. Training on animal model or in operating room is expensive and exposes to medico-legal implications of the learning curve. Virtual reality simulators are an interesting alternative, already used in laparoscopy but still under development for robotic surgery. The aim of this study is to check the validity of the Mimic® simulator as a tool for learning robotic surgery specific skills. Material &Methods: A prospective study was conducted from December 2009 to March 2010, using a robotic surgery simulator dVTrainer (MIMIC®). 75 subjects (5 experts with more than 100 robotic cases, 6 confirmed robotic surgeons with 10 to 40 robotic cases, 8 robotic beginners, 37 surgeons and residents, 19 nurses and medical students) were included. Five exercises representative of robotic specific skills (camera moving, clutching, endowrist manipulation, hand coordination and visual force feedback) were chosen. The analysis was performed by two experts and based on quiz, on more than 1100 scores on the simulator and on videotaped similar exercises performed on an actual Da Vinci S. Results: Face and content validity were considered as high by most of the subjects. Yet, some limitations about rotation, fluidity and 3D-vision were reported by participants. Assessment of competence with the dV-Trainer was highly reliable (correlation coefficient = 0.783). The simulator was able to significantly differentiate five levels of ability (ANOVA p < 0.05). The assessment on dV-Trainer was overall relevant regarding concurrent validity (correlation coefficient = 0.822). When studied separately, some criteria and exercises were medium relevant and need improvement before being included in a credentialing program. Conclusion: The robotic surgery simulator dV-Trainer is a reliable and valid support tool for certification. Further studies are needed to choose the more relevant among the 30 further developed exercises and to develop the fundamentals in robotic surgery.
+%Z L70594263
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70594263
+%U http://dx.doi.org/10.1002/rcs.427
+%+ C. Perrenot, Urology Dept and IADI, CHU Nancy-Brabois, Allée du Morvan, 54511 Vandoeuvre-Les-Nancy, France
+
+
+
+%0 Journal Article
+%A Qalla-Widmer, L.
+%A Attinger, M.
+%A Blanc, R.
+%A Amherdt, I.
+%A Boiron, F.
+%A Zbinden, D.
+%A Petignat, C.
+%D 2015
+%T Implementation of an interactive training module on hand hygiene
+%B Antimicrobial Resistance and Infection Control
+%V 4
+%! Implementation of an interactive training module on hand hygiene
+%@ 2047-2994
+%K prevention
+infection control
+hand washing
+human
+learning
+caregiver
+skill
+health care personnel
+hospital
+teaching
+multimedia
+patient safety
+medical staff
+learning style
+interpersonal communication
+audiovisual equipment
+education
+university
+preventive medicine
+clinical audit
+Internet
+nurse
+physician
+exercise
+simulation
+hygiene
+patient
+world health organization
+%X Introduction: In most cases, hands of caregivers are the vehicle for the transmission of germs to the patient. Therefore, it is crucial to help medical staff and healthcare workers acquiring the skills necessary for optimal hand hygiene (HH) in order to ensure quality of care and patient safety. Objectives: To give the caregivers a training tool well adapted to their needs and integrated into a blended learning (class and distance). Methods: The Hygiene Prevention and Infection Control (HPCI) Unit - Vaud, the Preventive Medicine Service of Center Hospital Universitary of Vaud (SMPH) in partnership with the collective of the Federation of Vaud Hospital, the Commission e-learning of University to Lausanne, the Center for Education and Audiovisual Communication, have developed an interactive training module of HH in 3 steps. Conception: - Identification of the academic content. - Development of a teaching strategy fitted to any learning styles. - Selection of the interactive teaching resources. Development: - Development of academic learning content. - Development of practical content (care situations cut out in various interactive e-lessons). - Tutorial construction (integration of multimedia elements and interactivity). Implementation: - Module overview by infection control professionals in Vaud institutions. - Module provision through training platforms (Moodle, MyTeacher). - The Module is freely accessible on the Internet. Results: After a brief theoretical reminder (common to all healthcare workers), the module content covers aspects of skills through simulation exercises. Care situations are specific for each category of professionals (doctors, nurses). Throughout the course, a knowledge assessment evaluates the benefits of training. Conclusion: The training module meets the predefined goals. This e-learning module broadens infection control class offer and is part of the five areas of the WHO multimodal HH strategy. The educational effectiveness will be evaluated after 9-12 months by a query filled up by the caregivers, by the participation rate, and by reality in practice (assessed during audits).
+%Z L72039227
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L72039227
+%+ L. Qalla-Widmer, Unité HPCI, CHUV, Lausanne, Switzerland
+
+
+
+%0 Journal Article
+%A Roberts, J.
+%A Russell, S.
+%A Verrall, T.
+%A Sprod, R.
+%A Abbott, M.
+%A Wood, M.
+%D 2012
+%T Bloodsafe elearning australia: 4 years of online transfusion education
+%B Vox Sanguinis
+%V 103
+%P 71-72
+%! Bloodsafe elearning australia: 4 years of online transfusion education
+%@ 0042-9007
+%R 10.1111/j.1423-0410.2012.01615-2.x
+%K transfusion
+education
+society
+blood transfusion
+Australia
+human
+blood
+learning
+patient
+education program
+clinical education
+safety
+hospital
+videorecording
+patient safety
+clinical audit
+health care personnel
+total quality management
+evidence based practice
+nursing
+data collection method
+adult
+bleeding
+iron deficiency anemia
+interview
+multimedia
+postpartum hemorrhage
+case study
+consultation
+university
+curriculum
+health care
+%X Background: Australia is a diverse country with large distances between major metropolitan healthcare centres and a large number of rural and remote hospitals. This has provided some challenges in providing quality and timely clinical education to improve patient blood management with the aim of enhancing safety and transfusion practice. BloodSafe eLearning Australia (http://www.bloodsafelearning.org.au) is a national education program with a multi-tiered governance framework that provides courses to healthcare professionals involved in the transfusion chain. These include courses on Clinical Transfusion Practice, Postpartum Haemorrhage, Iron Deficiency Anaemia and Critical Bleeding (in development). The Clinical Transfusion Practice course was initially developed by the South Australian BloodSafe transfusion safety and quality improvement program after audits demonstrated that appropriate education and training could significantly influence transfusion practice.1 Aims: To design, develop and implement innovative eLearning courses based on evidence and best practice national and international blood transfusion and blood management guidelines. To facilitate and support the appropriate use of blood and blood products and to improve patient safety. Methods: Based on adult learning principles all courses are developed by a team which includes clinicians, education designers and eLearning developers. Interactive and engaging educational designs incorporate video, audio and interactive multimedia. Video interviews of professionals who provide expert advice, and case studies based on de-identified real-life clinical examples are used to enhance learner engagement and authenticity. Assessments are provided in each learning module and successful completion is recorded and certificates issued. Evaluation: External consultants have evaluated the program, in particular the Clinical Transfusion Practice course using CIPP (Context, Input, Process and Product) framework. Data collection methods were designed to collect information from a range of stakeholders including the current learners, completed course users and those who although registered, had not completed the assessments. Results: 1. 112,000 + registered learners (February 2012). 2. Multi-professional - outlined in Table 1. 3. Over 700 Australian hospitals. 4. 113 International countries, 1800 + registered learners (February 2012). 5. Incorporated into university medical and nursing curricula. 6. Consistency. 7. Enabled collaboration across jurisdictions. 8. Prevented replication of effort. 9. Cost effective. 10. Greater emphasis on aspects of blood management. 11. High quality. 12. Accessible. 13. Able to generate reports about completion of learning. Summary/conclusions: BloodSafe eLearning Australia is a unique, highly successful, free online education program. It provides consistent, evidence-based and accurate transfusion knowledge nationally. The eLearning complements clinical teaching, providing flexible access to high quality, current learning resources that are relevant to patient practice. (Figure Presented).
+%Z L71015902
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71015902
+%U http://dx.doi.org/10.1111/j.1423-0410.2012.01615-2.x
+%+ J. Roberts, Blood Sector Clinical Development, National Blood Authority, North Adelaide, Australia
+
+
+
+%0 Journal Article
+%A Scalese, R. J.
+%D 2011
+%T High-fidelity simulation technologies for pharmacology education
+%B Basic and Clinical Pharmacology and Toxicology
+%V 109
+%P 8
+%! High-fidelity simulation technologies for pharmacology education
+%@ 1742-7835
+%R 10.1111/j.1742-7843.2011.00771.x
+%K plastic
+anesthetic gas
+society
+education
+pharmacology
+simulation
+technology
+simulator
+human
+patient
+student
+medical school
+drug therapy
+skill
+learning
+computer
+concentration (parameters)
+virtual reality
+model
+devices
+teaching
+vocational education
+health care delivery
+environment
+medical error
+patient safety
+competence
+error
+risk
+punishment
+professional competence
+morality
+reproducibility
+certification
+licensing
+medical service
+functional anatomy
+arm
+vein puncture
+heart rate
+blood pressure
+anesthesia
+machine
+vital sign
+algorithm
+patient care
+satisfaction
+curriculum
+physiology
+animal welfare
+health care
+occupation
+veterinary medicine
+health care personnel
+nursing
+%X Healthcare professional education in the last 10-15 years has witnessed a significant increase in the use of simulation technology for teaching and assessment. Multiple factors likely have contributed to this evolution, including: changes in healthcare delivery and academic environments that limit not only patient availability as learning opportunities, but also trainee work hours and time for clinical faculty to teach; worldwide attention focused on the problem of medical errors and the need to improve patient safety; and the paradigm shift to outcomes-based education with its requirements for evaluation and demonstration of competence. The use of simulators addresses many of these issues: they can be readily available at any time and can reproduce a wide variety of clinical conditions and situations on demand. In lieu of the customary 'see one, do one' approach, whereby novices carry out the practice required to master various techniques - including medication administration - on real patients (where the consequences of mistakes can be grave), simulation- based education allows trainees to hone their skills, including those needed to manage rare and/or critical situations, without risk of punishment or harm to patients. For the assessment of professional competence, simulators - by virtue of their fidelity, reproducibility, and programmability - provide a standardized testing experience, which is especially important when utilized for high-stakes determinations, such as specialty certification or licensing. Medical simulations, in general, aim to imitate real patients, anatomic regions, or clinical tasks, and/or to mirror the real life circumstances in which medical services are rendered. Our discussion here may use the term simulation, which in its broad sense includes any approximation of actual clinical situations (such as standardized patient [SP] encounters), but we will focus more narrowly on simulators, referring to particular simulation devices. These can take many forms and span the range from low- to high-fidelity, including part task trainers, virtual reality simulators, and computer-enhanced mannequins. Part task trainers consist of 3- D representations of body parts/regions with functional anatomy for teaching and evaluating particular skills, such as plastic arms for venipuncture or suturing. In most cases, the interface with the user is passive (i.e. the device is examined, or procedures are performed on it, with little more than rudimentary responses from the simulator). Although more sophisticated part task trainers may contain computerized or even virtual reality components, we nonetheless distinguish them from computerenhanced mannequins (CEMs) because the latter reproduce not only the anatomy, but also normal and pathophysiologic functions. For this reason, to the extent that pharmacology education has embraced use of these technologies, it has chiefly involved this last category of simulators. With CEMs the interface with the user is more often active or even interactive, such that simulator responses will vary according to user actions (for example, heart rate and blood pressure will change appropriately depending on the dose of a particular drug administered intravenously). Moreover, high-fidelity mannequins are commercially available that connect to actual anesthesia machines, and vital signs and other clinical parameters will vary appropriately as the concentration of anesthetic gases are adjusted or other medications are administered. The programming of these simulators obviously involves sophisticated computer algorithms and pharmaco-physiologic modeling, but when incorporated into hands-on activity with the mannequins in a simulation scenario, learning of these otherwise 'dry concepts' is no longer passive (as in the lecture hall), but becomes a highly interactive process. Moreover, the increased relevance of seeing these pharmacology principles 'come to life' in the context of (simulated) patient care enhances learner satisfaction and knowledge retention. This is a fine example of the recent trend toward vertical curriculum integration: breaking down the traditional separation between the (earlier) basic science and (later) clinical phases of medical school training. Earlier attempts to increase interactivity of pharmacology education with 'wet lab' experiences using animals as patient substitutes faced challenges in terms of realism (imperfect modeling of human physiology and obvious differences in physical appearance) as well as ethical issues (animal welfare); the use of simulators largely circumvents these problems. As a result, these technologies are coming into greater use for pharmacology education not only in medical schools, but also across multiple healthcare professions (e.g. nursing and veterinary medicine) and at postgraduate and higher learner levels.
+%Z L70603672
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70603672
+%U http://dx.doi.org/10.1111/j.1742-7843.2011.00771.x
+%+ R.J. Scalese, Division of Research and Technology, Gordon Center for Research in Medical Education, University of Miami Miller School of Medicine, Miami, United States
+
+
+
+%0 Journal Article
+%A Schermer, T. R.
+%A Akkermans, R. P.
+%A Crockett, A. J.
+%A van Montfort, M.
+%A Grootens-Stekelenburg, J.
+%A Stout, J. W.
+%A Pieters, W.
+%D 2011
+%T Effect of e-learning and repeated performance feedback on spirometry test quality in family practice: a cluster trial
+%B Annals of family medicine
+%V 9
+%N 4
+%P 330-336
+%! Effect of e-learning and repeated performance feedback on spirometry test quality in family practice: a cluster trial
+%@ 1544-1717
+%R 10.1370/afm.1258
+%K adult
+aged
+article
+clinical trial
+controlled clinical trial
+controlled study
+feedback system
+female
+general practice
+human
+male
+methodology
+middle aged
+multicenter study
+nursing education
+randomized controlled trial
+spirometry
+standard
+statistical model
+teaching
+total quality management
+%X Spirometry has become an indispensable tool in primary care to exclude, diagnose, and monitor chronic respiratory conditions, but the quality of spirometry tests in family practices is a reason for concern. Aim of this study was to investigate whether a combination of e-learning and bimonthly performance feedback would improve spirometry test quality in family practices in the course of 1 year. Our study was a cluster trial with 19 family practices allocated to intervention or control conditions through minimization. Intervention consisted of e-learning and bimonthly feedback reports to practice nurses. Control practices received only the joint baseline workshop. Spirometry quality was assessed by independent lung function technicians. Two outcomes were defined, with the difference between rates of tests with 2 acceptable and repeatable blows being the primary outcome and the difference between rates of tests with 2 acceptable blows being the secondary outcome. We used multilevel logistic regression analysis to calculate odds ratios (ORs) for an adequate test in intervention group practices. We analyzed 1,135 tests. Rate of adequate tests was 33% in intervention and 30% in control group practices (OR = 1.3; P=.605). Adequacy of tests did not differ between groups but tended to increase with time: OR = 2.2 (P = .057) after 3 and OR = 2.0 (P = .086) in intervention group practices after 4 feedback reports. When ignoring test repeatability, these differences between the groups were slightly more pronounced: OR = 2.4 (P = .033) after 3 and OR=2.2 (P = .051) after 4 feedback reports. In the course of 1 year, we observed a small and late effect of e-learning and repeated feedback on the quality of spirometry as performed by family practice nurses. This intervention does not seem to compensate the lack of rigorous training and experience in performing spirometry tests in most practices.
+%Z L362875955
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L362875955
+%U http://dx.doi.org/10.1370/afm.1258
+%+ T.R. Schermer, Department of Primary and Community Care, Radboud University Nijmegen Medical Centre, Nijmegen, The Netherlands.
+
+
+
+%0 Journal Article
+%A Sinclair, P.
+%A Schoch, M.
+%A Black, K.
+%A Woods, M.
+%D 2011
+%T Proof of concept: Developing a peer reviewed, evidence-based, interactive e-learning programme
+%B Journal of Renal Care
+%V 37
+%N 2
+%P 108-113
+%! Proof of concept: Developing a peer reviewed, evidence-based, interactive e-learning programme
+%@ 1755-6678
+1755-6686
+%R 10.1111/j.1755-6686.2011.00217.x
+%K article
+Australia
+catheterization
+chronic kidney failure
+education
+health care quality
+human
+indwelling catheter
+Internet
+methodology
+nursing
+nursing education
+program development
+public relations
+renal replacement therapy
+%X Knowledge and skill acquisition related to vascular access are traditionally individual institutional educational initiatives. Australia currently has no national evidence based education programme for renal nurses. A survey of Australian and New Zealand Nephrology Educators' conducted in 2009, identified the need for more effective and consistent delivery of clinical education for nurses using innovative, web-based approaches supporting the tenets of e-learning methodologies. This paper discusses the development, implementation and proposed evaluation of a peer reviewed Australasian e-learning programme on buttonhole cannulation. It will further highlight the benefits of inter-organisational partnerships and how these partnerships can facilitate positive change in teaching and learning practices. This project has unique characteristics that collectively provide value, distinction and innovation to nurses, patients and renal departments. As the e-learning programme was founded on a platform of evidence-based practice it is therefore easily transferable to an international context. © 2011 European Dialysis and Transplant Nurses Association/European Renal Care Association.
+%Z L361734049
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L361734049
+%U http://dx.doi.org/10.1111/j.1755-6686.2011.00217.x
+%+ P. Sinclair, University of Newcastle - School of Nursing and Midwifery, Callaghan, NSW, Australia
+
+
+
+%0 Journal Article
+%A Smeekens, A. E. F. N.
+%A Broekhuijsen-van Henten, D. M.
+%A Sittig, J. S.
+%A Russel, I. M. B.
+%A Ten Cate, O. Th J.
+%A Turner, N. M.
+%A Van De Putte, E. M.
+%D 2011
+%T Successful e-learning programme on the detection of child abuse in Emergency Departments: A randomised controlled trial
+%B Archives of Disease in Childhood
+%V 96
+%N 4
+%P 330-334
+%! Successful e-learning programme on the detection of child abuse in Emergency Departments: A randomised controlled trial
+%@ 0003-9888
+1468-2044
+%R 10.1136/adc.2010.190801
+%K NCT00844571
+adult
+article
+child
+child abuse
+clinical article
+software
+controlled study
+electronic learning
+emergency ward
+female
+human
+learning
+nursing intervention
+priority journal
+randomized controlled trial (topic)
+scoring system
+self concept
+self report
+%X Objective: To evaluate the effectiveness of an electronic learning (e-learning) programme on the performance of nurses in the recognition of child abuse in a simulated case in the Emergency Department (ED). Design: Blinded, randomised controlled trial using preand postintervention design. Setting: The ED of a University Medical Center in the Netherlands. Participants: 38 ED nurses were included, 25 nurses were analysed. Intervention: Half of the participants followed a 2-h e-learning programme focused on the recognition of child abuse, the others acted as a control group. Main outcome measurements: Individual performance during a case-simulated parent interview to detect child abuse and self-reported self-efficacy for the detection of child abuse. Performance on the simulation was scored by an expert panel using a standardised assessment form which was designed to score quantity and quality of the questions posed by the nurse (minimum score 0; maximum score 114). Results: During post-test, nurses in the intervention group performed significantly better during the simulation than the control group, (89 vs 71, 95% CI 2.9 to 33.3), and reported higher self-efficacy (502 vs 447, 95% CI -25.4 to 134.7). Performance in detecting child abuse correlated positively with the self-efficacy score (Spearman correlation 0.387, p value 0.056). Comparing post- and pretest results separately for the intervention and the control group showed a significant increase in performance in the intervention group. Conclusion: E-learning improved the performance in case simulations and the self-efficacy of the nurses in the ED in the detection of child abuse. Wider implementation of the e-learning programme to improve the first step in the detection of child abuse is recommended. Trial registration: Protocol registration system of clinicaltrials.gov: NCT00844571.
+%Z L51233900
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L51233900
+%U http://dx.doi.org/10.1136/adc.2010.190801
+%> http://adc.bmj.com/content/96/4/330.full.pdf
+%+ E. M. Van De Putte, KE04.133.1, University Medical Center Utrecht, 3508 AB, Utrecht, Netherlands
+
+
+
+%0 Journal Article
+%A Speers, A. T.
+%D 1993
+%T Games in nursing staff development
+%B Journal of nursing staff development : JNSD
+%V 9
+%N 6
+%P 274-277
+%! Games in nursing staff development
+%@ 0882-0627
+%K article
+game
+human
+methodology
+nursing education
+personnel management
+%X Adult learners have different learning styles and needs. To facilitate learning in a mixed group, various strategies must be used. Games have proven to be effective in basic and continuing nursing education. Educational games are gaining popularity in nursing staff development. This article discusses games in nursing staff development.
+%Z L24843813
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L24843813
+%+ A.T. Speers
+
+
+
+%0 Journal Article
+%A Unsworth, J.
+%A Tuffnell, C.
+%A Platt, A.
+%D 2011
+%T Safer care at home: Use of simulation training to improve standards
+%B British Journal of Community Nursing
+%V 16
+%N 7
+%P 334-339
+%! Safer care at home: Use of simulation training to improve standards
+%@ 1462-4753
+%K aged
+article
+audiovisual equipment
+cellulitis
+chronic obstructive lung disease
+community health nursing
+disease course
+education
+heart failure
+home care
+human
+in service training
+male
+methodology
+middle aged
+nursing assessment
+United Kingdom
+%X One of the fundamental problems facing providers and commissioners of health services is how to maintain the skills and knowledge of the workforce during the initial development and implementation of home care services. This small-scale project sought to ascertain if it was possible to use human patient simulation scenarios to educate community nurses about how to recognize when care at home is appropriate and when it is not. A series of scenarios were developed and delivered to small groups of community nursing staff. A total of 18 qualified nurses took part in the project. Participants were asked to report their level of confidence in the diagnosis, management and recognition of patient deterioration for each of the scenarios prior to and after the session. The results show increased confidence across all participants in each of the scenarios.
+%Z L362107182
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L362107182
+%> http://www.internurse.com/cgi-bin/go.pl/library/article.cgi?uid=84939;article=BJCN_16_7_334_339;format=pdf
+%+ J. Unsworth, Learning Enhancement Team, United Kingdom
+
+
+
+%0 Journal Article
+%A Young, J.
+%A Higgins, N.
+%A Raven, L.
+%A Watson, M.
+%D 2013
+%T Supporting nurses and midwives to promote a Safe Infant Sleeping eLearning Program
+%B Australian nursing journal (July 1993)
+%V 21
+%N 2
+%P 41
+%! Supporting nurses and midwives to promote a Safe Infant Sleeping eLearning Program
+%@ 1320-3185
+%K article
+Australia
+child care
+education
+health care quality
+human
+infant
+Internet
+methodology
+midwife
+newborn
+nursing staff
+parent
+patient education
+sleep
+sudden infant death syndrome
+teaching
+%Z L370194390
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L370194390
+%+ J. Young, School of Nursing and Midwifery, University of the Sunshine Coast, Qld.
+
+
+

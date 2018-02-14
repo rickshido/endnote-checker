@@ -1,0 +1,1002 @@
+%0 Journal Article
+%A Agarwal, A.
+%A Marks, N.
+%A Wessel, V.
+%A Willis, D.
+%A Bai, S.
+%A Tang, X.
+%A Ward, W. L.
+%A Schellhase, D. E.
+%A Carroll, J. L.
+%D 2016
+%T Improving knowledge, technical skills, and confidence among pediatric health care providers in the management of chronic tracheostomy using a simulation model
+%B Pediatric Pulmonology
+%V 51
+%N 7
+%P 696-704
+%! Improving knowledge, technical skills, and confidence among pediatric health care providers in the management of chronic tracheostomy using a simulation model
+%@ 1099-0496 8755-6863
+%R 10.1002/ppul.23355
+%K advanced practice nurse
+article
+clinical competence
+emergency care
+health care survey
+human
+internist
+Likert scale
+medical education
+observational study
+patient safety
+pediatric hospital
+pediatrician
+physician
+pilot study
+priority journal
+prospective study
+residency education
+self esteem
+self evaluation
+simulation training
+tertiary health care
+tracheostomy
+tracheostomy tube
+%X Objective: The results from a recent national survey about catastrophic complications following tracheostomy revealed that the majority of events involved a loss of airway. Most of the events due to airway loss involved potentially correctable deficits in caregiver education. Training in a simulated environment allows skill acquisition without compromising patient safety. We assessed the knowledge and confidence level of pediatric health care providers at a large tertiary care children's hospital in routine and emergency tracheostomy care and evaluated the efficacy of a comprehensive simulation-based tracheostomy educational program. Methods: The prospective observational study was comprised of 33 subjects including pediatric residents, internal medicine–pediatric residents, pediatric hospitalist faculty physicians, and advanced practice registered nurses who are involved in the care of patients with tracheostomies within a tertiary-care children's hospital. The subjects completed self-assessment questionnaires and objective multiple-choice tests before and after attending a comprehensive educational course that employed patient simulation. The outcome measurements included pre- and post-course questionnaires, pre- and post-course test scores, and observational data from the simulation sessions. Results: Before the education and simulation, the subjects’ comfort and confidence levels on a five-point Likert scale in performing routine tracheostomy tube care, routine tracheostomy tube change, and an emergency tracheostomy tube change were as follows (median (Q1, Q3)): 1 (1, 2), 1 (1, 2), and 1 (1, 2), respectively (n = 28). The levels of comfort and confidence after completing the course improved significantly to 4 (4, 5), 4 (4, 5), 4 (4, 5), respectively (P < 0.001) (n = 20). For the knowledge assessment, the pre-course test mean score was 0.53 ± 0.50, and the scores on the post-course test improved significantly with a mean score of 0.82 ± 0.39 (P < 0.001). During the educational intervention, specific deficiencies observed included a lack of understanding or familiarity with different types of tracheostomy tubes (e.g., cuffed versus uncuffed), physiological significance of the cuff, mechanism of action and physiological significance of the speaking valve, and the importance of the obturator in changing the tracheostomy tube. Conclusion: There is a need for improved tracheostomy education among pediatric health care providers. Incorporation of patient-simulation into a tracheostomy educational program was effective in improving knowledge, confidence, and skills. Pediatr Pulmonol. 2016;51:696–704. © 2015 Wiley Periodicals, Inc.
+%Z L610872078
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L610872078
+%U http://dx.doi.org/10.1002/ppul.23355
+%+ A. Agarwal, Division of Pediatric Pulmonary and Sleep Medicine, Department of Pediatrics, University of Arkansas for Medical Sciences, Little Rock, United States
+
+
+
+%0 Journal Article
+%A Bhoopathi, P. S.
+%A Sheoran, R.
+%D 2006
+%T Educational games for mental health professionals
+%B Cochrane database of systematic reviews (Online)
+%N 2
+%P CD001471
+%! Educational games for mental health professionals
+%@ 1469-493X
+%K game
+human
+mental health
+methodology
+problem based learning
+review
+teaching
+%X BACKGROUND: In traditional didactic teaching, the learner has a passive role, digesting the knowledge presented by the teacher. Stimulating and active teaching processes may be better at instilling information than more pedestrian approaches. Games involving repetition, reinforcement, association and use of multiple senses have been proposed as part of experiential learning. OBJECTIVES: To assess the effects of educational games on the knowledge and clinical skill of mental health professionals compared to the effects of standard teaching approaches. SEARCH STRATEGY: We performed electronic searches of AMED (1998 - November 2005), British Nursing Index (November 2005), Cochrane Library (Issue 3, 2005), Cochrane Schizophrenia Group Trials Register (November 2005), CINAHL (November 2005) EMBASE (November 2005), Educational Resources Information Centre on CSA (1966 - November 2005), MEDLINE (November 2005), PsycINFO (November 2005). We also searched references of all selected articles and contacted authors of included trials for more information. SELECTION CRITERIA: Randomised controlled trials comparing any educational game aiming at increasing knowledge and/or skills with a standard educational approach for mental health professionals. DATA COLLECTION AND ANALYSIS: We extracted data independently and analysed on an intention-to-treat basis. We analysed the individual person data using fixed effect Peto Odds Ratio (OR) calculated the 95% confidence intervals (CI). If appropriate, the number needed to treat (NNT) or number needed to harm (NNH) was estimated. For continuous data, we calculated weighted mean differences. MAIN RESULTS: We identified one trial (n=34) of an educational game for mental health nursing students of only a few hours follow up. For an outcome we arbitrarily defined ('no academically important improvement [a 10% improvement in scores]') those allocated to educational games fared considerably better than students in the standard education techniques group (OR 0.06 CI 0.01 to 0.27, NNT 3 CI 2 to 4). On average those in the games group scored six more points than the control students on a test of questions relevant to psychosis set to the standard of the mental health nursing curriculum of the day (WMD 6 CI 2.63 to 9.37). AUTHORS' CONCLUSIONS: Current limited evidence suggests educational games could help mental health students gain more points in their tests, especially if they have left revision to the last minute. This salient study should be refined and repeated.
+%Z L43868424
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L43868424
+%+ P.S. Bhoopathi, Academic Unit of Psychiatry, 15, Hyde Terrace, Leeds, West Yorkshire, UK, LS2 9LT.
+
+
+
+%0 Journal Article
+%A Bhoopathi, P. S.
+%A Sheoran, R.
+%A Adams, C. E.
+%D 2007
+%T Educational games for mental health professionals: a Cochrane review
+%B The international journal of psychiatric nursing research
+%V 12
+%N 3
+%P 1497-1502
+%! Educational games for mental health professionals: a Cochrane review
+%@ 0968-0624
+%K education
+human
+mental health service
+methodology
+nursing education
+organization and management
+psychiatric nursing
+randomized controlled trial
+recreation
+review
+teaching
+%X BACKGROUND: Learning in general can be been a passive process. This review is aimed at evaluating the effectiveness of educational games as a teaching strategy in mental health professionals. METHODS: We searched for all relevant randomised control trials (RCT) that compared educational games as teaching strategies with other methods of learning using electronic and reference searching, and by contacting trial authors. Data were extracted from selected trials and, individual person data was analysed using fixed effect Peto Odds Ratio (OR) and the 95% confidence intervals (CI). If appropriate, the number needed to treat (NNT) or number needed to harm (NNH) was estimated. For continuous data, we calculated weighted mean differences. RESULTS: We identified one trial (n = 34) of an educational game for mental health nursing students which followed up participants only over a few hours. For an outcome we arbitrarily defined ('no academically important improvement [a 10% improvement in scores]'), those allocated to educational games fared considerably better than students in the standard education techniques group (OR 0.06 CI 0.01 to 0.27, NNT 3 CI 2 to 4). On average those in the games group scored six more points than the control students on a test of questions relevant to psychosis set to the standard of the mental health nursing curriculum of the day (WMD 6 CI 2.63 to 9.37). CONCLUSION: Current limited evidence suggests educational games could help mental health students gain more points in their tests; however this interesting study should be refined and repeated.
+%Z L47363550
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L47363550
+%+ P.S. Bhoopathi, Academic Unit of Psychiatry,, 15, Hyde Terrace, Leeds, West Yorkshire LS2 9LT.
+
+
+
+%0 Journal Article
+%A Brydges, R.
+%A Dubrowski, A.
+%A Carnahan, H.
+%A Rose, D.
+%D 2010
+%T Independent learning using simulation: Comparison of self-guided and proficiency-based training approaches for learning clinical technical skills
+%B Medical Education, Supplement
+%V 44
+%P 7
+%! Independent learning using simulation: Comparison of self-guided and proficiency-based training approaches for learning clinical technical skills
+%@ 1352-3929
+%R 10.1111/j.13652923.2010.03702
+%K nitrogen 15
+learning
+simulation
+medical education
+Canadian
+skill
+human
+student
+simulator
+task performance
+methodology
+nursing student
+effect size
+hypothesis
+achievement
+control group
+teaching
+catheterization
+gold standard
+%X Background and Purpose: We have shown that self-guided learning is enhanced when students learn on simulators that progressively increase in fidelity during practice. Proficiency-based training, a current gold-standard training approach, requires achievement of a criterion score before students advance to the next learning level. We tested the hypothesis that progressive self-guided training offers equivalent learning benefit while limiting the need to set proficiency standards. Methodology: Nursing students (n = 15/group) practiced IV catheterization using 3 simulators that differed in fidelity (i.e. students' perceived realism). Proficiency-based students advanced from low- to mid- to high-fidelity after achieving a proficiency criterion at each level. Progressive students self-guided their progression from low- to mid- to high-fidelity. Experimentercontrol students followed an experimenter-defined progressive practice schedule. Open-ended students moved freely between the simulators. One week after practice, blinded experts evaluated students' skill transfer on a standardized patient simulation. Group differences were examined using analyses of variance. Results: Transfer test performance was similar for the Proficiency-based, Progressive and Open-ended groups; all outperformed the Experimenter-control group (effect size = 1.25). Surprisingly, most Open-ended students (73%) chose the progressive practice schedule. Conclusion and Discussion: Our key finding is that progressive training and proficiency-based training resulted in equivalent transfer test performance, suggesting that progressive students effectively chose when to transition between simulators. Students' preference for the progressive practice schedule indicates educators should consider this order for simulation-based training.
+%Z L71975027
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71975027
+%U http://dx.doi.org/10.1111/j.13652923.2010.03702
+%+ R. Brydges, University of British Columbia, Canada
+
+
+
+%0 Journal Article
+%A Cable, M.
+%A Smith, S.
+%A Olsen, P.
+%A Wright, L.
+%D 2013
+%T Teenage and young adult cancer care-“beyond no-man's land”
+%B Turk Pediatri Arsivi
+%V 48
+%P 22
+%! Teenage and young adult cancer care-“beyond no-man's land”
+%@ 1306-0015
+%K adolescence
+adult
+neoplasm
+male
+human
+adolescent health
+patient
+learning
+United Kingdom
+medical specialist
+environment
+health care
+adolescent
+social welfare
+Denmark
+interpersonal communication
+health practitioner
+social network
+health care personnel
+model
+population
+New Zealand
+heart
+worker
+Canada
+teacher
+juvenile
+nurse
+motivation
+teaching
+student
+education
+graduate
+Australia
+university
+Sweden
+oncology
+health
+philosophy
+%X OBJECTIVES: 1. Demonstrate the principles, philosophies and practices of age appropriate cancer care for Teenagers/Young Adults that enable them to navigate through the cancer journey from UK and Danish perspectives. 2. Demonstrate the significance of inter-professional working and learning in this emerging cancer and Teenage/Young Adult health speciality. METHODS: Historically; little attention has been given to the specific needs of the TYA (Teenage/Young Adult) cancer population and practice changes have been slow to occur internationally. This patient group has been described “at the edge of no man's land” (Hollis and Morgan 2001). Teenage Cancer Trust is the leading UK Charity dedicated to improving the lives of young people with cancer. Over the past twenty five years the charity has funded the development of 23 specialist Teenage Cancer Units across the UK which deliver specialist care in a state of the art age appropriate environment. The charity also funds specialist Nurses and Youth Workers. Largely due to this momentum, TYA cancer care has gained recognition as a speciality within its own right. In contrast, professionals in Denmark, have adopted a different approach to TYA care using a network focused care approach and 'network meetings' (Olsen & Harder 2009). This model brings people from the patient's private social network together with people from the patient's health professional network, to help 'break the ice', keep lines of communication open, and help young patients with cancer mobilise their support networks at a time when they might otherwise be cut off from their normal lives(Olsen & Harder 2009). It is evident that age appropriate care and inter-professional team working are at the heart of TYA Cancer Care and these principles are central to any service development. Teenage Cancer Trust have captured these principles in their Blueprint of Care for Teenagers and Young Adults with Cancer (Smith et al 2012). For the first time, the growing body of knowledge and expertise of professionals working within this field, particularly those working within Teenage Cancer Trust Units, has been documented. Concurrently, an emergent professional educational need for those working in this field of oncology has arisen. In 2006, Coventry University with support from Teenage Cancer Trust developed a Post Graduate Certificate in Cancer Care for TYA's that is delivered entirely by E-Learning which is now in its sixth year of delivery. The course draws from a multi-professional student body from across the world. It engages leading experts to create re-usable learning objects for the purpose of teaching which is delivered synchronously and asynchronously. E- learning offers flexibility, interactivity, motivation, collaboration and connectivity (JISC-E-Learning Programme n.d) for those working with TYA's with Cancer to learn with, from and about each other (Barr 2001) in a virtual environment that is facilitated by expert teachers. International colleagues are now looking to the UK for support, guidance and education as other countries, including U.S.A, Canada, Australia, New Zealand, Denmark and Sweden; now look to develop multi professional specialist care for this patient group. From the historic development of the first Teenage Cancer Trust Unit, the UK are now seen as worldwide leaders in TYA cancer care and young patients within healthcare increasingly move “beyond the edge of no man's land”. We are keen to share experiences and collaborate so that care of TYA's with cancer improves internationally. CONCLUSIONS: Internationally, TYA cancer care is gaining momentum as professionals recognise the unique needs of this vulnerable patient group and strive to develop and deliver services that meet their needs. The principles of “best practice” can now be described and young people are receiving expert care in bespoke environments. The TYA cancer “world” has largely remained isolated from the wider adolescent healthcare world. We can learn from each other and it is important that international heal hcare professionals now come together to share expertise in order to embed age appropriate cancer care for young people across the broader adolescent healthcare world.
+%Z L71254101
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71254101
+%> http://www.turkpediatriarsivi.com/sayilar/132/buyuk/tpa-ad-.pdf
+%+ M. Cable, Coventry University, United Kingdom
+
+
+
+%0 Journal Article
+%A Christiansen, M. F.
+%A Wallace, A.
+%A Newton, J. M.
+%A Caldwell, N.
+%A Mann-Salinas, E. A.
+%D 2016
+%T Improving Teamwork and Resiliency of Burn Center Nurses Through a Standardized Staff Development Program
+%B Journal of Burn Care and Research
+%! Improving Teamwork and Resiliency of Burn Center Nurses Through a Standardized Staff Development Program
+%@ 1559-0488
+1559-047X
+%R 10.1097/BCR.0000000000000461
+%K awareness
+burn
+education
+human
+major clinical study
+morality
+nursing staff
+satisfaction
+spring
+team building
+teamwork
+%X For many acute care nursing units, such as the Burn Progressive Care Unit (BPCU) at the U.S. Army Burn center, staff stress and burnout is always a concern for leaders. Job stress not only contributes to nursing turnover, but can have a negative impact on patient care. The purpose of this project was to develop a training platform for nursing staff education and teambuilding with the intent of improving nurse satisfaction, increasing resiliency, building unit cohesion, enhancing morale, and increasing staff awareness of unit performance. All nursing staff were given an 8-hour training day, half of which was focused on education and the other half on teambuilding and resiliency. At the end of the staff development day (SDD), participants were encouraged to complete an evaluation; all activities were scored on a 10-point scale, with 10 representing the most informative. In total, 46 of 48 staff (96%) participated in the first two SDDs. During the first iteration (Spring 2015), participants scored all activities very high, with a total average score of 9.15 ± 0.26 (n = 246). In the Fall of 2015, the SDD program was again rated well, with an average score of 9.36 ± 0.13 (n = 276). The SDD program has been successful in supporting teamwork and resiliency among BPCU staff. Staff feedback supported success in meeting the objectives of building unit cohesion and increasing satisfaction and morale.
+%Z L613159182
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L613159182
+%U http://dx.doi.org/10.1097/BCR.0000000000000461
+%+ M.F. Christiansen, From the U.S. Army Institute of Surgical Research, Fort Sam Houston, Texas.
+
+
+
+%0 Journal Article
+%A Cook, D. A.
+%A Erwin, P. J.
+%A Triola, M. M.
+%D 2010
+%T Computerized virtual patients in health professions education: a systematic review and meta-analysis
+%B Academic medicine : journal of the Association of American Medical Colleges
+%V 85
+%N 10
+%P 1589-1602
+%! Computerized virtual patients in health professions education: a systematic review and meta-analysis
+%@ 1938-808X
+%K clinical competence
+computer interface
+computer simulation
+diagnostic error
+education
+human
+medical profession
+meta analysis
+methodology
+review
+teaching
+%X Educators increasingly use virtual patients (computerized clinical case simulations) in health professions training. The authors summarize the effect of virtual patients compared with no intervention and alternate instructional methods, and elucidate features of effective virtual patient design. The authors searched MEDLINE, EMBASE, CINAHL, ERIC, PsychINFO, and Scopus through February 2009 for studies describing virtual patients for practicing and student physicians, nurses, and other health professionals. Reviewers, working in duplicate, abstracted information on instructional design and outcomes. Effect sizes were pooled using a random-effects model. Four qualitative, 18 no-intervention controlled, 21 noncomputer instruction-comparative, and 11 computer-assisted instruction-comparative studies were found. Heterogeneity was large (I2>50%) in most analyses. Compared with no intervention, the pooled effect size (95% confidence interval; number of studies) was 0.94 (0.69 to 1.19; N=11) for knowledge outcomes, 0.80 (0.52 to 1.08; N=5) for clinical reasoning, and 0.90 (0.61 to 1.19; N=9) for other skills. Compared with noncomputer instruction, pooled effect size (positive numbers favoring virtual patients) was -0.17 (-0.57 to 0.24; N=8) for satisfaction, 0.06 (-0.14 to 0.25; N=5) for knowledge, -0.004 (-0.30 to 0.29; N=10) for reasoning, and 0.10 (-0.21 to 0.42; N=11) for other skills. Comparisons of different virtual patient designs suggest that repetition until demonstration of mastery, advance organizers, enhanced feedback, and explicitly contrasting cases can improve learning outcomes. Virtual patients are associated with large positive effects compared with no intervention. Effects in comparison with noncomputer instruction are on average small. Further research clarifying how to effectively implement virtual patients is needed.
+%Z L360291282
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L360291282
+%+ D.A. Cook, Office of Education Research, College of Medicine, Mayo Clinic, Rochester, Minnesota, USA.
+
+
+
+%0 Journal Article
+%A Dawson, A. J.
+%A Joof, B. M.
+%D 2005
+%T Seeing, thinking and acting against Malaria: a new approach to health worker training for community empowerment in rural Gambia
+%B Rural and remote health
+%V 5
+%N 4
+%P 353
+%! Seeing, thinking and acting against Malaria: a new approach to health worker training for community empowerment in rural Gambia
+%@ 1445-6354
+%K adult
+age
+article
+comparative study
+curriculum
+education
+Gambia
+health
+health auxiliary
+health care personnel
+human
+in service training
+infant
+interview
+malaria
+mortality
+preschool child
+rural population
+teaching
+time
+%X CONTEXT: In the Gambia, West Africa, Malaria is a major cause of death among children in rural areas. It has been estimated that in one division in the country malaria accounts for 40% of all deaths in children aged between one and 4 years. Most malaria cases are managed at home assisted by primary healthcare workers. The strategic plan of Gambia's National Malaria Control Programme includes improved training and supervision of all health care providers, at all levels, and increased community awareness in order to reduce the malaria burden by 50% before 2007. ISSUE: A malaria in-service training program for Community Health Nurses (CHNs) working at village level was piloted in 2004. The program includes a computer-based training (CBT) package, the first of its kind for health professionals in Gambia. The education program is part of a larger initiative funded by the Gates Malaria Partnership, that aims to increase community involvement in malaria control. The objective of the course is to enable CHNs to facilitate the change process. The curriculum was informed by a reference group and stakeholder input. Interviews and evaluation forms were used to gather information about learner experience and learning preferences. ANALYSIS: The CBT package was well received. Learners reported wanting more computer instruction, but felt they had gained confidence. There was resistance from other health professionals regarding the development of information technology skills in CHNs. This related to the perceived role and status of CHNs, as well as confidence in their ability. Some modifications of the CBT package were necessary, including the reworking of some activities and language. LESSONS LEARNED: There are issues related to sustainability and resource implications that need to be addressed. Opportunities exist to expand e-learning in the Gambia for pre-service CHNs and other professionals. An investigation into the viability of reproducing this module as a generic planning tool for allied health workers and other extension workers at community level will be undertaken.
+%Z L41873056
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L41873056
+%+ A.J. Dawson, School of Indigenous Health Studies, University of Sydney, Australia.
+
+
+
+%0 Journal Article
+%A Diaz-Guzman, E.
+%A Colbert, C. Y.
+%A Mannino, D. M.
+%A Davenport, D. L.
+%A Arroliga, A. C.
+%D 2012
+%T 24/7 In-house intensivist coverage and fellowship education: A cross-sectional survey of academic medical centers in the United States
+%B Chest
+%V 141
+%N 4
+%P 959-966
+%! 24/7 In-house intensivist coverage and fellowship education: A cross-sectional survey of academic medical centers in the United States
+%@ 0012-3692
+1931-3543
+%R 10.1378/chest.11-2073
+%K administrative personnel
+adult
+anesthesia
+article
+controlled study
+cross-sectional study
+decision making
+emergency medicine
+female
+health program
+human
+intensive care unit
+internal medicine
+male
+medical education
+medical practice
+medical student
+nurse practitioner
+pediatrics
+personal autonomy
+physician attitude
+priority journal
+student attitude
+United States
+university hospital
+workload
+%X Objectives: The objectives of this study were to determine the current staffing models of practice and the frequency of 24/7 coverage in academic medical centers in the United States and to assess the perceptions of critical care trainees and program directors toward these models. Methods: A cross-sectional national survey was conducted using an Internet-based survey platform. The survey was distributed to fellows and program directors of 374 critical care training programs in US academic medical centers. Results: We received 518 responses: 138 from program directors (PDs) (37% of 374 programs) and 380 fellow responses. Coverage by a board-certified or board-eligible intensivist physician 24/7 was reported by 33% of PD respondents and was more common among pediatric and surgical critical care programs. Mandatory in-house call for critical care trainees was reported by 48% of the PDs. Mandatory call was also more common among pediatric-critical care programs compared with the rest (P < .001). Advanced nurse practitioners with critical care training were reported available by 27% of the PDs. The majority of respondents believed that 24/7 coverage would be associated with better patient care in the ICU and improved education for the fellows, although 65% of them believed this model would have a negative impact on trainees' autonomy. Conclusions: Intensivist coverage 24/7 was not commonly used in US academic centers responding to our survey. Significant differences in coverage models among critical care medicine specialties appear to exist. Program director and trainee respondents believed that 24/7 coverage was associated with better outcomes and education but also expressed concerns about the impact of this model on fellows' autonomy. © 2012 American College of Chest Physicians.
+%Z L364587957
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L364587957
+%U http://dx.doi.org/10.1378/chest.11-2073
+%> http://chestjournal.chestpubs.org/content/141/4/959.full.pdf+html
+%+ E. Diaz-Guzman, University of Kentucky, L543 Kentucky Clinic, Lexington, KY 40536-0284, United States
+
+
+
+%0 Journal Article
+%A Dorozhkin, D.
+%A Jones, D. B.
+%A Schwaitzberg, S. D.
+%A Jones, S. B.
+%A Cao, C. L.
+%A Olasky, J.
+%A Molina, M.
+%A Henriques, S.
+%A Wang, J.
+%A Flinn, J.
+%A De, S.
+%D 2016
+%T Or fire virtual training simulator: Design and face validity
+%B Surgical Endoscopy and Other Interventional Techniques
+%V 30
+%P S222
+%! Or fire virtual training simulator: Design and face validity
+%@ 0930-2794
+%R 10.1007/s00464-016-4770-8
+%K oxygen
+simulator
+face validity
+society
+American
+surgeon
+human
+fire
+environment
+virtual reality
+fire protection
+emergency
+student
+operating room
+minimally invasive surgery
+anesthesia
+patient
+hazard
+skill
+surgical drape
+nurse
+physician
+animal model
+anesthesist
+book
+questionnaire
+institutional review
+procedures
+validation study
+electrosurgery
+simulation
+%X Introduction: The Virtual Electrosurgical Skill Trainer (VEST) is being developed as a tool for training surgeons the safe operation of electrosurgery tools in both open and minimally invasive surgery. This training includes a dedicated team-training module that focuses on operating room (OR) fire prevention and response. The module was developed to allow trainees as well as practicing surgeons, anesthesiologists, and nurses to interact with a virtual OR environment that includes anesthesia apparatus, electrosurgical equipment, a virtual patient, and a fire extinguisher. Wearing a head mounted display, participants demonstrate knowledge of potential fire hazards by correctly identifying the 'fire triangle' elements and then successfully containing an OR fire caused by an oxygen (O2) enriched environment under the surgical drape. Within these virtual reality (VR) scenarios, trainees learn to react appropriately to a simulated fire emergency. An initial set of validation studies, targeted at establishing the face validity of the virtual OR fire simulator, was undertaken at the 2015 Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) conference. Methods and Procedure: Forty nine subjects (n = 49) with varying electrosurgical experience participated in this Institutional Review Board (IRB) approved study. The subjects were asked to complete the OR fire training/prevention sequence in the VEST simulator. The subjects were then asked to answer a subjective preference questionnaire, focused on the usefulness and fidelity of the simulator. Results: On a 5-point scale, 12 out of 13 questions were rated at the mean value of 3 or greater (92 %). Five questions were rated above 4 (38 %), particularly those focusing on simulator effectiveness and its usefulness in OR fire safety training. 33 of the 49 participants (67 %) chose the virtual OR fire trainer over the traditional training methods, such as a textbook or an animal model. Conclusions: Training for OR fire emergencies in fully-immersive virtual reality environments may be the ideal training modality, and the VEST OR fire trainer was developed for this task. The results of this study indicate a high level of importance associated with the virtual reality electrosurgical trainer by the participating physicians. The face validity of the OR fire training module of the VEST simulator was successfully established on many aspects of the simulation.
+%Z L72236095
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L72236095
+%U http://dx.doi.org/10.1007/s00464-016-4770-8
+%+ D. Dorozhkin, Center for Modeling, Simulation and Imaging in Medicine (CeMSIM), Rensselaer Polytechnic Institute, Troy, United States
+
+
+
+%0 Journal Article
+%A Graham, J. E.
+%A Narayan, S.
+%A Pendry, K.
+%D 2015
+%T Improving transfusion education and competency assessment for UK doctors
+%B Vox Sanguinis
+%V 109
+%P 90
+%! Improving transfusion education and competency assessment for UK doctors
+%@ 0042-9007
+%K society
+blood transfusion
+United Kingdom
+physician
+human
+education
+transfusion
+information processing
+transfusion medicine
+health care personnel
+blood
+hospital
+recipient
+learning
+nurse
+consultation
+data analysis
+patient
+personnel
+decision making
+skill
+medical staff
+blood transfusion reaction
+population
+simulation
+clinical practice
+nursing staff
+exercise
+bleeding
+tick
+qualitative research
+teaching
+%X Background: Transfusion in the UK is safe, however, errors involving medical staff in the decision making or prescribing of blood products continues to occur. This is despite three yearly competency assessments being required by all staff clinically involved in the blood transfusion process. Aims: This qualitative research aims to better understand how doctors are currently educated in transfusion medicine. To explore how the delivery of transfusion education could be improved and to examine the role of competency assessment in transfusion practice for this population. Methods: Focus groups were held with healthcare personnel to explore views and experiences concerning education and competency assessment in transfusion medicine. Doctors from all disciplines and stages of training were included, in addition to personnel with practical experience of transfusion education. Participant contributions were audio-recorded, transcribed and categorised into current education, ideal education and competency assessment. Analysis of recurrent themes created specific guidance on when, what, who and how to deliver transfusion education. Focus groups continued to be held until no new themes were emergent from data analysis. Results: A total of eight focus groups were held involving 53 participants. Healthcare personnel included medical undergraduates through to consultant doctors, plus advanced nurse and transfusion practitioners. It was clear from the focus groups that formal transfusion education for doctors is most commonly delivered on-line as part of mandatory hospital (Trust) induction and is viewed as a 'tick-box exercise'. In the clinical setting, education of junior doctors occurs through cascade training from senior clinical or nursing staff. Recurrent themes from focus groups highlighted the following recommendations: • Deliver transfusion education to undergraduates, first year doctors (FY1) then every 3 years to all clinicians. • Mandate transfusion education and deliver in 'protected time' away from clinical practice. • Focus on the practicalities of transfusion and tailor to the stage of training and clinical role of the recipient. • Deliver education face-to-face by a good educator who is knowledgeable in transfusion and understands the recipient's clinical role. • The Hospital Transfusion Committee should be responsible for quality assuring Trust-wide delivery of transfusion education. Ensure transfusion resources and guidelines are easily accessible. • Establish a nationally recognised, multi-disciplinary transfusion course, to addresses the principles and theories of transfusion medicine. Use small-group, case-based teaching/discussion and simulation training e.g. for acute transfusion reactions, massive haemorrhage management, to promote inter-professional collaborative learning. • Incorporate clinical competency assessment into the national course. • Outside of this setting, attempting competency assessment was not seen to be beneficial, other than in practical skills such as prescribing for junior doctors. Conclusion: Within the UK, the current method of e-learning in transfusion medicine is ineffective. There is significant scope to improve the way transfusion education is delivered to doctors and other healthcare personnel. This could be achieved by adopting a nationally recognised, multidisciplinary transfusion course, which would employ face-to-face teaching tailored to differing learner styles. Combined with clinical competency assessment, this course would enhance delivery of Patient Blood Management and optimise safe transfusion practice.
+%Z L71947835
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71947835
+%+ J.E. Graham, Health Education North West, Manchester, United Kingdom
+
+
+
+%0 Journal Article
+%A Kemp, K.
+%A Griffiths, J.
+%A Lovell, K.
+%D 2012
+%T An exploration of the health and social needs of people living with inflammatory bowel disease: A metasynthesis
+%B Gut
+%V 61
+%P A2
+%! An exploration of the health and social needs of people living with inflammatory bowel disease: A metasynthesis
+%@ 0017-5749
+%R 10.1136/gutjnl-2012-302514a.5
+%K human
+enteritis
+digestive system function disorder
+health
+patient
+university
+fear
+wrestling
+synthesis
+data base
+data extraction
+British nursing index
+adult
+population
+language
+filter
+questionnaire
+decision making
+skill
+social isolation
+qualitative research
+PsycINFO
+incontinence
+library
+immigrant
+medical information
+life event
+pain
+%X Introduction: The Inflammatory Bowel Disease Questionnaire and the Rating Form for IBD patient's Concerns, are widely used measures in IBD but fail to capture the essence of living with IBD from the patient's perspective. To deliver patient centred care it is imperative that we have an understanding of the experience of living with IBD. This study aimed to synthesise the findings of qualitative papers that explored the health and social needs of patients living with IBD. Methods: A systematic literature search was conducted in MEDLINE, PsychInfo, EMBASE, CINAHL, British Nursing Index via the OVID platform to August 2010. Search filters developed by the Hedges database, McMaster University Health Information Research Unit and Kathryn Nesbit, Edward G Milner Library, University of Rochester, were adapted to aid the search. 1395 papers were generated by the preliminary search. Qualitative studies which explored the phenomena of living with IBD, English language and sample population adults >16 years were included. Study eligibility judgements and data extraction were independently completed by the authors. The papers were quality appraised using the Critical Appraisal Skills Programme. Synthesis was achieved by comparing the themes and findings of each study with one another to identify 1st order constructs. Repeated comparison between the papers revealed the similarities and differences, which led to 2nd order constructs and the new interpretation of the synthesised studies. Results: Six papers and one unpublished thesis were included, all from Western countries, one study included patients from an immigrant background. Combined sample of the studies was only 86 patients to describe the phenomena of living with IBD. First iteration of synthesis identified 16 themes, 2nd iteration synthesised these into three main constructs: “detained by the disease”; “living in a world of disease”; “wrestling with life”. “Detained by the disease” is the fear of incontinence, and the behaviour the patients displays as a result of this. Social isolation and missing out on life events all serve to “pull” the patient back from normal living. “Living in a world of disease” is living with the fear of a long term condition.“ Wrestling with life” is the “push” to continue normal living. Conclusion: People with IBD endure many daily challenges, stress, pain, fighting for control. The combined impact of living with IBD is the tension they live with. The value of metasynthesis is the interpretation of all of the synthesised studies to provide a global representation of living with IBD: “Pushed and pulled: a compromised life”, people living with IBD experience a constant conflict throughout their lives, they push to be normal but IBD pulls them back.
+%Z L71121898
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71121898
+%U http://dx.doi.org/10.1136/gutjnl-2012-302514a.5
+%> http://gut.bmj.com/content/61/Suppl_2/A2.2.abstract?sid=fd8ec30f-edf2-4459-8f5c-f99da3d1dcfb
+%+ K. Kemp, School of Nursing, Department of Gastroenterology, University of Manchester, Manchester, United Kingdom
+
+
+
+%0 Journal Article
+%A Kruis, A. L.
+%A Boland, M. R. S.
+%A Assendelft, W. J. J.
+%A Gussekloo, J.
+%A Tsiachristas, A.
+%A Stijnen, T.
+%A Blom, C.
+%A Sont, J. K.
+%A Rutten-Van Molken, M. P. H. M.
+%A Chavannes, N. H.
+%D 2015
+%T Effectiveness of integrated disease management for primary care chronic obstructive pulmonary disease patients: Results of cluster randomised trial
+%B Nederlands Tijdschrift voor Geneeskunde
+%V 159
+%N 13
+%! Effectiveness of integrated disease management for primary care chronic obstructive pulmonary disease patients: Results of cluster randomised trial
+%@ 0028-2162
+%K ntr2268
+chronic obstructive lung disease
+control group
+controlled study
+disease exacerbation
+dyspnea
+general practitioner
+health care delivery
+health care personnel
+health care system
+health status
+human
+intervention study
+medication compliance
+multicenter study
+note
+patient care
+physical activity
+physiotherapist
+practice guideline
+primary medical care
+program effectiveness
+quality of life
+questionnaire
+randomized controlled trial
+self care
+smoking cessation
+training
+%X Objective: To investigate the long term effectiveness of integrated disease management delivered in primary care on quality of life in patients with chronic obstructive pulmonary disease (COPD) compared with usual care. Design: 24 month, multicentre, pragmatic cluster randomised controlled trial, Netherlands Trial Register NTR2268. Method: Setting: 40 general practices in the western part of the Netherlands. Patients with COPD according to GOLD (Global Initiative for COPD) criteria. Exclusion criteria were terminal illness, cognitive impairment, alcohol or drug misuse, and inability to fill in Dutch questionnaires. Practices were included if they were willing to create a multidisciplinary COPD team. General practitioners, practice nurses, and specialised physiotherapists in the intervention group received a two day training course on incorporating integrated disease management in practice, including early recognition of exacerbations and self management, smoking cessation, physiotherapeutic reactivation, optimal diagnosis, and drug adherence. Additionally, the course served as a network platform and collaborating healthcare providers designed an individual practice plan to integrate integrated disease management into daily practice. The control group continued usual care (based on international guidelines). The primary outcome was difference in health status at 12 months, measured by the Clinical COPD Questionnaire (CCQ)? quality of life, Medical Research Council dyspnoea, exacerbation related outcomes, self management, physical activity, and level of integrated care (PACIC) were also assessed as secondary outcomes. Results:Of a total of 1086 patients from 40 clusters, 20 practices (554 patients) were randomly assigned to the intervention group and 20 clusters (532 patients) to the usual care group. No difference was seen between groups in the CCQ at 12 months (mean difference 0.01, 95% confidence interval 0.10 to 0.08? P=0.8). After 12 months, no differences were seen in secondary outcomes between groups, except for the PACIC domain "followup/ coordination" (indicating improved integration of care) and proportion of physically active patients. Exacerbation rates as well as number of days in hospital did not differ between groups. After 24 months, no differences were seen in outcomes, except for the PACIC followup/ coordination domain. Conclusion:In this pragmatic study, an integrated disease management approach delivered in primary care showed no additional benefit compared with usual care, except improved level of integrated care and a self reported higher degree of daily activities. The contradictory findings to earlier positive studies could be explained by differences between interventions (provider versus patient targeted), selective reporting of positive trials, or little room for improvement in the already well developed Dutch healthcare system.
+%Z L604740427
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L604740427
+%+ A.L. Kruis, Leids Universitair Medisch Centrum, Leiden. Afd. Public Health en Eerstelijnsgeneeskunde, Netherlands
+
+
+
+%0 Journal Article
+%A Lahti, M.
+%A Hätönen, H.
+%A Välimäki, M.
+%D 2014
+%T Impact of e-learning on nurses' and student nurses knowledge, skills, and satisfaction: A systematic review and meta-analysis
+%B International Journal of Nursing Studies
+%V 51
+%N 1
+%P 136-149
+%! Impact of e-learning on nurses' and student nurses knowledge, skills, and satisfaction: A systematic review and meta-analysis
+%@ 0020-7489
+%R 10.1016/j.ijnurstu.2012.12.017
+%K e-learning
+human
+job satisfaction
+learning
+meta analysis
+nurse
+nursing staff
+nursing student
+professional competence
+psychological aspect
+RCT
+review
+Traditional learning
+%X Objective: To review the impact of e-learning on nurses' and nursing student's knowledge, skills and satisfaction related to e-learning. Design: We conducted a systematic review and meta-analysis of randomized controlled trials (RCT) to assess the impact of e-learning on nurses' and nursing student's knowledge, skills and satisfaction. Electronic databases including MEDLINE (1948-2010), CINAHL (1981-2010), Psychinfo (1967-2010) and Eric (1966-2010) were searched in May 2010 and again in December 2010. All RCT studies evaluating the effectiveness of e-learning and differentiating between traditional learning methods among nurses were included. Data extraction and quality assessment: Data was extracted related to the purpose of the trial, sample, measurements used, index test results and reference standard. An extraction tool developed for Cochrane reviews was used. Methodological quality of eligible trials was assessed. Data synthesis: 11 trials were eligible for inclusion in the analysis. Results: We identified 11 randomized controlled trials including a total of 2491 nurses and student nurses'. First, the random effect size for four studies showed some improvement associated with e-learning compared to traditional techniques on knowledge. However, the difference was not statistically significant (p= 0.39, MD 0.44, 95% CI -0.57 to 1.46). Second, one study reported a slight impact on e-learning on skills, but the difference was not statistically significant, either (p= 0.13, MD 0.03, 95% CI -0.09 to 0.69). And third, no results on nurses or student nurses' satisfaction could be reported as the statistical data from three possible studies were not available. Conclusion: Overall, there was no statistical difference between groups in e-learning and traditional learning relating to nurses' or student nurses' knowledge, skills and satisfaction. E-learning can, however, offer an alternative method of education. In future, more studies following the CONSORT and QUOROM statements are needed to evaluate the effects of these interventions. © 2013 Elsevier Ltd.
+%Z L1052422472
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L1052422472
+%U http://dx.doi.org/10.1016/j.ijnurstu.2012.12.017
+%+ M. Lahti
+
+
+
+%0 Journal Article
+%A McIntosh, K. S.
+%A Khanna, N. V.
+%A Gregor, J. C.
+%D 2012
+%T Computer based virtual reality colonoscopy simulation improves patient based colonoscopy performance
+%B Gastrointestinal Endoscopy
+%V 75
+%N 4
+%P AB364
+%! Computer based virtual reality colonoscopy simulation improves patient based colonoscopy performance
+%@ 0016-5107
+%R 10.1016/j.gie.2012.03.954
+%K colonoscopy
+human
+computer
+virtual reality
+simulation
+patient
+simulator
+nurse
+endoscopy
+pain
+cecum
+control group
+patient satisfaction
+technology
+competence
+transverse colon
+teacher
+risk
+procedures
+%X Aims: The advancement of computer technology has led to the development of several virtual reality colonoscopy simulators. The potential benefits as a training tool include the ability to do an unlimited number of procedures with no risk of procedural related complications. Our aim in this study is to determine whether virtual reality simulator training translates into improved patient based colonoscopy performance. Methods: We enrolled 18 residents between PGY2 and PGY4 with no prior colonoscopy experience. They were assigned to be in either the simulator trained group (n = 10) or the non-simulator trained control group (n=8). The simulator group completed an average of 16 hours (range 12 - 20) on the Simbionix GI Mentor II colonoscopy simulator prior to patient based colonoscopy. We then evaluated both groups on their first 5 patient based colonoscopies, giving the residents a 15 minute time limit to reach the cecum. Objective: Outcome measures included the insertion time, depth of insertion and the number of assists required. Preset criteria for assisting fellows included making no forward progress with the scope over a period of 2 minutes. Subjective outcome measures included ratings of pain, attention to discomfort, and technique by the proctor, endoscopy nurse, and patient on a 5 point Likert scale. Results: Within the allotted time, the average distance reached was the hepatic flexure by the simulator group and the transverse colon by the controls (p=0.09). The simulator group required significantly less assists than the control group (1.94 vs. 3.43, p=<0.001), inserted the scope further unassisted (43cm vs. 24cm, p=0.003), and there was a trend to reach the cecum more often (26% vs. 10%, p=0.06). The simulator group received higher ratings of competence by both the proctors (2.28 vs. 1.88 out of 5, p=0.02) and the endoscopy nurses (2.56 vs. 2.05 out of 5, p=0.001). There were no significant differences in proctor, nurse or patient rated pain or attention to discomfort. Conclusions: In the initial stages of training, patient based colonoscopy performance is superior in simulator trained residents compared to non-simulator trained residents. The residents completing simulator training were all highly satisfied with the experience and this study indicates that at least 16 hours of training may be required for optimal benefit. As well, the method of providing “assists” to residents for challenging parts of the colonoscopy and returning the scope to them worked extremely well. Employing this technique, allowed the novice residents to perform successful and efficient colonoscopies with a high degree of patient satisfaction.
+%Z L70783329
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70783329
+%U http://dx.doi.org/10.1016/j.gie.2012.03.954
+%+ K.S. Mcintosh, Division of Gastroenterology, University of Western Ontario, London, Canada
+
+
+
+%0 Journal Article
+%A Murray, D. J.
+%D 2014
+%T Progress in simulation education: Developing an anesthesia curriculum
+%B Current Opinion in Anaesthesiology
+%V 27
+%N 6
+%P 610-615
+%! Progress in simulation education: Developing an anesthesia curriculum
+%@ 1473-6500
+0952-7907
+%R 10.1097/ACO.0000000000000125
+%K anesthesia
+clinical practice
+education program
+fiber optics
+intubation
+priority journal
+regional anesthesia
+review
+simulation
+transthoracic echocardiography
+ultrasound
+virtual reality
+%X Purpose of review Simulation's role in anesthesia education is expanding to include more advanced skills and training for subspecialty practice. This review will provide an overview of many recent studies that expand the simulation curriculum for anesthesia education. Recent findings Recent studies describe a curriculum that uses a range of simulation modalities, including part-task trainers, mannequin-based simulation, virtual reality, in-situ techniques, screen-based simulations as well as encounters with 'standardized' patients, nurses or physician colleagues. A variety of studies describe the use of task-training devises to more effectively acquire skills, such as fibre-optic intubation, ultrasoundguided regional anesthesia and transthoracic echocardiography as well as expand on a variety of teamwork skills particularly in subspecialty anesthesia practice. Summary A curriculum is emerging that utilizes a variety of simulation modalities as part of a more comprehensive educational strategy for anesthesia specialty training.
+%Z L600662866
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L600662866
+%U http://dx.doi.org/10.1097/ACO.0000000000000125
+%+ D.J. Murray, Washington University School of Medicine, St Louis, United States
+
+
+
+%0 Journal Article
+%A Ong, Y. H.
+%A Lim, I.
+%A Tan, K. T.
+%A Lim, W. S.
+%A Chan, M.
+%D 2013
+%T “I have taught, but have you learnt?”-the perceived misalignment of clinical and educational utility of multidisciplinary rounds
+%B Annals of the Academy of Medicine Singapore
+%V 42
+%N 9
+%P S177
+%! “I have taught, but have you learnt?”-the perceived misalignment of clinical and educational utility of multidisciplinary rounds
+%@ 0304-4602
+%K health
+Singapore
+human
+physician
+nurse
+skill
+health practitioner
+hospital discharge
+health care personnel
+questionnaire
+dissociation
+learning
+geriatrics
+teamwork
+interview
+statistics
+Likert scale
+satisfaction
+ward
+data analysis software
+%X Introduction: Multidisciplinary rounds (MDRs) provide a platform for the interprofessional team to establish treatment priorities, coordinate care and effect discharge planning. However, there is limited understanding of its perceived educational value among different members of the interprofessional team. We studied how different healthcare professionals perceive the clinical utility and the educational value of MDRs in an acute geriatrics ward. Methods: We surveyed 78 members (34.6% doctors, 30.8% nurses, 33.3% allied health professionals). The questionnaire comprised demographic variables and satisfaction with the clinical utility and educational value of MDRs measured on a 5-point Likert scale (5 = very satisfied/important, 1 = not satisfied/important). To further elicit their views, we interviewed 55 members of MDRs. Quantitative and qualitative data were analysed using SPSS statistics programme and Nvivo respectively. A total of 235 pages of transcribed interview data were analysed thematically. Results: There was a significant misalignment in perceived clinical utility compared to perceived educational value [mean (SD): 4.32 (SD = ±0.78) vs 3.68 (SD = ±0.78), P <0.05)]. Analysis of qualitative data revealed distinct differences in perceptions of educational value across professional groups and level of seniority. When describing the perceived educational value of MDRs, allied health professionals expected to learn more cross-disciplinary knowledge; senior doctors and nurses emphasised acquisition of soft skills and teamwork skills; whereas junior doctors and nurses placed a premium on domain-specific learning. Discussion & Conclusion: We noted an interesting dissociation between perceived educational values with clinical utility. This misalignment appears to be attributable to differences in perception of educational value across professional groups and seniority.
+%Z L71796826
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71796826
+%> http://www.annals.edu.sg/pdf/42VolNo9Sep2013/SHBC_2013_041013.pdf
+%+ Y.H. Ong, National Healthcare Group HQ, Singapore, Singapore
+
+
+
+%0 Journal Article
+%A Paul, J. E.
+%A Lund, A.
+%A Guy, A. S.
+%A Earle, R. K.
+%A Lund, S. J.
+%A Turris, S. A.
+%D 2014
+%T Mass gathering medicine elective: emergency medicine education in the field
+%B Canadian Journal of Emergency Medicine
+%V 16
+%P S102-S103
+%! Mass gathering medicine elective: emergency medicine education in the field
+%@ 1481-8035
+1481-8043
+%K education
+emergency medicine
+human
+physician
+mass disaster
+medical student
+music
+emergency ward
+sporting event
+Canada
+social welfare
+emergency
+patient
+learning
+school
+laryngeal mask
+disaster medicine
+college
+surgeon
+training
+curriculum
+leadership
+community
+disaster planning
+skill
+environment
+health care
+United States
+nursing
+physiotherapy
+chiropractic
+%X Innovation concept: High patient volumes are common at mass participation sporting events, concerts and music festivals. As highlighted at the 2013 Boston Marathon bombing, unanticipated events can result in a mass casualty incident, requiring on-site emergency medicine (EM) and disaster response. The literature contains sparse reference to learner participation in mass gathering medicine (MGM) or disaster medicine (DM). Limited resources and unpredictable conditions at mass gatherings help prepare medical learners for challenges faced in emergency departments, mass casualty incidents, and disasters. Methods: A longitudinal and shift-based elective for EM residents and medical students has run at UBC since 2008. Residents complete event shifts under attending physician supervision, with each event shift ‘equivalent’ to an EM shift. Set in exciting, dynamic and sometimes austere inter-professional environments, learners are exposed to management of unique, acute presentations in the prehospital setting, and involved in operational and logistical issues in MGM and DM. Bidirectional evaluation addresses learning objectives consistent with the Royal College of Physicians and Surgeons of Canada CanMeds Physician Competency Framework. Curriculum, tool, or material: From 2008 to 2013, 61 residents and 126 medical students have participated in 77 MGM events. Based on five years of post-event participant survey data, the responses have been overwhelmingly positive and learner participation has enriched medical teams at numerous mass gatherings. Conclusion: The MGM elective provides a platform for physician training, serving as an introduction to MGM, community service, leadership, hands-on field experience, inter-professional team collaboration, emergency management and disaster planning. Given the important skill-sets attainable and the lack of formal MGM and DM training options for residents, expansion of elective and possible fellowship opportunities benefit both learners and the community. In light of the inter-disciplinary nature of MGM, this elective structure could be readily incorporated into other medical and allied health care training programs such as nursing, physiotherapy, paramedicine, and chiropractic schools.
+%Z L75007070
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L75007070
+
+
+
+%0 Journal Article
+%A Rasmussen, T. S.
+%A Delmar, C.
+%D 2014
+%T Dignity as an empirical lifeworld construction-in the field of surgery in Denmark
+%B International journal of qualitative studies on health and well-being
+%V 9
+%P 24849
+%! Dignity as an empirical lifeworld construction-in the field of surgery in Denmark
+%@ 1748-2631
+%R 10.3402/qhw.v9.24849
+%K aged
+Denmark
+female
+human
+male
+middle aged
+nurse patient relationship
+nursing
+personal autonomy
+personhood
+psychology
+qualitative research
+questionnaire
+surgery
+%X Patient dignity is a complex yet central phenomenon. Disrespect for dignity can mean retention of sick role, loss of self-care and control, decreased participation and therefore influence healing. At the same time, nurses have an obligation to respect dignity, and patients expect it. In clinical practice, with the focus on efficiency and economy, dignity can be compromised. The surgical patient may be particularly vulnerable to loss of dignity, when focus is solely on surgical procedure, efficiency, and productivity. The aim of the article is to describe the characteristics of the importance of dignity perceived by four surgical patients at a university hospital in Denmark. The hermeneutic phenomenological approach of Van Manen is used to analyse and interpret data collected from in-depth semi-structured interviews. The interviews explored the lived experience with two women and two men who had undergone a surgical intervention in a Danish vascular surgery department. The thematic analysis led to the basic theme: "To be an important person" illustrated by the themes: "Being a co-player," "Over exposure," and "To swallow the bitter pill." The findings provide a better understanding of patient's perspective of dignity, which is characterized by a complex interaction of several factors. Nurses should be concerned with balancing expectations, values, and opinions to maintain dignity in nursing and create a common platform for collaboration. This collaboration makes it possible for patients to be involved and have a voice in relation to nursing, treatment, and administering of time even though it could be at the expense of the terms of the system.
+%Z L613622624
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L613622624
+%U http://dx.doi.org/10.3402/qhw.v9.24849
+
+
+
+%0 Journal Article
+%A Sankpal, P.
+%A Sankpal, V.
+%D 2009
+%T New-drug-development for hepatobiliary-diseases in developing nations : NGO's role in improving access to hepatitis treatment & vaccines
+%B Hepatology International
+%V 3
+%N 1
+%P 138
+%! New-drug-development for hepatobiliary-diseases in developing nations : NGO's role in improving access to hepatitis treatment & vaccines
+%@ 1936-0533
+%R 10.1007/s12072-009-9123-4
+%K vaccine
+new drug
+antineoplastic agent
+antiinfective agent
+hepatitis
+liver
+hepatobiliary disease
+drug development
+Asian
+population
+carcinoma
+government
+health care personnel
+hope
+therapy
+funding
+exposure
+liver cell carcinoma
+Asia
+monitoring
+developing country
+methodology
+patient
+India
+neoplasm
+%X Issues: Anti-cancer drugs for hepatocellular-carcinoma out of reach of>92% populations of Asia. Price reduction, appropriate drug-supply-chain, monitoring of chemotherapeutic-agents necessary. We need to address access to affordable treatment. Resource-poor-nations have no platform for raising these issues of hepatitis-sufferers. Description: In-developing-countries unaffordable-chemo-cost leads to poor therapeutic-compliance. Since 2005 schemes offer discounted Anti-hepatitis-drugs, diagnostics/technical assistance scutinised. Common methodology to facilitate development of sound/sustainable Low-cost vaccine supply chain needed Results: In last 4 years, 66 patients diagnosed for hepatobiliary-carcinoma in rural/tribal India. 14 NGOs, 28 governments, 24 private-entities. Major Lacunae is absence of co-ordination between Chemo-centres &primary-healthcare-workers. Drug distribution/cost/nurses-training are neglected issues [Our NGO-Operational-Performa handouts available to 19th APASL-Congress-Participants] Lessons learned: must identify/design newer-treatments available to masses. Specific-NGO-FORUM needed to implement/expand cost-cutting-measures. We Plan to expand our-NGO-Chemo-advocacy-program to larger-population. Recommendations: New-drug-development for hepatobiliary-carcinoma in infantile stage &expensive in developing-nations. Vaccines hope for future. But Promoting dialogue between public-hospitals/NGO/Pharmaceuticals must improve access to chemo-therapy. NGO's/Funding-agencies representative at APASL2009-conference need to address-this-issue. We NGO-representatives from developing-nations need exposure to research treatments used by European/American experts. Do we all failed in addressing socio-economic issues of cancer-sufferers? We need to address these socio-economic issues of affected population in resource-poor-nations.
+%Z L70060135
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70060135
+%U http://dx.doi.org/10.1007/s12072-009-9123-4
+%+ P. Sankpal, Health Alert Organisation of India, India
+
+
+
+%0 Journal Article
+%A Vangronsveld, K. L.
+%A Linton, S. J.
+%D 2011
+%T The effect of validating and invalidating communication on satisfaction, pain and affect in nurses suffering from low back pain during a semi-structured interview
+%B European Journal of Pain
+%! The effect of validating and invalidating communication on satisfaction, pain and affect in nurses suffering from low back pain during a semi-structured interview
+%@ 1090-3801
+1532-2149
+%R 10.1016/j.ejpain.2011.07.009
+%K reassurance
+pain
+interpersonal communication
+nurse
+low back pain
+semi structured interview
+satisfaction
+human
+interview
+patient satisfaction
+patient
+frustration
+disability
+catastrophizing
+fear
+physician
+clinical examination
+consultation
+general aspects of disease
+problem solving
+backache
+empathy
+%X When physicians interview patients with ambiguous or nonspecific symptoms, they often try to reassure them with the purpose of explaining that no dangerous illness or disease is causing the symptoms. Unfortunately the evidence suggests that patients with benign (back) pain instead feel misunderstood, frustrated and unsatisfied with the consultation. Validation is a communication method that focuses on understanding and empathy as a platform for problem solving and it may be applicable for interviews in medical settings. The aim of this study was to examine the effects of validation on patient satisfaction, pain and affect. To this end 28 nurses with (re)current back pain were recruited and randomly assigned to be interviewed in a validating or invalidating condition. Patient satisfaction, affect, pain, disability, pain catastrophizing, and fear of movement were assessed immediately after the interview. The results show that the participants in the validated group were more satisfied with the interview than participants in the invalidating condition. Moreover, they showed a significant decrease on all measures of negative affect as well as for pain. For example, there was a significant between group difference in frustration where frustration decreased in the validation group, while it increased in the invalidation condition. A validating communication style seems to be beneficial for enhancing patient satisfaction, as well as diminishing negative affect and pain intensity ratings. Our results suggest that validation might be a viable technique to use in clinical examinations of patients suffering pain. © 2011 European Federation of International Association for the Study of Pain Chapters.
+%Z L51579553
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L51579553
+%U http://dx.doi.org/10.1016/j.ejpain.2011.07.009
+%+ K.L. Vangronsveld, Center for Health and Medical Psychology, Örebro University, Sweden
+
+
+
+%0 Journal Article
+%A Wang, Y. Q.
+%A Wei, S. Y.
+%A Li, Y. P.
+%A Deng, S. L.
+%A Luo, Q. Q.
+%A Li, Y.
+%D 2013
+%T Challenges and countermeasures for the development of nursing discipline in China
+%B Chinese Journal of Evidence-Based Medicine
+%V 13
+%N 2
+%P 128-136
+%! Challenges and countermeasures for the development of nursing discipline in China
+%@ 1672-2531
+%R 10.7507/1672-2531.20130024
+%K article
+bibliographic database
+China
+clinical practice
+evidence based nursing
+health care personnel
+health education
+human
+information processing
+nursing education
+nursing practice
+qualitative research
+statistical analysis
+%X Objective Based on the acquirable and optimized evidences at present, to explore the challenge and countermeasures for the development of nursing discipline in China, and to provide suggestions for promoting the construction of nursing discipline, platform, and talent team. Methods Te study materials were searched in the following electronic databases including PubMed, EMbase, Web of Science, CNKI, VIP and CBM, as well as in the ofcial websites of World Health Organization (WHO), International Council of Nurses (ICN), World Bank, the Ministry of Health (MOH) and the Ministry of Education (MOE) of China, and the domestic universities, colleges or technical secondary schools. Ten the statistical analysis was conducted using SPSS 13.0 and Microsof Excel sofware. Results a) By 2012, there were 855 nursing schools, 38 212 nursing undergraduates enrolled in universities, and 130 837 nursing students enrolled in junior colleges and senior vocational schools; b) Te doctor-to-nurse ratio was 1 to 0.9 in 2010. Te actual demand for doctors was 2.6 million, and there were still lack of 346 000 nurses; c) Te age of nurses younger than 35 years old accounted for 50%. Tose with primary professional title accounted for 64% to 69%, while less than 2.5% with advanced professional title; d) Te training cost for a doctor and nurse/midwife in China only accounted for 2/5 of that in India and 1/5 to 1/4 in the sub-Sahara Africa; and e) To date, only 30.1% of disaster nursing studies in China provided research data, 30.6% were clinical experience and 38.3% were review. Conclusion Education and health systems need to be extensively reformed. It is necessary to train nursing students with core competencies using transformative learning. It is necessary to update textbooks and teaching methods, and funding should be appropriately increased. Nursing should cooperate with other disciplines, and apply evidence-based nursing methods to improve the quality of healthcare services and patient satisfaction. © 2013 Editorial Board of Chin J Evid-based Med.
+%Z L373931960
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L373931960
+%U http://dx.doi.org/10.7507/1672-2531.20130024
+%+ Y.-P. Li, Chinese Evidence-Based Medicine Centre, West China Hospital, Sichuan University, Chengdu 610041, China
+
+
+
+%0 Journal Article
+%A Wickham, J. E. A.
+%D 1994
+%T Future developments
+%B British Medical Journal
+%V 308
+%N 6922
+%P 193-196
+%! Future developments
+%@ 0959-8146
+%K futurology
+devices
+medical education
+medical research
+minor surgery
+nonhuman
+priority journal
+review
+%X The rapid development of minimally invasive surgery means that there will be fundamental changes in interventional treatment. Technological advances will alow new minimally invasive procedures to be developed. Application of robotics will allow some procedures to be done automatically, and coupling of slave robotic instruments with virtual reality images will allow surgeons to perform operations by remote control. Miniature motors and instruments designed by microengineering could be introduced into body cavities to perform operations that are currently impossible. New materials will allow changes in instrument construction, such as use of memory metals to make heat activated scissors or forceps. With the reduced trauma associated with minimally invasive surgery, fewer operations will require long hospital stays. Traditional surgical wards will become largely redundant, and hospitals will need to cope with increased throughput of patients. Operating theatres will have to be equipped with complex high technology equipment, and hospital staff will need to be trained to manage it. Conventional nursing care will be carried out more in the community. Many traditional specialities will be merged, and surgical training will need fundamental revision to ensure that surgeons are competent to carry out the new procedures.
+%Z L24049060
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L24049060
+%+ J.E.A. Wickham, Dept. Minimally Invasive Therapy, Guy's Hospital, London SE1 9RT, United Kingdom
+
+
+
+%0 Journal Article
+%A Wynn, R. F.
+%A Veys, P.
+%A Steward, C. G.
+%A Vora, A.
+%A Skinner, R.
+%A Gibson, B.
+%A Velangi, M.
+%A Hough, R.
+%A Potter, M.
+%A De La Fuente, J.
+%A Amrolia, P.
+%A Smith, O.
+%D 2015
+%T “We can work it out”: The development of a consensus approach to decision making in allogeneic stem cell transplantation in the UK
+%B Biology of Blood and Marrow Transplantation
+%V 21
+%N 2
+%P S238
+%! “We can work it out”: The development of a consensus approach to decision making in allogeneic stem cell transplantation in the UK
+%@ 1083-8791
+%K consensus
+decision making
+allogeneic stem cell transplantation
+United Kingdom
+human
+transplantation
+patient
+clinical audit
+videorecording
+physician
+stem cell transplantation
+patient care
+metabolic disorder
+institutional care
+risk
+Ireland
+bone marrow
+e-mail
+nurse
+aplastic anemia
+hemoglobinopathy
+national health service
+child
+pediatrician
+stem cell
+blood
+videoconferencing
+death
+manager
+%X Introduction: Blood and marrow transplantation is a low volume, high risk specialty. Institutional practices vary considerably. Consensus practice is important for physician and family confidence and to optimize patient outcomes during stem cell transplantation with best practice and as a platform for research. The 12 pediatric/adolescent transplant centers of the UK and Ireland are increasingly collaborative and this report summarizes the efforts of that groups and commends them to other national pediatric BMT groups. Materials (or patients) and methods: The Group's activities over the last 7 years are reviewed in the following areas: a) National Audit Meeting in which all transplants performed from the previous year are in a single national meeting attended by physicians, nurses and data managers from each center. Instructive cases and all transplant related deaths are specifically highlighted. There have been now 9 such annual meetings. An external auditor attends. b) Twice yearly meetings attended by transplant centers in which protocols are drawn up and consensus indications discussed. c) Since 2012 there has been a national, monthly video conference attended by transplant teams. Difficult cases referred for transplant and difficult cases during transplant are discussed. An agenda is circulated in advance of the meeting and there is a summary of the discussion (as meeting minutes) circulated afterwards. A separate video MDT has been held with metabolic disease pediatricians for particular metabolic related SCT cases. d) The group has agreed consensus guidelines for transplant for group members. Results: All transplants performed in the UK have been discussed at national audit meetings. There is a median of 300 transplants per annum. There is a national, annually updated, indication list for stem cell transplantation in children for National Health Service purchasers. National protocols for stem cell transplant in AML, ALL, hemoglobinopathy, metabolic diseases and constitutional and acquired aplastic anaemia. National video MDT are held monthly and pre-HCT (75%) and post-HCT patients are discussed. Parallel to these increasing face-to-face contacts there is increasing email contact between the group between meetings. Discussion: We have found these national, increasingly frequent joint meetings to be extremely useful and we commend them to other national groups. We also believe that the opportunity to discuss individual cases with such a national group is not only helpful to patient management but is easily seen - for families and professionals - to be important to patient management and generates confidence in the complicated transplant process.
+%Z L71798368
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71798368
+%+ R.F. Wynn, Royal Manchester Children's Hospital, Manchester, United Kingdom
+
+
+

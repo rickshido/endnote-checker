@@ -1,0 +1,485 @@
+%0 Journal Article
+%A Abelsson, A.
+%A Rystedt, I.
+%A Suserud, B. O.
+%A Lindwall, L.
+%D 2014
+%T Mapping the use of simulation in prehospital care - a literature review
+%B Scandinavian journal of trauma, resuscitation and emergency medicine
+%V 22
+%P 22
+%! Mapping the use of simulation in prehospital care - a literature review
+%@ 1757-7241
+%R 10.1186/1757-7241-22-22
+%K audiovisual equipment
+education
+emergency health service
+human
+injury
+medical education
+methodology
+paramedical personnel
+review
+teaching
+%X High energy trauma is rare and, as a result, training of prehospital care providers often takes place during the real situation, with the patient as the object for the learning process. Such training could instead be carried out in the context of simulation, out of danger for both patients and personnel. The aim of this study was to provide an overview of the development and foci of research on simulation in prehospital care practice. An integrative literature review were used. Articles based on quantitative as well as qualitative research methods were included, resulting in a comprehensive overview of existing published research. For published articles to be included in the review, the focus of the article had to be prehospital care providers, in prehospital settings. Furthermore, included articles must target interventions that were carried out in a simulation context. The volume of published research is distributed between 1984- 2012 and across the regions North America, Europe, Oceania, Asia and Middle East. The simulation methods used were manikins, films, images or paper, live actors, animals and virtual reality. The staff categories focused upon were paramedics, emergency medical technicians (EMTs), medical doctors (MDs), nurse and fire fighters. The main topics of published research on simulation with prehospital care providers included: Intubation, Trauma care, Cardiac Pulmonary Resuscitation (CPR), Ventilation and Triage. Simulation were described as a positive training and education method for prehospital medical staff. It provides opportunities to train assessment, treatment and implementation of procedures and devices under realistic conditions. It is crucial that the staff are familiar with and trained on the identified topics, i.e., intubation, trauma care, CPR, ventilation and triage, which all, to a very large degree, constitute prehospital care. Simulation plays an integral role in this. The current state of prehospital care, which this review reveals, includes inadequate skills of prehospital staff regarding ventilation and CPR, on both children and adults, the lack of skills in paediatric resuscitation and the lack of knowledge in assessing and managing burns victims. These circumstances suggest critical areas for further training and research, at both local and global levels.
+%Z L373984426
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L373984426
+%U http://dx.doi.org/10.1186/1757-7241-22-22
+%+ A. Abelsson
+
+
+
+%0 Journal Article
+%A Aura, S. M.
+%A Sormunen, M. S.
+%A Jordan, S. E.
+%A Tossavainen, K. A.
+%A Turunen, H. E.
+%D 2015
+%T Learning outcomes associated with patient simulation method in pharmacotherapy education: an integrative review
+%B Simulation in healthcare : journal of the Society for Simulation in Healthcare
+%V 10
+%N 3
+%P 170-177
+%! Learning outcomes associated with patient simulation method in pharmacotherapy education: an integrative review
+%@ 1559-713X
+%R 10.1097/SIH.0000000000000084
+%K clinical competence
+drug therapy
+education
+health care personnel
+human
+knowledge
+learning
+teaching
+%X STATEMENT: The aims of this systematic integrative review were to identify evidence for the use of patient simulation teaching methods in pharmacotherapy education and to explore related learning outcomes. A systematic literature search was conducted using 6 databases as follows: CINAHL, PubMed, SCOPUS, ERIC, MEDIC, and the Cochrane Library, using the key words relating to patient simulation and pharmacotherapy. The methodological quality of each study was evaluated. Eighteen articles met the inclusion criteria. The earliest article was published in 2005. The selected research articles were subjected to qualitative content analysis. Patient simulation has been used in pharmacotherapy education for preregistration nursing, dental, medical, and pharmacy students and for the continuing education of nurses. Learning outcomes reported were summarized as follows: (1) commitment to pharmacotherapy learning, (2) development of pharmacotherapy evaluation skills, (3) improvement in pharmacotherapy application skills, and (4) knowledge and understanding of pharmacotherapy. To develop effective teaching methods and ensure health care professionals' competence in medication management, further research is needed to determine the educational and clinical effectiveness of simulation teaching methods.
+%Z L608626242
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L608626242
+%U http://dx.doi.org/10.1097/SIH.0000000000000084
+
+
+
+%0 Journal Article
+%A George, P. P.
+%A Bhone, M. K.
+%A Saxena, N.
+%A Lim, T. K. K.
+%A Heng, B. H.
+%A Car, J.
+%A Lockwood, C.
+%D 2015
+%T Online e-learning for postregistration healthcare professionals-a bibliographic analysis of the literature
+%B Annals of the Academy of Medicine Singapore
+%V 44
+%N 10
+%P S460
+%! Online e-learning for postregistration healthcare professionals-a bibliographic analysis of the literature
+%@ 0304-4602
+%K health care personnel
+human
+Singapore
+health
+learning
+physician
+systematic review (topic)
+Medline
+randomized controlled trial
+systematic review
+screening
+medical education
+patient care
+psychiatry
+Cinahl
+Web of Science
+PsycINFO
+surgeon
+Embase
+emergency medicine
+nurse
+nursing
+health care
+pediatrics
+obstetrics
+gynecology
+professional development
+hypothesis
+%X Background & Hypothesis: Online e-learning such as continuing medical education (CME) and continuing professional development (CPD) has been used widely as a mode to train healthcare workforce and to enhance patient care. This study is a bibliographic analysis of literature on this topic. Methods: A systematic review is underway to synthesise evidence on online e-learning for healthcare professionals (HCPs). Medline (Ovid), Embase (Elsevier), Cochrane (Wiley), Psychinfo (Ovid), ERIC (Ovid), Cinahl (Ebsco) and Web of Science Core Collection (Thomson Reuters) were searched for studies on online eLearning for postregistration professionals from 1990 to 2015. Only randomised controlled trials (RCT) or cluster RCTs were included. Results: Of the 2668 articles included for full text screening, 252 fulfilled our inclusion criteria; 55% of these articles were published in the last 5 years, and the number of articles has increased by 278% from 2004-2014. The years 2012 (n = 43) and 2013 (n = 35) had the highest numbers of articles. The 252 included articles were published in 172 journals, of which 43 journals published 2 or more articles. The majority of these studies were conducted among doctors (52%) and nurses (26%) and were published in the surgical (8%), paediatric (8%), emergency medicine (5%) and nursing journals (5%). Among the doctors, 58% physicians, 17% surgeons, 15% paediatrics, 5% each from obstetrics and gynaecology and psychiatry. Discussion & Conclusion: There is a substantial body of evidence on use of online e-learning for training postregistration professionals, specifically doctors. However, its effectiveness and quality of evidence is yet to be ascertained.
+%Z L72150951
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L72150951
+%> http://www.annals.edu.sg/pdf/44VolNo10Oct2015/SHBC_Final_2.pdf
+%+ P.P. George, National Healthcare Group, Singapore, Singapore
+
+
+
+%0 Journal Article
+%A Green, J.
+%A Wyllie, A.
+%A Jackson, D.
+%D 2014
+%T Virtual worlds: A new frontier for nurse education?
+%B Collegian
+%V 21
+%N 2
+%P 135-141
+%! Virtual worlds: A new frontier for nurse education?
+%@ 1322-7696
+%R 10.1016/j.colegn.2013.11.004
+%K article
+computer interface
+educational technology
+forecasting
+human
+Internet
+methodology
+nursing education
+nursing student
+teaching
+%X Virtual worlds have the potential to offer nursing students social networking and, learning, opportunities through the use of collaborative and immersive learning. If nursing educators, are to stay, abreast of contemporary learning opportunities an exploration of the potential benefits of, virtual, worlds and their possibilities is needed. Literature was sourced that explored virtual worlds, and their, use in education, but nursing education specifically. It is clear that immersive learning has, positive, benefits for nursing, however the best way to approach virtual reality in nursing education, has yet to, be ascertained. © 2013.
+%Z L1052927914
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L1052927914
+%U http://dx.doi.org/10.1016/j.colegn.2013.11.004
+%+ J. Green
+
+
+
+%0 Journal Article
+%A Hasan, S. S.
+%A Chong, D. W. K.
+%A Se, W. P.
+%A Kumar, S.
+%A Ahmed, S. I.
+%A Mittal, P.
+%D 2017
+%T Simulation-based instruction for pharmacy practice skill development: A review of the literature
+%B Archives of Pharmacy Practice
+%V 8
+%N 2
+%P 43-50
+%! Simulation-based instruction for pharmacy practice skill development: A review of the literature
+%@ 2045-080X
+%R 10.4103/app.app_68_16
+%K Cinahl
+education
+human
+Medline
+patient satisfaction
+physical examination
+skill
+systematic review
+teaching
+%X Background: Simulation is attractive for its potential for applying a control over learning environment, content complexity, teacher time, costs and risk. Simulation-based instruction (SBI) is poised to expand in pharmacy practice and education. This systematic review synthesises published, SBI in first-degree pharmacy programmes, especially those pertaining to psychomotor or cognitive skill development. Materials and Methods: MEDLINE, Cumulative Index to Nursing and Allied Health Literature, and some education journals were searched for relevant articles published between January 2000 and December 2015. Results: Of 108 articles identified, 12 were included, which were covering four major simulation-based interventions. These simulation-based interventions were diverse, and they covered a range of competencies and outcome measures. Nine studies included medication, and five studies included physical examination/procedure-related competencies as outcome measures. The evidence from nine studies suggested that skills could be improved through interventions involving human patient simulation. Conclusion: Despite improvements in students' ability to perform, there is a lack of evidence on how this translates to real settings and to patient satisfaction.
+%Z L615860883
+%U http://dx.doi.org/10.4103/app.app_68_16
+%+ S.S. Hasan, International Medical University, Bukit Jalil, Kuala Lumpur, Malaysia
+%~ EMBASE
+
+
+
+%0 Journal Article
+%A Kokol, P.
+%A Blazun, H.
+%A Micetić-Turk, D.
+%A Abbott, P. A.
+%D 2006
+%T e-Learning in nursing education--Challenges and opportunities
+%B Studies in health technology and informatics
+%V 122
+%P 387-390
+%! e-Learning in nursing education--Challenges and opportunities
+%@ 0926-9630
+%K article
+education
+human
+Internet
+interview
+nursing education
+Slovenia
+United States
+%X Quick changes on the field of informational communication technologies forces educational and other institutions to think about different ways of teaching and learning in both formal and informal environments. It addition it is well known that due to fast advancement of science and technology the knowledge gained in schools is getting out-of-date rapidly, so life long learning is becoming an essential alternative. As a consequence we are facing a rapid development and use of new educational approaches such as e-learning, simulations, virtual reality, etc. They brought a revolution to learning and instruction. But in general the empirical results of e-learning studies are somewhat disappointing. They cannot prove the superiority of e-learning processes over traditional learning in general, neither in specific areas like nursing. In our international study we proved that e-Learning can have many benefits and that it can enhance learning experience in nursing education, but it has to be provided in correct manner.
+%Z L44993694
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L44993694
+%+ P. Kokol, University of Maribor, University College of Nursing Studies, zitna ulica 15, Slovenia.
+
+
+
+%0 Journal Article
+%A Leigh, G. T.
+%D 2008
+%T High-fidelity patient simulation and nursing students' self-efficacy: a review of the literature
+%B International journal of nursing education scholarship
+%V 5
+%P Article 37
+%! High-fidelity patient simulation and nursing students' self-efficacy: a review of the literature
+%@ 1548-923X
+%K audiovisual equipment
+clinical competence
+health personnel attitude
+health service
+human
+methodology
+nursing education
+nursing methodology research
+nursing student
+psychological aspect
+qualitative research
+review
+self concept
+%X This paper highlights findings from a literature search to examine the effects of patient simulation on students' self-efficacy and confidence. The old teaching method of "see one, do one and teach one" which has long been used to teach nursing skills and to promote the acquisition of clinical expertise is no longer accepted as the best way to teach students. A nurse's confidence in her/his ability is essential for good patient care. Only when nursing students have confidence in their own abilities are they able to shift focus to the needs of their patients. Shifting from their own needs to that of a patient is essential to being a safe and competent practitioner. A literature review was conducted to examine the available research findings relating to self-efficacy in the education of nurses, high-fidelity patient simulation effect on nurses' self-efficacy, and the effectiveness of high-fidelity simulation and its challenges.
+%Z L550117941
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L550117941
+%+ G.T. Leigh, University of Louisiana at Lafayette, USA.
+
+
+
+%0 Journal Article
+%A Lucisano, K. E.
+%A Talbot, L. A.
+%D 2012
+%T Simulation training for advanced airway management for anesthesia and other healthcare providers: A systematic review
+%B AANA Journal
+%V 80
+%N 1
+%P 25-31
+%! Simulation training for advanced airway management for anesthesia and other healthcare providers: A systematic review
+%@ 0094-6354
+%K anesthesia
+health care personnel
+human
+Medline
+PsycINFO
+quasi experimental study
+respiration control
+review
+simulation
+systematic review
+teaching
+%X We studied the current literature on human patient simulation for preparing anesthesia and other healthcare providers for advanced airway management. A systematic review was conducted of articles published between 1990 and 2009 on advanced airway management for patients undergoing anesthesia and patients who are not. The search used 4 electronic databases: Cumulative Index to Nursing & Allied Health Literature, MEDLINE, PsycINFO, and Web of Science. We included 34 articles in the analysis; 15 were experimental or quasi-experimental designs, 8 descriptive studies and reports, and 11 analyses of equipment or technique evaluations using simulation. The majority of the studies included simulation education evaluation for a variety of medical, nursing, and allied health providers and students. Only 6 studies addressed the use of simulation as an educational or evaluation tool to enhance training of anesthesia providers in difficult airway management. Those studies included analyses of different types of training and the perceived value of simulated training, and evaluations of equipment. Few studies have analyzed the effects of this modality on trainer skills and patient safety. There is a clear need for well-designed studies to examine these effects.
+%Z L364758782
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L364758782
+%> http://www.aana.com/newsandjournal/Documents/simulationtraining_0212_p25-31.pdf
+%+ K.E. Lucisano, College of Health and Human Services, University of North Carolina at Charlotte, Charlotte, NC, United States
+
+
+
+%0 Journal Article
+%A Maxwell, S. R. J.
+%D 2010
+%T Pharmacology education for clinical students
+%B Basic and Clinical Pharmacology and Toxicology
+%V 107
+%P 98
+%! Pharmacology education for clinical students
+%@ 1742-7835
+%R 10.1111/j.1742-7843.2010.00598-4.x
+%K clinical pharmacology
+pharmacology
+student
+education
+patient
+learning environment
+pharmacy
+risk
+skill
+health
+occupation
+medication error
+health care system
+adverse drug reaction
+nursing
+%X A key goal of pharmacology education for clinical students (medical, pharmacy, nursing and others) is acquiring the knowledge and skills that enable them to prescribe, prepare, administer and review medicines taken by patients. These competencies are critical because medicines are the major approach to restoring and maintaining health in most healthcare systems. Working with medicines is a major part of the working day for each of these professions and also constitutes a high risk activity. The demands of this task have increased in recent years due to more drugs, more patients, older more vulnerable patients, and more complicated treatment regimens. There is now clear evidence from studies around the world that medication errors and avoidable adverse drug reactions are common and that better training could improve the situation. This session will address (i) the evidence supporting these concerns, (ii) whether changes in the style and content of undergraduate education might have contributed, (iii) what further information educators require and (iv) how the current situation might be improved by changes to the learning environment and assessments. It will look particularly at some recent developments in eLearning and eAssessments for safe medicines use.
+%Z L70222391
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70222391
+%U http://dx.doi.org/10.1111/j.1742-7843.2010.00598-4.x
+%+ S.R.J. Maxwell, University of Edinburgh, Western General Hospital, Clinical Pharmacology Unit, Edinburgh, United Kingdom
+
+
+
+%0 Journal Article
+%A Muirhead, R. J.
+%D 2007
+%T E-learning: is this teaching at students or teaching with students?
+%B Nursing forum
+%V 42
+%N 4
+%P 178-184
+%! E-learning: is this teaching at students or teaching with students?
+%@ 0029-6473
+%K adult
+cooperation
+educational model
+educational technology
+human
+knowledge
+methodology
+nurse attitude
+nursing education
+nursing student
+organization
+organization and management
+philosophy
+problem based learning
+psychological aspect
+psychological theory
+psychology
+public relations
+review
+teaching
+thinking
+%X The development of e-learning as a teaching strategy in higher education has implications relating to student learning, the role of the teacher, and the institution of higher education. This paper debates the andragogical and pedagogical theories that support the development of e-learning to date. Leading to a discussion on how the process of e-learning may be contributing to the "stamp-me-smart" culture and restricting the development of critical thinking within student nurses. Concluding that e-learning has a top-down institution-led development that is contrary to the student-led development espoused by universities.
+%Z L350331971
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L350331971
+%+ R.J. Muirhead, School of Nursing and Midwifery, Ninewells Hospital, Dundee, Scotland, UK.
+
+
+
+%0 Journal Article
+%A Neville, C.
+%A Goetz, S.
+%D 2014
+%T Quality and substance of educational strategies for mental health in undergraduate nursing curricula
+%B International journal of mental health nursing
+%V 23
+%N 2
+%P 128-134
+%! Quality and substance of educational strategies for mental health in undergraduate nursing curricula
+%@ 1447-0349
+%R 10.1111/inm.12025
+%K Australia
+curriculum
+education
+health personnel attitude
+health service
+human
+manpower
+nursing education
+psychiatric nursing
+%X In Australia, there is a workforce shortage of nurses in the mental health sector, and it is essential that universities play a part in the recruitment of nurses to work in this area. In this article, we present a literature review of educational strategies for mental health in undergraduate nursing curricula and how these align with the recommendations of the Mental Health Nurse Education Task Force. We reviewed quantitative and qualitative research from 2005 to 2012. Twelve studies from Australia and elsewhere of different types of educational courses and strategies were included for this review. The key topics identified were in relation to a general overview of programmes outlining the content and outcomes, clinical placement strategies, involvement of consumers and mental health nurses in curriculum delivery and oversight, e-learning strategies, and implementation of mental health majors. Finally, limitations with considering the literature as a whole were highlighted, and recommendations made for future changes and research.
+%Z L604898951
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L604898951
+%U http://dx.doi.org/10.1111/inm.12025
+
+
+
+%0 Journal Article
+%A O'Leary, J. A.
+%A Nash, R.
+%A Lewis, P. A.
+%D 2015
+%T High fidelity patient simulation as an educational tool in paediatric intensive care: A systematic review
+%B Nurse education today
+%V 35
+%N 10
+%P e8-e12
+%! High fidelity patient simulation as an educational tool in paediatric intensive care: A systematic review
+%@ 1532-2793
+%R 10.1016/j.nedt.2015.07.025
+%K child
+clinical competence
+human
+intensive care
+intensive care unit
+learning
+nursing education
+simulation training
+%X OBJECTIVE: The aim of this study was to examine the use of high fidelity patient simulation (HFPS) in paediatric intensive care nursing education through the use of a systematic literature review.
+METHOD: A systematic search was undertaken in the electronic databases CINAHL (via EBSCOhost), Medline and Pubmed, ClinicalKey, Science Direct and OVID. Electronic searches were supplemented by hand searches of journals, individual article reference lists and the World Wide Web. Main outcome measures were learner outcomes. The search was limited to papers published in English between 2000 and 2015.
+RESULTS: Eight papers satisfied the inclusion criteria of the review. Studies included in the review ranged from moderate to low on the quality assessment scale. HFPS training was associated with improved short-term learner outcomes of various measures, however this should be considered with the small number of studies examining this topic and the scarcity of high quality randomised studies.
+CONCLUSIONS: The evidence of improved learner outcomes following HFPS training in paediatric intensive care (PICU) nursing education should be considered together with the quality and methodological limitations of existing research. There was no evidence of negative effects. The direction of research suggests that HFPS is a useful tool in the education of PICU nurses.
+%Z L610830937
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L610830937
+%U http://dx.doi.org/10.1016/j.nedt.2015.07.025
+
+
+
+%0 Journal Article
+%A Ryall, T.
+%A Judd, B. K.
+%A Gordon, C. J.
+%D 2016
+%T Simulation-based assessments in health professional education: A systematic review
+%B Journal of Multidisciplinary Healthcare
+%V 9
+%P 69-82
+%! Simulation-based assessments in health professional education: A systematic review
+%@ 1178-2390
+%R 10.2147/JMDH.S92695
+%K clinical competence
+educational technology
+evidence based medicine
+human
+medical education
+paramedical education
+review
+sample size
+simulation training
+standardization
+systematic review
+teaching
+virtual reality
+%X Introduction: The use of simulation in health professional education has increased rapidly over the past 2 decades. While simulation has predominantly been used to train health professionals and students for a variety of clinically related situations, there is an increasing trend to use simulation as an assessment tool, especially for the development of technical-based skills required during clinical practice. However, there is a lack of evidence about the effectiveness of using simulation for the assessment of competency. Therefore, the aim of this systematic review was to examine simulation as an assessment tool of technical skills across health professional education. Methods: A systematic review of Cumulative Index to Nursing and Allied Health Literature (CINAHL), Education Resources Information Center (ERIC), Medical Literature Analysis and Retrieval System Online (Medline), and Web of Science databases was used to identify research studies published in English between 2000 and 2015 reporting on measures of validity, reliability, or feasibility of simulation as an assessment tool. The McMasters Critical Review for quantitative studies was used to determine methodological value on all full-text reviewed articles. Simulation techniques using human patient simulators, standardized patients, task trainers, and virtual reality were included. Results: A total of 1,064 articles were identified using search criteria, and 67 full-text articles were screened for eligibility. Twenty-one articles were included in the final review. The findings indicated that simulation was more robust when used as an assessment in combination with other assessment tools and when more than one simulation scenario was used. Limitations of the research papers included small participant numbers, poor methodological quality, and predominance of studies from medicine, which preclude any definite conclusions. Conclusion: Simulation has now been embedded across a range of health professional education and it appears that simulation-based assessments can be used effectively. However, the effectiveness as a stand-alone assessment tool requires further research.
+%Z L608699734
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L608699734
+%U http://dx.doi.org/10.2147/JMDH.S92695
+%+ C.J. Gordon, M02 – Sydney Nursing School, The University of Sydney, Sydney, Australia
+
+
+
+%0 Journal Article
+%A Terry, J.
+%D 2012
+%T Service user involvement in pre-registration mental health nurse education classroom settings: A review of the literature
+%B Journal of Psychiatric and Mental Health Nursing
+%V 19
+%N 9
+%P 816-829
+%! Service user involvement in pre-registration mental health nurse education classroom settings: A review of the literature
+%@ 1351-0126
+1365-2850
+%R 10.1111/j.1365-2850.2011.01858.x
+%K article
+consumer
+education
+human
+mental disease
+mental health service
+methodology
+nursing
+nursing education
+psychiatric nursing
+%X Service user involvement is an important part of pre-registration nursing programmes, as it can give students the opportunity to learn from users about their experiences of health and illness, but so far there have been limited studies in this area. • This literature review provides an opportunity to explore how service user involvement in classroom settings can impact on student learning, and describes methods of best practice. • Further research is needed to understand the influence of service user involvement on student nurses' clinical practice. Service user involvement in pre-registration nurse education is now a requirement, yet little is known about how students engage with users in the classroom, how such initiatives are being evaluated, how service users are prepared themselves to teach students, or the potential influence on clinical practice. The aim of this literature review was to bring together published articles on service user involvement in classroom settings in pre-registration mental health nurse education programmes, including their evaluations. A comprehensive review of the literature was carried out via computer search engines and the Internet, as well as a hand search of pertinent journals and references. This produced eight papers that fitted the inclusion criteria, comprising four empirical studies and four review articles, which were then reviewed using a seven-item checklist. The articles revealed a range of teaching and learning strategies had been employed, ranging from exposure to users' personal stories, to students being required to demonstrate awareness of user perspectives in case study presentations, with others involving eLearning and assessment skills initiatives. This review concludes that further longitudinal research is needed to establish the influence of user involvement in the classroom over time. © 2012 Blackwell Publishing.
+%Z L51844288
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L51844288
+%U http://dx.doi.org/10.1111/j.1365-2850.2011.01858.x
+%+ J. Terry, College of Human and Health Sciences, Swansea University, Carmarthen, Carmarthenshire SA313HB, United Kingdom
+
+
+
+%0 Journal Article
+%A Weaver, A.
+%D 2011
+%T High-fidelity patient simulation in nursing education: An integrative review
+%B Nursing Education Perspectives
+%V 32
+%N 1
+%P 37-40
+%! High-fidelity patient simulation in nursing education: An integrative review
+%@ 1536-5026
+%R 10.5480/1536-5026-32.1.37
+%K attitude to health
+audiovisual equipment
+human
+learning
+mental stress
+methodology
+nursing education
+nursing student
+psychological aspect
+review
+%X An integrative review was undertaken to analyze studies published since 1998 on the use of high-fidelity patient simulation (HFPS) in undergraduate nursing education. This review found that HFPS benefits nursing students in terms of knowledge, value, realism, and learner satisfaction; findings were mixed in the areas of student confidence, knowledge transfer, and stress. Further research in these and other areas will determine whether its increased use is warranted.
+%Z L362484365
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L362484365
+%U http://dx.doi.org/10.5480/1536-5026-32.1.37
+%+ A. Weaver, Department of Nursing, Youngstown State University, Youngstown, OH, United States
+
+
+

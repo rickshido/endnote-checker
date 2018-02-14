@@ -1,0 +1,758 @@
+%0 Journal Article
+%D 2015
+%T E-learning answer to global nurse shortage
+%B Nursing times
+%V 111
+%N 4
+%P 5
+%! E-learning answer to global nurse shortage
+%@ 0954-7762
+%K human
+nurse
+nursing education
+procedures
+supply and distribution
+teaching
+%Z L604990141
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L604990141
+
+
+
+%0 Journal Article
+%A Anderson, J. K.
+%A Page, A. M.
+%A Wendorf, D. M.
+%D 2013
+%T Avatar-assisted case studies
+%B Nurse educator
+%V 38
+%N 3
+%P 106-109
+%! Avatar-assisted case studies
+%@ 1538-9855
+%K article
+computer interface
+education
+educational technology
+human
+methodology
+nursing education
+nursing evaluation research
+nursing methodology research
+nursing student
+pharmacology
+pilot study
+problem based learning
+psychological aspect
+socialization
+teaching
+%X Engaging students in active techniques that promote learning and socialization in nursing may be achieved using Voki technology. The authors discuss a project, and its outcomes, that used avatar-assisted case studies. Instructors looking for a new teaching technology that can be integrated into case studies are encouraged to explore this venue as an active learning technology.
+%Z L369458450
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L369458450
+%+ J.K. Anderson, Viterbo University, 900 Viterbo Drive, La Crosse, WI 54601, USA.
+
+
+
+%0 Journal Article
+%A Barker, V. L.
+%D 1997
+%T Virtual reality: from the development laboratory to the classroom
+%B Studies in health technology and informatics
+%V 39
+%P 539-542
+%! Virtual reality: from the development laboratory to the classroom
+%@ 0926-9630
+%K article
+computer interface
+computer simulation
+human
+methodology
+nursing
+nursing education
+phlebotomy
+teaching
+%X In conclusion, in order for virtual reality simulations to move from the R & D laboratory to the teaching classroom on a large scale basis, there are four conditions which must be met: faculty involvement, student cooperation, affordable equipment and administrative support. 1. Faculty must understand the advantages of using VR simulations and be committed to developing the procedures and teaching modules and evaluating their effectiveness. They must understand that the simulations are another teaching tool and not a substitute for the teacher. 2. Students must be guided in the use of VR simulations to develop the level of skill required. Students must be willing to accept new ways of learning and must be able to see their individual learning progress in skill development. 3. Equipment-Must be realistic, affordable, available and clearly demonstrate advantages over traditional methods of teaching. 4. Administrative Support-Initially the cost of instituting VR simulations may be more than using other traditional teaching tools, thus ongoing financial support is very important. I believe that the faculty of the Nursing Department at the State University of New York at Plattsburgh is showing the way in incorporating VR simulations into a traditional undergraduate nursing program and as a result they are changing forever the way we will prepare health professionals for the future.
+%Z L127281675
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L127281675
+%+ V.L. Barker, State University of New York at Plattsburgh 12901, USA.
+
+
+
+%0 Journal Article
+%A Beaton, M.
+%D 2007
+%T Putting the senior seminar online
+%B Nurse educator
+%V 32
+%N 6
+%P 265-268
+%! Putting the senior seminar online
+%@ 0363-3624
+%K article
+Canada
+clinical competence
+e-mail
+educational model
+evaluation study
+health care quality
+human
+Internet
+interpersonal communication
+methodology
+nurse attitude
+nursing education
+nursing student
+online system
+organization and management
+problem solving
+program development
+psychological aspect
+public relations
+social support
+teaching
+thinking
+%X A seminar for graduating bachelor of science in nursing students involving discussion of clinical problems was successfully offered online concurrently with their clinical placements, rather than as an in-class course after clinical experience. The author describes the model used to guide discussion, which used a WebCT platform. The Web-based seminar achieved all the objectives of the classroom course while allowing more timely consideration of the issues that students encountered in practice and more considered discussion by students.
+%Z L350334320
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L350334320
+%+ M. Beaton, School of Nursing, Memorial University of Newfoundland, St John's, Canada.
+
+
+
+%0 Journal Article
+%A Benham-Hutchins, M.
+%A Lall, M. P.
+%D 2015
+%T Perception of Nursing Education Uses of Second Life by Graduate Nursing Students
+%B Computers, informatics, nursing : CIN
+%V 33
+%N 9
+%P 404-409
+%! Perception of Nursing Education Uses of Second Life by Graduate Nursing Students
+%@ 1538-9774
+%R 10.1097/CIN.0000000000000170
+%K adult
+computer interface
+computer simulation
+education
+educational technology
+female
+human
+Internet
+male
+middle aged
+nursing education
+nursing student
+procedures
+psychology
+qualitative research
+%X Although virtual reality platforms, such as Second Life, have been used in academic settings for more than a decade, little is known about how students perceive or adapt to this technology. This article presents the results of a research study that examined the experiences and perceptions of graduate nursing students as they explored the educational applications of Second Life. The students created avatars, interacted with one another in the virtual world, explored healthcare and educational uses, and maintained a reflective blog (online journal) of their experiences. Conventional content analysis was used to analyze the reflective blogs, and four themes were identified: (1) mastering Second Life, (2) technological challenges, (3) social interaction, and (4) knowledge dissemination. The results support the use of virtual reality in education, as even novice graduate students were able to overcome initial challenges and learn to navigate within a virtual world.
+%Z L610691844
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L610691844
+%U http://dx.doi.org/10.1097/CIN.0000000000000170
+
+
+
+%0 Journal Article
+%A Betts, H.
+%A Burgess, J.
+%D 2006
+%T A preliminary evaluation of the first e-learning nurse prescribing course in England
+%B Studies in health technology and informatics
+%V 122
+%P 153-157
+%! A preliminary evaluation of the first e-learning nurse prescribing course in England
+%@ 0926-9630
+%K article
+evaluation study
+Internet
+nursing education
+prescription
+questionnaire
+United Kingdom
+%X Open Learning has been offered by the University of Winchester since 1991 in a partnership with the publishing company Emap Healthcare. A new on-line module for Independent, Extended and Supplementary Nurse Prescribing was developed by Emap Healthcare to meet a Government initiative to develop the role of nurses. The on-line module was created because of the wide spread national requirement, the need to keep the learning material contemporary and to revise it easily as required. Fourteen students completed the course and this paper reports the preliminary evaluation of the first cohort. Two questionnaires were analysed quantitatively and qualitatively and both the course management and the e-learning materials evaluations demonstrate the success of this first cohort. Various minor changes to the course management have subsequently been implemented following this analysis.
+%Z L44993647
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L44993647
+%+ H. Betts, Faculty of Social Sciences, The University of Winchester, West Hill, Winchester, SO22 4NR, England.
+
+
+
+%0 Journal Article
+%A Blair, J.
+%D 2002
+%T E-learning: a virtual challenge for educators
+%B Nursing times
+%V 98
+%N 31
+%P 34-35
+%! E-learning: a virtual challenge for educators
+%@ 0954-7762
+%K article
+curriculum
+human
+Internet
+learning disorder
+nursing education
+%X This article examines e-learning in nurse education, specifically in learning disability nurse education, exploring its anticipated impact and discussing the importance of managing its implementation. Ways of utilising new technologies for the benefit of nursing students are analysed. The article also looks at how nurses' use of e-learning can help people with learning disabilities and cautions against relying on an overly technological approach in the humanistic fields of education and nursing.
+%Z L35630339
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L35630339
+%+ J. Blair, Kingston University, St George's Hospital Medical School, London.
+
+
+
+%0 Journal Article
+%A Bland, A. J.
+%A Topping, A.
+%A Tobbell, J.
+%D 2014
+%T Time to unravel the conceptual confusion of authenticity and fidelity and their contribution to learning within simulation-based nurse education. A discussion paper
+%B Nurse education today
+%V 34
+%N 7
+%P 1112-1118
+%! Time to unravel the conceptual confusion of authenticity and fidelity and their contribution to learning within simulation-based nurse education. A discussion paper
+%@ 1532-2793
+%R 10.1016/j.nedt.2014.03.009
+%K audiovisual equipment
+computer simulation
+educational model
+human
+invention
+learning
+nursing education
+nursing student
+procedures
+program evaluation
+teaching
+%X High-fidelity patient simulation is a method of education increasingly utilised by educators of nursing to provide authentic learning experiences. Fidelity and authenticity, however, are not conceptually equivalent. Whilst fidelity is important when striving to replicate a life experience such as clinical practice, authenticity can be produced with low fidelity. A challenge for educators of undergraduate nursing is to ensure authentic representation of the clinical situation which is a core component for potential success. What is less clear is the relationship between fidelity and authenticity in the context of simulation based learning. Authenticity does not automatically follow fidelity and as a result, educators of nursing cannot assume that embracing the latest technology-based educational tools will in isolation provide a learning environment perceived authentic by the learner. As nursing education programmes increasingly adopt simulators that offer the possibility of representing authentic real world situations, there is an urgency to better articulate and understand the terms fidelity and authenticity. Without such understanding there is a real danger that simulation as a teaching and learning resource in nurse education will never reach its potential and be misunderstood, creating a potential barrier to learning. This paper examines current literature to promote discussion within nurse education, concluding that authenticity in the context of simulation-based learning is complex, relying on far more than engineered fidelity.
+%Z L606762873
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L606762873
+%U http://dx.doi.org/10.1016/j.nedt.2014.03.009
+
+
+
+%0 Journal Article
+%A Blum, C. A.
+%A Borglund, S.
+%A Parcells, D.
+%D 2010
+%T High-fidelity nursing simulation: impact on student self-confidence and clinical competence
+%B International journal of nursing education scholarship
+%V 7
+%N 1
+%P Article 18
+%! High-fidelity nursing simulation: impact on student self-confidence and clinical competence
+%@ 1548-923X
+%K adult
+article
+audiovisual equipment
+clinical competence
+clinical trial
+computer interface
+controlled clinical trial
+controlled study
+female
+health care quality
+human
+male
+methodology
+nurse patient relationship
+nursing education
+self concept
+United States
+%X Development of safe nursing practice in entry-level nursing students requires special consideration from nurse educators. The paucity of data supporting high-fidelity patient simulation effectiveness in this population informed the development of a quasi-experimental, quantitative study of the relationship between simulation and student self-confidence and clinical competence. Moreover, the study reports a novel approach to measuring self-confidence and competence of entry-level nursing students. Fifty-three baccalaureate students, enrolled in either a traditional or simulation-enhanced laboratory, participated during their first clinical rotation. Student self-confidence and faculty perception of student clinical competence were measured using selected scale items of the Lasater Clinical Judgment Rubric. The results indicated an overall improvement in self-confidence and competence across the semester, however, simulation did not significantly enhance these caring attributes. The study highlights the need for further examination of teaching strategies developed to promote the transfer of self-confidence and competence from the laboratory to the clinical setting.
+%Z L359807370
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L359807370
+%+ C.A. Blum, Florida Atlantic University, USA.
+
+
+
+%0 Journal Article
+%A Bolesta, S.
+%A Chmil, J. V.
+%D 2014
+%T Interprofessional education among student health professionals using human patient simulation
+%B American journal of pharmaceutical education
+%V 78
+%N 5
+%P 94
+%! Interprofessional education among student health professionals using human patient simulation
+%@ 1553-6467
+%R 10.5688/ajpe78594
+%K clinical competence
+cooperation
+curriculum
+education
+heart failure
+human
+interpersonal communication
+nursing education
+nursing student
+pharmacy student
+procedures
+psychology
+public relations
+teaching
+%X OBJECTIVE: To describe the planning, implementation, and outcomes of an interprofessional education clinical laboratory facilitated through human patient simulation.
+DESIGN: An interprofessional education clinical laboratory was developed with a patient-care scenario of acute exacerbation of heart failure that incorporated the use of a high-fidelity patient simulator. Pharmacy and nursing students assumed clinical roles in this realistic scenario and collaborated to diagnose and treat the patient.
+ASSESSMENT: Student attitudes toward and readiness to participate in interprofessional education improved following participation in the laboratory. Students reported that the greatest benefit of the experience was in their communication skills.
+CONCLUSION: Students' ability to participate in interprofessional education experiences and their attitudes toward them improved following participation in this curricular initiative. Further evaluation of the impact of interprofessional education on student learning outcomes and changes in practice is warranted.
+%Z L604690420
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L604690420
+%U http://dx.doi.org/10.5688/ajpe78594
+
+
+
+%0 Journal Article
+%A Boling, P.
+%A DiazGranados, D.
+%A Palesis, J.
+%A Lockeman, K.
+%A Dow, A.
+%D 2015
+%T Using social network analysis to evaluate geriatric interprofessional virtual teams
+%B Journal of the American Geriatrics Society
+%V 63
+%P S115
+%! Using social network analysis to evaluate geriatric interprofessional virtual teams
+%@ 0002-8614
+%R 10.1111/jgs.13439
+%K social network
+American
+geriatrics
+society
+human
+student
+learning
+environment
+consensus
+geriatric patient
+social work
+pharmacy
+nursing
+education
+%X Background: Two obstacles to implementing effective interprofessional education are logistics (e.g., scheduling and space) and assessment. To overcome logistical obstacles, we developed a Virtual Case System (VCS) that provides a web-based platform for teams of students from medicine, nursing, pharmacy, and social work to collaborate around managing a geriatric patient. Using the VCS message board students communicate and raech consensus on team responses to geriatric-based questions. Team answers generate a total team score and, automatically collected metrics such as logins and message posts, track students' activity. Previously, we reported that activity measures positively correlate with team score. We now hypothesize that using Social Network Analysis (SNA), we can analyze message board activity to further define which team collaboration structures are correlated with better team performance. Methods: Using message board data from the fall of 2013, we built 42 networks of 322 students and calculated key metrics that quantitatively define team collaboration patterns, including: number of posts, average geodesic distance (average distance separating points in the network), subgroupings (the number of point clusters in the network), and modularity inverse (the degree of connectivity across subgroupings). We correlated these metrics with team score. Results: Team score is significantly correlated with number of posts, indicating that team performance is related to level of student participation (r = 0.44, p=.002); average geodesic distance (the opposite of closeness), suggesting teams whose members are more distant (i.e., less integrated and participate less broadly across discussion topics) are less effective (r = -0.28, p=.034); and modularity inverse, suggesting that teams which avoid cliquish behavior are more effective (r = 0.35, p=.011). Subgroupings were not associated with team score. Conclusions: Data from SNA added insights about the characteristics of successful teams during the VCS learning experience. Specifically, participation and integration predicted higher score while the number of subgroupings did not impact team score. These results can shape the evaluation of this and other interprofessional learning experience. In addition, applying SNA techniques to the clinical environment may delineate the most successful patterns of team collaboration.
+%Z L71856068
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71856068
+%U http://dx.doi.org/10.1111/jgs.13439
+%+ P. Boling, Virginia Commonwealth University, Richmond, United States
+
+
+
+%0 Journal Article
+%A Boling, P.
+%A Stephens, C.
+%A Browning, J.
+%A Dow, A.
+%D 2013
+%T Design of a successful virtual case system for geriatric interprofessional education (IPE) and evaluation
+%B Journal of the American Geriatrics Society
+%V 61
+%P S154
+%! Design of a successful virtual case system for geriatric interprofessional education (IPE) and evaluation
+%@ 0002-8614
+%R 10.1111/jgs.12263
+%K geriatrics
+society
+education
+human
+student
+software
+electronic medical record
+decision making
+administrative personnel
+pharmacy
+register
+school
+nursing
+social work
+city
+multiple choice test
+teamwork
+%X Background: Optimal care requires interprofessional teamwork but logistical challenges limit shared in-person team training. Thus we created an interactive web-based platform for asynchronous collaborative education. Methods: We designed a virtual case system with a non-branching case design in 4 segments. Multiple-choice questions measure geriatric knowledge and decision-making. The case links all 26 AAMC geriatric competencies and crosses all major care settings. Each user receives case information that differs by specialty and, for best results, must share data with teammates within the system's electronic medical record. Individuals next answer questions individually; then teams answer the same questions jointly. Users can select multiple answers with each choice carrying positive or negative values based on appropriateness. To support students' work, the system offers resource links, a team roster with personal photo options, and a threaded dialogue box. Students also complete a 360-degree evaluation at the end of each segment. Administrators and educators have real-time access to learner data including logins, posts, and scores; the option to comment in the dialogue box; and ability to easily modify case content, questions, answers, point values, timelines, and users. Using Microsoft .NET, T-SQL and Adobe Flash software, the system registers users securely, sends data selectively to users, and captures user data in analyzable formats at the individual and group level. In August 2011, we initiated school-wide participation by senior VCU students from medicine, nursing, pharmacy and social-work. Results: With 20 teams per wave in waves lasting 6 weeks, 295 learners have successfully used the system. About 15% are out of town at any moment. Technical problems involved log-in and browser resolution, requiring limited support; most derived from user error. Preceptor time was about 1 hour per week, and student time was 5 to 10 hours per week when actively engaged. Learners averaged 12 case record contributions, 15 posts to the dialogue box, and 55 dialogue box views over the 6-week experience. Two students failed to complete their work and will repeat the assignment. More than 600 learners will complete the case by April 2013. Conclusions: This web-based case system is an effective tool for asynchronous IPE that overcomes logistical and cost barriers in this emerging instructional field.
+%Z L71038422
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71038422
+%U http://dx.doi.org/10.1111/jgs.12263
+%+ P. Boling, Medicine, Virginia Commonwealth University, Richmond, United States
+
+
+
+%0 Journal Article
+%A Boyd, S. E.
+%A Sanders, C. L.
+%A Kleinert, H. L.
+%A Huff, M. B.
+%A Lock, S.
+%A Johnson, S.
+%A Clevenger, K.
+%A Bush, N. A.
+%A Van Dyke, E.
+%A Clark, T. L.
+%D 2008
+%T Virtual Patient Training to Improve Reproductive Health Care for Women With Intellectual Disabilities
+%B Journal of Midwifery and Women's Health
+%V 53
+%N 5
+%P 453-460
+%! Virtual Patient Training to Improve Reproductive Health Care for Women With Intellectual Disabilities
+%@ 1526-9523
+%R 10.1016/j.jmwh.2008.04.017
+%K abdominal pain
+adult
+article
+disease severity
+doctor patient relation
+female
+health care
+human
+intellectual impairment
+knowledge
+male
+medical education
+medical student
+nursing student
+patient care
+perception
+priority journal
+reproductive health
+women's health
+%X A multimedia virtual patient module, involving the case of a young woman with mild intellectual disabilities with a complaint of diffuse abdominal pain, was developed as a clinical training tool for students in health care professions. Primary objectives following use of the module included improved knowledge and reduced perception of difficulty in treating women's health patients with intellectual disabilities. The module was developed using an iterative, collaborative process of a core development team that included medical professionals, multimedia specialists, the parent of a child with intellectual disability, and a disability advocate. Over the course of the module, students were required to identify appropriate and effective clinician-patient interactions in addition to relevant medical and developmental concerns for this patient population. Pilot data from a sample of nursing, physician assistant, and medical students suggest that the module is an effective tool for both improving students' knowledge and reducing their perception of difficulty in providing care to women's health patients with intellectual disabilities. © 2008 American College of Nurse-Midwives.
+%Z L352212687
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L352212687
+%U http://dx.doi.org/10.1016/j.jmwh.2008.04.017
+
+
+
+%0 Journal Article
+%A Bremner, M. N.
+%A Aduddell, K.
+%A Bennett, D. N.
+%A VanGeest, J. B.
+%D 2006
+%T The use of human patient simulators: best practices with novice nursing students
+%B Nurse educator
+%V 31
+%N 4
+%P 170-174
+%! The use of human patient simulators: best practices with novice nursing students
+%@ 0363-3624
+%K article
+audiovisual equipment
+clinical competence
+cooperation
+evaluation study
+health personnel attitude
+health service
+human
+medical error
+methodology
+nursing assessment
+nursing education
+nursing methodology research
+nursing student
+psychological aspect
+psychology
+public relations
+qualitative research
+quality control
+questionnaire
+role playing
+safety
+self concept
+standard
+%X Only recently have nursing educators begun to consider the enormous implications of using high-fidelity human patient simulation in general nursing education. As a first step in exploring the potential of this new technology with novice nursing students, faculty conducted a quantitative and qualitative analysis of students' reactions to a simulation. In addition, from the analysis and the review of literature, the faculty identified specific best practices for using this educational methodology with novice nursing students.
+%Z L44302770
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L44302770
+%+ M.N. Bremner, School of Nursing, Kennesaw State University, Kennesaw, GA 30152, USA.
+
+
+
+%0 Journal Article
+%A Burbach, B.
+%A Barnason, S.
+%A Thompson, S. A.
+%D 2015
+%T Using "think aloud" to capture clinical reasoning during patient simulation
+%B International journal of nursing education scholarship
+%V 12
+%! Using "think aloud" to capture clinical reasoning during patient simulation
+%@ 1548-923X
+%R 10.1515/ijnes-2014-0044
+%K clinical competence
+education
+female
+human
+male
+nurse patient relationship
+nursing assessment
+nursing education
+nursing methodology research
+problem based learning
+procedures
+teaching
+thinking
+United States
+%X Think Aloud (TA), a strategy in which subjects are instructed to verbalize thoughts as they occur while completing an assigned task, was integrated into a study of clinical reasoning during high fidelity patient simulation by baccalaureate nursing students. TA methods in nursing education research with patient simulation have not previously been reported. Concurrent TA (verbalization of thoughts in short-term memory) and retrospective TA (reflective thoughts verbalized during an immediate post-simulation interview) methods facilitated the collection of rich and meaningful data. Students demonstrated distinct patterns in verbalization during concurrent TA, including public and private thoughts, narration of care, and the use of the pause to facilitate clinical reasoning. Retrospective TA data provided rich descriptions of reflection-on-action. TA provides a rich source of data regarding clinical reasoning as experienced by the baccalaureate nursing student during high fidelity patient simulation.
+%Z L607506114
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L607506114
+%U http://dx.doi.org/10.1515/ijnes-2014-0044
+
+
+
+%0 Journal Article
+%A Carbonaro, M.
+%A King, S.
+%A Taylor, E.
+%A Satzinger, F.
+%A Snart, F.
+%A Drummond, J.
+%D 2008
+%T Integration of e-learning technologies in an interprofessional health science course
+%B Medical Teacher
+%V 30
+%N 1
+%P 25-33
+%! Integration of e-learning technologies in an interprofessional health science course
+%@ 0142-159X
+1466-187X
+%R 10.1080/01421590701753450
+%K article
+computer system
+controlled study
+e-learning
+educational technology
+health education
+human
+human computer interaction
+information technology
+Internet
+learning environment
+medical education
+medical student
+pedagogics
+student attitude
+%X Background: Advances in information and communication technology are influencing instructional formats and delivery modes for post secondary teaching and learning. Aims: The purpose of this study was to determine whether interprofessional team process skills traditionally taught in a small group face-to-face classroom setting could be taught in a blended learning environment; without compromising the pedagogical approach and collaborative Group Investigation Model (Sharan & Sharan 1992) used in the course. Method: A required interprofessional team development course designed to teach health science students (Medicine, Nursing, Pharmacy, Occupational Therapy, Physical Therapy, Dentistry, Dental Hygiene, Medical Laboratory Science, and Nutrition) team process skills was redesigned from a 100% face-to-face delivery format to a blended learning format where 70% of the instruction was delivered using a new synchronous virtual classroom technology (Elluminate www.elluminate.com) in conjunction with asynchronous technology (WebCT). It was hypothesized there would be no significant difference between the blended learning format and the traditional face-to-face format in the development of interprofessional team knowledge, skills and attitudes. The two formats were evaluated on demographic information, computer experience, and interprofessional team attitudes, knowledge and skills. Results: The three main findings are: (a) no significant differences between student groups on achieving team process skills, (b) an observation of differences between the groups on team dynamics, and (c) a more positive achievement of course learning objectives perceived by students in the blended learning class. Conclusions: The results provide evidence to support our blended learning format without compromising pedagogy. They also suggest that this format enhances students' perceptions of their learning.
+%Z L351266779
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L351266779
+%U http://dx.doi.org/10.1080/01421590701753450
+%+ M. Carbonaro, Faculty of Education, Department of Educational Psychology, University of Alberta, Edmonton, AB, Canada
+
+
+
+%0 Journal Article
+%A Chan, A. W. K.
+%A Chair, S. Y.
+%A Sit, J. W. H.
+%A Wong, E. M. L.
+%A Lee, D. T. F.
+%A Fung, O. W. M.
+%D 2016
+%T Case-Based Web Learning Versus Face-to-Face Learning: A Mixed-Method Study on University Nursing Students
+%B The journal of nursing research : JNR
+%V 24
+%N 1
+%P 31-40
+%! Case-Based Web Learning Versus Face-to-Face Learning: A Mixed-Method Study on University Nursing Students
+%@ 1948-965X
+%R 10.1097/jnr.0000000000000104
+%K adult
+Asian continental ancestry group
+attitude to computers
+comparative study
+female
+Hong Kong
+human
+Internet
+male
+nursing education
+nursing student
+organization and management
+problem based learning
+psychology
+questionnaire
+teaching
+young adult
+%X PURPOSE: This study aims to examine the CBL experience of Hong Kong students using both traditional classroom and Web-based approaches in undergraduate nursing education. This experience is examined in terms of the perceived self-learning ability, clinical reasoning ability, and satisfaction in learning of these students.
+METHODS: A mixture of quantitative and qualitative approaches was adopted. All Year-3 undergraduate nursing students were recruited. CBL was conducted using the traditional classroom approach in Semester 1, and the Web-based approach was conducted in Semester 2. Student evaluations were collected at the end of each semester using a self-report questionnaire. In-depth, focus-group interviews were conducted at the end of Semester 2.
+RESULTS: One hundred twenty-two students returned their questionnaires. No difference between the face-to-face and Web-based approaches was found in terms of self-learning ability (p = .947), clinical reasoning ability (p = .721), and satisfaction (p = .083). Focus group interview findings complemented survey findings and revealed five themes that reflected the CBL learning experience of Hong Kong students. These themes were (a) the structure of CBL, (b) the learning environment of Web-based CBL, (c) critical thinking and problem solving, (d) cultural influence on CBL learning experience, and (e) student-centered and teacher-centered learning.
+CONCLUSIONS: The Web-based CBL approach was comparable but not superior to the traditional classroom CBL approach. The Web-based CBL experience of these students sheds light on the impact of Chinese culture on student learning behavior and preferences.
+BACKGROUND: Case-based learning (CBL) is an effective educational method for improving the learning and clinical reasoning skills of students. Advances in e-learning technology have supported the development of the Web-based CBL approach to teaching as an alternative or supplement to the traditional classroom approach.
+%Z L612571925
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L612571925
+%U http://dx.doi.org/10.1097/jnr.0000000000000104
+
+
+
+%0 Journal Article
+%A Choi, S.
+%A Annan, R.
+%D 2011
+%T Challenges in developing open and accessible medical education resources: Lessons learnt from Uganda
+%B Medical Education, Supplement
+%V 45
+%P 28
+%! Challenges in developing open and accessible medical education resources: Lessons learnt from Uganda
+%@ 1352-3929
+%R 10.1111/j.13652923.2011.04093
+%K Uganda
+medical education
+human
+malnutrition
+Internet
+computer
+e-mail
+learning
+health practitioner
+nurse
+velocity
+child
+infant
+university
+disability
+physician
+methodology
+medical student
+developing country
+environment
+registration
+Medline
+cause of death
+information processing
+interview
+questionnaire
+United Kingdom
+dietitian
+developed country
+world health organization
+%X Background and Purpose: Malnutrition is a major cause of death and disability among infants and children.1 An important reason behind failure of malnutrition management is limited knowledge and competency of health professionals.2 It is imperative that their capacity is developed. One way to achieve this is to provide health professionals with standardised and accessible training on malnutrition management. To achieve this, the IMTF and Faculty of Medicine eLearning at the University of Southampton have developed an eLearning course called 'Caring for infants and children with Severe Acute Malnutrition (SAM)'. Designed based on the WHO's guidelines, it provides standardised and interactive learning in 3 modules - core concepts, identification and management. Although rich in media, the course is created to run on a low spec computer with a limited internet speed to enable its access in both developed and developing countries. By completing it the user will gain the core knowledge and competencies for SAM management. Methodology: In collaboration with the Uganda Paediatric Association (UPA), a study was conducted in Uganda in December 2010 to evaluate the effectiveness of the course and appropriateness of its delivery. Eight-six, including doctors, medical students, nurses and nutritionists, participated in 3 half-days training. The study was planned through email correspondences between the UK project team and UPA. Four members of the project team came to Uganda to make the final arrangement and to conduct the study. Using pre and post tests and questionnaires, observation, individual interviews and focus groups, the participants' experience during the study were investigated. Results: Overall the course was well received for its design and delivery. However, the study presented a challenge in designing open and accessible medical resources. The course piloted is accessible through a registration requiring user email as their ID. However, one third, mainly nurses, neither had email accounts nor used a computer before. Only 14 out of 35 interviewed had computers and 8 had internet access. Google, PubMed and eMedicine were used by those who used internet for learning, but none had used an open educational resources repository. When tried to access medical resources from repositories, most were not 'accessible' due to limited internet speed. Discussion and Conclusions: This study presents us a question of what 'open' and 'accessible' medical resources are. What are accessible and open in developed countries may not be the same elsewhere; therefore, not open or accessible to them. To share a medical resource, we need to create it accessible and open to all, and this means we should consider the user environment.
+%Z L71977723
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71977723
+%U http://dx.doi.org/10.1111/j.13652923.2011.04093
+%+ S. Choi, School of Medicine, University of Southampton, Southampton General Hospital, Southampton, United Kingdom
+
+
+
+%0 Journal Article
+%A Claman, F. L.
+%D 2015
+%T The impact of multiuser virtual environments on student engagement
+%B Nurse education in practice
+%V 15
+%N 1
+%P 13-16
+%! The impact of multiuser virtual environments on student engagement
+%@ 1873-5223
+%R 10.1016/j.nepr.2014.11.006
+%K adult
+computer interface
+education
+female
+human
+Internet
+learning
+male
+nursing education
+nursing student
+pilot study
+procedures
+psychology
+questionnaire
+%X The purpose of this pilot study was to test the hypothesis that web-based synchronous instruction utilizing Multi-user Virtual World Environments (MUVEs) increases student engagement compared to traditional asynchronous learning methods. In a quasi-experimental two group posttest only study, a sample of Family Nurse Practitioner students (n = 21) received instruction using either a synchronous (n = 10) or asynchronous (n = 11) learning method. Engagement was measured using the Community of Inquiry survey. Results indicated that engagement scores were significantly higher for the synchronous learning platform (mean = 3.61, SD = 1.13) compared to the asynchronous learning platform (mean = 3.49, SD = 1.08, t(1766) = -2.21, p < 0.05). Increased student engagement with synchronous MUVE platforms have the potential to improve learning outcomes and offer nursing students a multitude of educational opportunities to practice new skills and behaviors in real life scenarios, all within the safety of a controlled environment.
+%Z L605937031
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L605937031
+%U http://dx.doi.org/10.1016/j.nepr.2014.11.006
+
+
+
+%0 Journal Article
+%A Clark, S.
+%A Piercey, C.
+%D 2012
+%T E-learning provides nursing education in remote areas
+%B Australian nursing journal (July 1993)
+%V 20
+%N 4
+%P 49
+%! E-learning provides nursing education in remote areas
+%@ 1320-3185
+%K article
+Australia
+human
+Internet
+methodology
+nursing education
+%X E-learning has increased opportunities for students in a remote region of Western Australia to gain undergraduate nursing qualifications. The University of Notre Dame Australia campus in Broome, far north Western Australia, School of Nursing is about to graduate its ninth group of undergraduate Bachelor of nursing students and fourth group of Diploma of Nursing students. All groups have used several forms of E-learning. People living in remote areas often have limited ability to access education and in particular to gaining a qualification...
+%Z L366367031
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L366367031
+%+ S. Clark, School of Nursing, University of Notre Dame Broome Campus.
+
+
+
+%0 Journal Article
+%A Condon, B. B.
+%D 2013
+%T The Present State of Presence in Technology
+%B Nursing Science Quarterly
+%V 26
+%N 1
+%P 24-28
+%! The Present State of Presence in Technology
+%@ 0894-3184
+1552-7409
+%R 10.1177/0894318412466738
+%K article
+Internet
+nursing education
+nursing student
+teaching
+%X Over the past several years, education in general and nursing education specifically has implemented a variety of technological formats in which to enhance the teaching-learning environment. As nursing students are exposed to more and more technology as a teaching platform, the question remains whether they are getting enough exposure to actual presence, since it is presence that is often recommended as a large part of nurse-person encounters. This column then explores the existence of presence in technology, while describing the surfacing of presence in several technological formats. © The Author(s) 2013.
+%Z L366308043
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L366308043
+%U http://dx.doi.org/10.1177/0894318412466738
+%+ B. B. Condon, Briar Cliff University, Sioux City, IA 51104, United States
+
+
+
+%0 Journal Article
+%A Connors, H.
+%A Warren, J.
+%A Weaver, C.
+%D 2007
+%T HIT plants SEEDS in healthcare education
+%B Nursing administration quarterly
+%V 31
+%N 2
+%P 129-133
+%! HIT plants SEEDS in healthcare education
+%@ 0363-9568
+%K article
+curriculum
+decision support system
+education
+evaluation study
+forecasting
+health care quality
+health service
+human
+human computer interaction
+leadership
+medical record
+methodology
+nurse practitioner
+nursing education
+nursing informatics
+organization
+organization and management
+outcome assessment
+professional competence
+safety
+standard
+teaching
+total quality management
+United States
+%X By incorporating a clinical information system in the education curriculum as a teaching platform, the University of Kansas School of Nursing teaches nurses and other health professional students how to assess, plan, document and manage care in an electronic medium that develops healthcare informatics competencies. The outcomes of this integrated technology curriculum brings hope for transforming health professional education for 21st century practice and graduating a workforce with the leadership and competencies for improving quality and safety in patient care. It results in IT savvy healthcare providers who will cross the quality chasm.
+%Z L46837208
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L46837208
+%+ H. Connors, University of Kansas School of Nursing, KU Center for Healthcare Informatics, Kansas City, Kansas 66160, USA.
+
+
+

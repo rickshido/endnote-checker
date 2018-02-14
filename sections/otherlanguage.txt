@@ -1,0 +1,102 @@
+%0 Journal Article
+%A Chen, S. L.
+%A Lee, M. L.
+%A Liao, I. C.
+%A Liang, T.
+%D 2013
+%T [The development and current status of high-fidelity patient simulation teaching]
+%B Hu li za zhi The journal of nursing
+%V 60
+%N 2
+%P 87-92
+%! [The development and current status of high-fidelity patient simulation teaching]
+%@ 0047-262X
+%K article
+high-fidelity patient simulator
+human
+nursing education
+situational teaching
+teaching
+%X High-fidelity patient simulation teaching represents one of the most important innovations in healthcare education in the past two decades. In Taiwan, many medical centers and medical colleges now have clinical skill centers equipped with a high-fidelity patient simulator. Practicing clinical scenarios in this simulated environment can help strengthen students' professional essentials and competencies outside of classroom and clinical teaching settings. High-fidelity simulation teaching is an integrated teaching strategy that is continuing to receive greater attention. This article describes the historical development of high-fidelity patient simulation teaching, its current status, and applications in nursing education as a reference for nursing educators.
+%Z L369837134
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L369837134
+%+ S.L. Chen, Department of Nursing, Hungkuang University, Taiwan, ROC.
+
+
+
+%0 Journal Article
+%A De Brito, A.
+%A Frérot, C.
+%D 2011
+%T [The experience of e-learning for beginning nursing students]
+%B Revue de l'infirmière
+%V Spec No
+%P 8-10
+%! [The experience of e-learning for beginning nursing students]
+%@ 1293-8505
+%K article
+human
+nursing education
+teaching
+%Z L362839179
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L362839179
+%+ A. De Brito, Institut de Formation Interhospitalier Théodore Simon. Neuilly-sur-Marne.
+
+
+
+%0 Journal Article
+%A De Caro, W.
+%A Marucci, A. R.
+%A Giordani, M.
+%A Sansoni, J.
+%D 2014
+%T E-learning and university nursing education: an overview of reviews
+%B Professioni infermieristiche
+%V 67
+%N 2
+%P 107-116
+%! E-learning and university nursing education: an overview of reviews
+%@ 0033-0205
+%R 10.7429/pi.2013.672107
+%K algorithm
+clinical competence
+evidence based medicine
+evidence based nursing
+human
+Internet
+learning
+nursing education
+problem based learning
+procedures
+trends
+%Z L604691687
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L604691687
+%U http://dx.doi.org/10.7429/pi.2013.672107
+
+
+
+%0 Journal Article
+%A Prado, C.
+%A Vaz, D. R.
+%A de Almeida, D. M.
+%D 2011
+%T [Theory of significant learning: development and evaluation of virtual classroom in Moodle platform]
+%B Revista brasileira de enfermagem
+%V 64
+%N 6
+%P 1114-1121
+%! [Theory of significant learning: development and evaluation of virtual classroom in Moodle platform]
+%@ 0034-7167
+%K article
+evaluation study
+learning
+methodology
+nursing education
+teaching
+%X This study aimed to develop and evaluate the virtual classroom on the Theory of Meaningful learning for undergraduates in nursing. It is applied research, production technology, developed in five phases: design and planning, content development and instructional designer, creation of educational materials, learning portal deployment in Moodle (Modular Object-Oriented Dynamic Learning Environment) and evaluation by judges. The class was developed and was approved, after evaluation by the judges, and adjustments, and will integrate the discipline Methodology of Nursing Teaching I, Degree Course Nursing School of USP. We believe that the purpose of this study favors the formation of the licensing and therefore the future of teaching nursing in a critical and reflective, with the components of a profile of the prospect of seeking and using new knowledge for the development of their professional practice.
+%Z L365920244
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L365920244
+%+ C. Prado, Universidade de São Paulo, Escola de Enfermagem, Grupo de Estudos e Pesquisas de Tecnologia da Informação nos Processos de Trabalho em Enfemagem - GEPETE, São Paulo-SP, Brasil.
+
+
+

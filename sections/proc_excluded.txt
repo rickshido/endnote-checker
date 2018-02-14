@@ -1,0 +1,450 @@
+%0 Journal Article
+%D 2010
+%T Addressing nurses' knowledge and skill needs in providing emotional care to patients: Experiences through an innovative provincial-based program
+%B Psycho-Oncology
+%V 19
+%P S35-S36
+%! Addressing nurses' knowledge and skill needs in providing emotional care to patients: Experiences through an innovative provincial-based program
+%@ 1057-9249
+%R 10.1002/pon.1776
+%K nurse
+patient
+oncology
+skill
+neoplasm
+graduate
+learning
+model
+teacher
+quality of life
+interpersonal communication
+%X SYMPOSIUM DESCRIPTION: Cancer and its treatment has significant impacts on the quality of life of patients and their families. A significant portion of patients experience distress and most patients will benefit through the integration of emotional care throughout their care experience. Nurses play an important role in providing this care and in facilitating appropriate referrals where further expertise or assessment is needed. However, evidence suggests despite a strong desire to integrate this aspect of care into their practice, nurses lack confidence and skill in assessing and managing the complex communication and adjustment issues experiences by patients and their families. Furthermore, although there is some awareness of assessment tools or methods, most nurses do not utilize them or feel uncertain as to how to make referrals with the exception of cases of extreme distress. Purpose: This symposium will provide an overview of a publically funded provincial approach to provide continuing educational courses and as well as at graduate level to nurses at any point along the cancer continuum to assist them to feel more confident and skilled in assessment and provision of emotional care to patients and their families. Learning models include train the trainer programs, elearning modes as well as clinical mentorship. Qualitative and quantitative findings from train the trainer programs and elearning approaches will be presented with a discussion on the implications of the program.
+%Z L70184322
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70184322
+%U http://dx.doi.org/10.1002/pon.1776
+%> http://www3.interscience.wiley.com/cgi-bin/fulltext/123450716/PDFSTART
+
+
+
+%0 Journal Article
+%D 2013
+%T 2013 CAEP/ACMU Scientific Abstracts, CAEP 2013
+%B Canadian Journal of Emergency Medicine
+%V 15
+%P S1
+%! 2013 CAEP/ACMU Scientific Abstracts, CAEP 2013
+%@ 1481-8035
+%K alcohol
+troponin
+troponin I
+midazolam
+aranidipine
+corticosteroid
+antibody
+4 methylpyrazole
+antibiotic agent
+biological marker
+prothrombin complex
+dabigatran
+glucose
+warfarin
+etomidate
+paracetamol
+epinephrine
+sedative agent
+fentanyl
+propofol
+tranexamic acid
+procalcitonin
+steroid
+bronchodilating agent
+emergency ward
+human
+patient
+Canada
+injury
+emergency medicine
+emergency health service
+diagnosis
+resuscitation
+health
+emergency physician
+ultrasound
+emergency
+cerebrovascular accident
+drug therapy
+anaphylaxis
+adult
+mortality
+child
+safety
+meningitis
+atrial fibrillation
+follow up
+community
+bleeding
+risk
+education
+out of hospital cardiac arrest
+hospital
+medical student
+appendicitis
+migraine
+health care personnel
+analgesia
+prevalence
+learning
+lung embolism
+adverse drug reaction
+patient safety
+asthma
+survival
+crowding (area)
+heart arrest
+primary medical care
+aged
+interpersonal communication
+physician
+epidemiology
+methicillin resistant Staphylococcus aureus
+sedation
+technology
+stroke patient
+screening
+ambulance
+consultation
+patient care
+satisfaction
+patient satisfaction
+crowding (vision)
+computer simulation
+chronic disease
+return of spontaneous circulation
+intranasal drug administration
+surgery
+induced hypothermia
+thorax pain
+needs assessment
+sepsis
+blood clot lysis
+simulation
+cancer patient
+student
+university
+systematic review (topic)
+leadership
+decision making
+skill
+model
+chronic obstructive lung disease
+ST segment elevation myocardial infarction
+intoxication
+acute heart failure
+suicidal ideation
+school
+nurse practitioner
+female
+job stress
+fatality
+teledermatology
+tertiary health care
+quality control
+cohort analysis
+total quality management
+ingestion
+pressure support ventilation
+emergency care
+systematic review
+cardioversion
+personal digital assistant
+diagnostic accuracy
+morbidity
+point of care testing
+death
+graduate
+drug use
+prophylaxis
+upper gastrointestinal bleeding
+multiple choice test
+multicenter study
+pneumonia
+demography
+fever
+abdominal blunt trauma
+habit
+sleep
+documentation
+newborn
+fish
+diagnostic imaging
+streptococcal pharyngitis
+checklist
+hospital discharge
+Human immunodeficiency virus 1
+procedures
+tertiary care center
+pharmacist
+social media
+certification
+ambulance transportation
+headache
+qualitative analysis
+teaching
+contamination
+vital sign
+commotio cordis
+police
+venous thromboembolism
+environmental factor
+foreign body
+abrasion
+exercise test
+pain
+heart stress
+noninvasive ventilation
+Delphi study
+outpatient
+first trimester pregnancy
+mother
+lowest income group
+stretcher
+survival rate
+plasma
+anesthesia induction
+relapse
+head injury
+general practitioner
+traumatic brain injury
+standardized mortality ratio
+productivity
+reliability
+extraction
+nursing
+earthquake
+Haiti
+field hospital
+medical care
+corticosteroid therapy
+physician attitude
+addiction
+social status
+heart left ventricle function
+patient scheduling
+arterial gas
+postgraduate education
+positive end expiratory pressure
+kidney colic
+subarachnoid hemorrhage
+gender
+training
+feedback system
+residency education
+fire
+register
+elixir
+pharmacokinetics
+health literacy
+radiation
+length of stay
+low drug dose
+hypertension
+dynamics
+burnout
+assay
+febrile neutropenia
+college
+clinical decision making
+government
+compression
+lumbar puncture
+needle
+thorax
+artifact reduction
+immobilization
+population
+spine
+low back pain
+prediction
+pathology
+dyspnea
+pediatrics
+risk factor
+weight
+sensitivity and specificity
+echography
+rural area
+palliative therapy
+expectant parent
+delirium
+hip fracture
+lung edema
+teaching hospital
+angioneurotic edema
+diagnostic test
+disinfection
+bronchiolitis
+pulse rate
+femur fracture
+lung
+nerve block
+Ethiopia
+functional status
+athlete
+concussion
+respiratory distress
+stethoscope
+city
+electrocardiogram
+Human immunodeficiency virus
+%X The proceedings contain 250 papers. The special focus in this conference is on Emergency Physicians. The topics include: Identification of emergency-sensitive conditions for the Calculation of an emergency care–specific in-hospital standardized mortality ratio; a prospective cohort study to differentiate traumatic tap from true subarachnoid hemorrhage; the impact of perishock pause on survival from out-of-hospital shockable cardiac arrest during the Resuscitation Out-comes Consortium (ROC) primed trial; the impact of prehospital noninvasive positive pressure support ventilation in adult patients with acute respiratory distress; medication-related emergency department visits in pediatrics; Ultra-low-dose CT comparable to standard CT in patients with suspected renal colic; ten-minute educational intervention improves emergency physicians’ ability to interpret left ventricular function; prioritizing corticosteroid treatments to prevent relapse after acute asthma discharge; Evaluation of Ontario’s emergency department process improvement program on emergency department waiting times; a Delphi process to identify interventions to improve bystander CPR rates among Canadian seniors; safety of a system-wide intervention to address access block in 13 congested Alberta hospital EDs; improved thrombolysis rates and quality of care for stroke patients through a provincial emergency department quality improvement initiative; evaluation of a secure, store-and-forward teledermatology system to facilitate emergency physician consultations; The impact of massed versus spaced instruction on learning of procedural skills in pediatric resuscitation; Bedside lung ultrasound for the diagnosis of pulmonary edema in patients presenting with acute dyspnea; disposition of emergency department patients with acute pulmonary embolism in a Canadian health region; Emergency department–initiated interventions for mild traumatic brain injury; a before-after study comparing complications of warfarin reversal using frozen plasma versus Octaplex; implementation of the revised provincial acute Stroke Redirect Protocol in urban and rural settings; validation of a tool for the assessment of trainees during simulated pediatric resuscitation; the sleep habits of junior residents and medical students working in the emergency department; prospective evaluation of a 20-metre walk test in elderly emergency department patients; correlates of 30-day adverse events for ED patients with recent-onset atrial fibrillation and flutter (RAFF); evaluation the effect of emergency department crowding on triage decision making and patient outcomes; the efficacy of pad placement for electrical cardioversion of atrial fibrillation meningitis; a prospective evaluation of the treatment preferences of ED patients with recent-onset atrial fibrillation and flutter (RAFF); children’s satisfaction with pain management in the emergency department; feasibility of implementing an adverse drug event screening program in an emergency department; regional 30-day outcomes in patients presenting to the ED with suicidal ideation or overdose attempt; a survey of factors associated with the use of intraosseous access in adult patients when peripheral intravenous access is not available; the current use of bronchodilators and steroids for the management of bronchiolitis in Canadian pediatric emergency departments; Assessment of adverse events in a primary care paramedic ST elevation myocardial infarction bypass program in a large rural area; a national faculty development needs assessment for Canadian academic emergency medicine; evaluation of Ontario’s Pay-for-Results program on emergency department waiting times; influence of triage time on patient care in children presenting with suspected appendicitis to Canadian pediatric emergency departments; Follow-up and shared care following discharge from the emergency department for exacerbations of chronic disease; the safety of prehospital continuous positive airway pressure use by primary care paramedics; lactate clearance for guidi g the management of septic patients in the emergency department; cardiac arrest post-return of spontaneous circulation emergency medical services initiation of therapeutic hypothermia; A nationwide survey of emergency medical services standards of care for cardiac arrest; angioscan combined with V/Q spect to investigate pulmonary embolism is associated with a lower mortality; acute migraine treatment in the emergency setting; epidemiology of patient presentation to the Canadian Medical Assistance Teams (CMAT) field hospital after the 2010 Haiti earthquake; availability of prehospital information at point of care in the ED and the utility of a structured triage nursing extraction tool; A randomized trial of opinion leader communication to improve primary care follow-up after emergency department discharge for acute asthma and COPD; diagnosis and treatment of anaphylaxis in Edmonton-area emergency departments; trauma nontechnical (TNT) training; utilizing national emergency department quality indicators to evaluate asthma care in an Ontario local health integrated network; head injury management around the clock; creating safety in everyday practice in an urban emergency department; The use of etomidate as an induction agent in trauma patients; Survival rates for out-of-hospital cardiac arrest patients transported without a prehospital return of spontaneous circulation; Survival analysis of patients taking dabigatran who consulted an emergency department for acute bleeding; knowledge translation effects of AHA CPR guidelines in first responder programs in British Columbia; Utility of outpatient cardiac stress tests in low-risk chest pain patients presenting to the emergency department; air medical transfer of patients in preterm labour; Police documentation of alcohol involvement in hospitalized injured drivers; an emergency department sepsis protocol decreases mortality in septic pneumonia patients; prehospital STEMI diagnosis and decision of transport reorientation by the UCCSPU; results from a multicentre study; validation of the Blatchford bleeding score and the Rockall score in cancer patients presenting to the ED with upper gastrointestinal bleeding; the incidence of clinically significant biphasic reactions in emergency department patients and the effectiveness of corticosteroids as prophylaxis; leadership and administration competencies; feasibility of and patient satisfaction with HIV point-of-care testing in the emergency department; a structured educational intervention effectively improves morbidity and mortality (M&M) rounds; exploring the prevalence of adverse events in the treatment of acute migraine headaches in the emergency department; limits to sensemaking; improving stroke and TIA care in the emergency department; using computer simulation modeling techniques to evaluate interventions for increasing patient flow in the emergency department; differences in knowledge, attitudes, and beliefs regarding pain management between EPs and RNs in the emergency department; ASSESSING ambulatory vital signs in the workup of pulmonary embolism by way of a standardized 3-minute walk test; an EPIDEMIOLOGIC profile of resuscitation systems of care performance in out-of-hospital cardiac arrest; point-of-care ultrasound (ACES protocol) improves diagnostic accuracy and confidence in simulated cardiorespiratory scenarios; a prospective evaluation of the utility of the ambulance call record to change the management of patient care in the emergency department; point-of-care ultrasound usage patterns following implementation of an archiving and quality assurance process in an academic tertiary care emergency department; an evaluation of the environmental factors and behavioural factors contributing to bike fatalities in Alberta; sources of support for paramedics managing work-related stress in a Canadian emergency medical service; nurse practitioner follow-up for patients who leave the emergency department without being seen; knowledge translation of guidelines for the emergency department management of recent-onset atrial fib illation and flutter; old school biomarkers in acute decompensated heart failure; analysis of prehospital treatment of pain in the multisystem trauma patient at a community level 2 trauma centre; a before-after study to evaluate the effectiveness and use-fulness of prehospital noninvasive ventilation in an urban setting; nerve blocks for initial pain management of pediatric femur fractures; an elder-friendly electronic hip fracture order set reduces the use of medications associated with delirium; identification of palliative care patients in the emergency department; evaluation of weight estimation and medication dosing errors during pediatric out-of-hospital cardiac arrest in a large urban/rural region; pharmacistled medication review in high-risk emergency department patients; effective intraprofessional ED consultations for collaboration, patient safety, and quality care; Evidence to Excellence; assessing emergency department quality of migraine care in an Ontario local health integrated network; survival in neoplastic meningitis as a function of diagnostic modalities; risk factors for serious underlying pathology in adult emergency department nontraumatic low back pain patients; national EMS survey on selective C-spine immobilization in the field; motion artifact reduction of ECG signal allows for greater chest compression fraction during CPR; outcomes of pediatric patients presenting to the emergency department with a medication-related visit; experiential and rational clinical decision making; national survey of physicians on the need for and sensitivity of a clinical decision rule to identify elderly patients at high risk of functional decline following a minor injury; CLEARER - Canadian learning in EBM among Royal college emergency residencies; comparing the characteristics and management of patients with hypertension at a community versus an academic emergency department; the use of tranexamic acid for bleeding trauma patients at a Canadian academic trauma centre; an exploration of Canadian emergency physicians’ and residents’ knowledge surrounding CT radiation dosing and risk; health literacy and numeracy in the emergency department; patterns of injury in recreational curlers; the effect of implementing high-sensitivity troponin testing on operational efficiency in three large urban emergency departments; high-sensitivity troponin implementation for patients with suspected ACS increases the rule-out rate while reducing revisits resulting in admission; closing the circle of care; propofol is officially the “sedative of choice” in Halifax! an update from the Halifax ED procedural sedation registry; use of an electronic case log to assess resident training in a Canadian emergency department; trends in emergency department use in Ontario, 2003 to 2009; outcome feedback within emergency medicine training programs; the understood serial killer in the backyard; the underdiagnosed, undertreated, and unvanquished disease; gender-specific differences in the prevalence and emergency department management of anaphylaxis; reevaluating epinephrine in out-of-hospital cardiac arrest; relationship between Canadian medical student identification of emergency medicine as a career choice and postgraduate training disposition; limited access to services in Canadian rural emergency departments; Correlation between venous and arterial blood gas samples in emergency department patients; the current use of, perceived benefits of, and barriers to implementation of advanced ultrasound in Canadian emergency departments; evaluating a patient scheduling system in the emergency department using computer simulation modeling techniques; socioeconomic status and the utilization of CT in the emergency department; impact of an addiction assessment knowledge translation strategy on physician attitudes and assessment behaviour; the socioeconomic composition of low-acuity emergency department users in ontario; level of patient satisfaction with the NP role in fast track; data gathering in resuscitation scenarios; tiered response system feas bility of anaphylaxis treatment by fire first responders; acetaminophen elixir pharmacokinetics in children aged 2 to 3 years; evaluation of intranasal fentanyl for pediatric patients in the emergency department; challenging medical dogma; comparing access to services in rural emergency departments in Ontario and Quebec; methicillin-resistant staphylococcus aureus (MRSA) colonization among health care workers in a downtown emergency department in Toronto, Canada; reliability of clinical decision rules to improve the detection of adverse drug events in emergency department patients; the Calgary multifaceted intervention for suspected appendicitis reduces ED length of stay and time to surgery; the impact of “casino shifts” on emergency physician productivity; the Canadian National EMS Research Agenda; barriers, facilitators, recommendations, and priorities for EMS research; establishing priorities for patient safety research in the emergency department; CAEP IEM Committee; musculoskeletal education in emergency medicine residency; development of a novel web-based communication tool to improve emergency department discharge communication with family physicians; critical dynamics in demographic influences on burnout in emergency department health; prehospital anaphylaxis mimics in one Canadian urban centre; a comparison of high-sensitivity cardiac troponin I assay with the current sensitive cardiac troponin I test in the emergency department; the role of procalcitonin and the mascc score in emergency department patients with chemotherapy-induced febrile neutropenia; adverse events in the emergency department; parenteral dextrose utilization in a large, urban EMS system; EMS stretcher “misadventures” in a large, urban EMS system; reduced times for acute stroke patients who receive thrombolysis at royal Melbourne hospital by the implementation of a direct ambulance to ct process; presenting characteristics of patients undergoing cardiac troponin measurements in the emergency department; reporting and learning from prehospital patient safety incidents; development of a new indicator measuring in-hospital mortality of patients with emergency-sensitive conditions; prehospital management of anaphylaxis in one Canadian urban centre;government benefit payments and acute injury among low-income mothers presenting to the emergency department; quantitative assessment of lumbar puncture skill in experts and nonexperts using needle trajectories; knowing is half the battle; treatment of acute copd exacerbations in rural Alberta emergency departments; initial assessment and disposition for the stable patient with first-trimester bleeding in the emergency department; caring for disadvantaged populations in the emergency department; the use of antibiotics in corneal abrasion and corneal foreign bodies in the emergency department; assessing the feasibility of utilizing national emergency department quality indicators to evaluate stroke care in an Ontario local health integrated network; validation of the clinical prediction rule for recurrent venous thromboembolism in cancer patients; emergency department follow-up for unattached patients; validating the McMaster modular assessment program; commotio cordis managed with therapeutic hypothermia; the role of pharmacists within the context of an emergency department–based adverse drug event screening program; the sensitivity and specificity of the focused assessment with sonography for trauma in blunt abdominal injury in a level 1 trauma centre; electronic surveys to study return visits after ED care; making sense of safety; diagnostic outcomes for patients presenting to the emergency department (ED) with chest pain; expectant parents’ understanding of the implications and management of fever in the neonate; demographic characteristics and resource utilization of emergency department frequent users; fish hook removal in the emergency department; an expedited oral contrast protocol for suspected appendicitis does not lead to missed cases requiring surgery; stroke education in emergency medicine residency programs; the need for expanded point-of-care ultrasound training in rural emergency departments across Newfoundland and Labrador; identifying chronic diseases in the ED; three cases of neoplastic meningitis misdiagnosed as infectious meningitis in the emergency department; clinical impact of diagnostic imaging discrepancy and reinterpretation in an urban teaching hospital emergency department; needs assessment survey of homeless and/or substance-using adults presenting to the emergency department; ace-induced angioedema in the emergency department; medical students’ perceptions of novel remedial projects for emergency medicine multiple-choice question exam failures; a retrospective review of the use of a strep throat checklist allowing patient discharge from triage in a moderate-sized community emergency department; diagnostic test characteristics of a point-of-care test for hiv-1 and -2 antibody in the emergency department; comparison of traditional triage scores and CTAS methods with a quick-look triage approach; epidemiology of prehospital emergency responses for older adults in a provincial emergency medical services system; evaluation of a hybrid simulation course for acquisition and maintenance of emergency medicine procedures; effectiveness of a passive educational strategy aimed at improving disinfection of personal items among health care professionals in the emergency department of a tertiary care centre; community uptake of pulse point; bed assignment and bed uptake; utilizing national emergency department quality indicators to evaluate sepsis care in an Ontario local health integrated net-work; prevalence of drug use in injured British Columbia drivers; practice patterns of graduates of the McMaster university CCFP(EM) residency program; the effect of medical trainees on pediatric emergency department flow; fostering leadership in emergency medicine education; online social media use in the emergency department; remote death certification in québec avoids ambulance transports; potential value and utility of technology to foster interprofessional discussion and education among emergency medicine health care professionals; assessing equity of care in an emergency department using patient experience surveys; physicians’ perspectives on effectiveness of intranasal midazolam for emergency department procedural sedation in children; personal digital assistant use by emergency medicine residents in Ethiopia; the functional status assessment of seniors in the emergency department (FSAS-ED); why university athletes do not seek medical attention following concussion symptoms; in situ simulation in an emergency department; a systematic review of ethanol and fomepizole use in pediatric toxic alcohol ingestions; qualitative analysis of teaching satisfaction among residents rotating through three emergency departments; common diagnoses and outcomes of elderly patients presenting to the emergency department with nonspecific complaints; factors in uptake by EMS of a new medicalert enroute notification technology and stethoscope contamination with methicillin-resistant staphylococcus aureus in an inner-city emergency department.
+%Z L75003618
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L75003618
+
+
+
+%0 Journal Article
+%D 2013
+%T 9th Congress of the EUGMS
+%B European Geriatric Medicine
+%V 4
+%! 9th Congress of the EUGMS
+%@ 1878-7649
+%K European Union
+geriatrics
+society
+human
+drug therapy
+fracture
+patient
+monitoring
+rehabilitation
+learning environment
+medical student
+education
+muscle
+electronic prescribing
+nursing home
+aged
+outpatient department
+beer
+therapy
+lymphoma
+dementia
+general hospital
+United Kingdom
+diabetes mellitus
+prevention
+health
+senescence
+sensor
+%X The proceedings contain 697 papers. The topics discussed include: sensor-based home activity monitoring of geriatric fracture patients in rehabilitation - the GAL NATARS study; the prescribing optimization method in the e-learning environment psribe is an effective method for medical students' education on pharmacotherapy; electronic prescription alerts based on STOPP criteria; evaluation of potentially inappropriate medication in elderly followed up at a Portuguese geriatric outpatient clinic according to 2012 beers criteria; therapy in malignant lymphoma in 80 years or over; persisting deficits in comprehensive assessment for people with dementia in general hospitals in the UK; diabetic residents in nursing homes - are they provided recommended care? results from the SHELTER study; prevention is better than cure - also in geriatric medicine; and EAMA symposium: optimizing muscle health and functional performance in old age.
+%Z L71182587
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L71182587
+
+
+
+%0 Journal Article
+%D 2015
+%T Abstracts from the American College of Clinical Pharmacy 2015 Global Conference on Clinical Pharmacy Scientific
+%B Pharmacotherapy
+%V 35
+%N 11
+%! Abstracts from the American College of Clinical Pharmacy 2015 Global Conference on Clinical Pharmacy Scientific
+%@ 0277-0008
+%K anticoagulant agent
+clinical pharmacy
+college
+American
+human
+clinical research
+medication error
+patient care
+workshop
+community hospital
+family medicine
+prevention
+skill
+death
+Honduras
+drug therapy
+therapy
+needs assessment
+student
+medication therapy management
+total knee arthroplasty
+emergency ward
+pharmacist
+North America
+nursing home patient
+overactive bladder
+urine incontinence
+health care
+public hospital
+teamwork
+terminal care
+total hip prosthesis
+university
+United States
+health
+%X The proceedings contain 480 papers. The topics discussed include: implementation and outcomes from an interprofessional simulated patient care experience on end-of-life care and attitudes toward death; evaluation of an interprofessional workshop on medication error prevention: building teamwork in healthcare; the perceived importance of clinical research skills: a needs assessment to inform the development of a clinical research methods elective for PharmD students; using a cloud-based platform to identify discrepancies during medication reconciliation in a community hospital emergency department; scholarly contributions of pharmacist educators in family medicine in North America: a five-year review; limitations to antimuscarinic use in nursing home residents with overactive bladder and/or urinary incontinence; barriers to sustainable medication supply chain in a public hospital in Roatan, Honduras; and a retrospective comparative evaluation of antithrombotic therapy after total hip arthroplasty or total knee arthroplasty at University of Colorado health.
+%Z L72159754
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L72159754
+
+
+
+%0 Journal Article
+%A Mazzoleni, M. C.
+%A Rognoni, C.
+%A Finozzi, E.
+%A Capodaglio, E.
+%A Giorgi, I.
+%A Imbriani, M.
+%D 2008
+%T Preliminary evaluation of an e-learning course for healthcare personnel
+%B AMIA ... Annual Symposium proceedings / AMIA Symposium. AMIA Symposium
+%P 1116
+%! Preliminary evaluation of an e-learning course for healthcare personnel
+%@ 1942-597X
+%K article
+education
+Italy
+methodology
+nursing education
+physiotherapy
+teaching
+%X Preliminary evaluation of an e-learning system for nurses and physiotherapists is presented. The results lead to positive conclusions, but traditional paper-based materials still play an important role in learning activity.
+%Z L550288931
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L550288931
+%+ M.C. Mazzoleni, S. Maugeri Foundation IRCCS, Pavia, Italy.
+
+
+
+%0 Journal Article
+%A O'Neill, P. N.
+%A Adsit, K. I.
+%A Volker, D.
+%D 1991
+%T An interactive case study assessment. Nursing care of the cancer patient with compromised immunity: practicum cases
+%B Proceedings / the ... Annual Symposium on Computer Application [sic] in Medical Care. Symposium on Computer Applications in Medical Care
+%P 961-963
+%! An interactive case study assessment. Nursing care of the cancer patient with compromised immunity: practicum cases
+%@ 0195-4210
+%K article
+education
+human
+immune deficiency
+immunology
+microcomputer
+neoplasm
+nursing
+oncology nursing
+teaching
+United States
+videorecording
+%X This demonstration will present an interactive videodisc (IVD) case study assessment of nursing care of the immunocompromised cancer patient. This module is the third part of a series of instructional IVD programs entitled Nursing Care of the Cancer Patient with Compromised Immunity. The series has been developed to provide education for fourth year nursing students, experienced nurses new to the field of oncology nursing, and for continuing education. The series has been developed to run on an InfoWindow platform and can also run on an M-Motion system. The demonstration will cover the rationale, treatment, content, and instructional strategies used in the module. The technology including the development platform and authoring environment will also be presented.
+%Z L22905300
+%U http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L22905300
+%+ P.N. O'Neill, University of Texas M.D. Anderson Cancer Center, Houston 77030.
+
+
+
